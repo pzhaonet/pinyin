@@ -14,6 +14,7 @@
 #' @examples zh2py()
 zh2py <- function(mychar, method = c('quanpin', 'tone', 'toneless')[1], sep = '_', nonezh_replace = NULL, only_first_letter = FALSE) {
   py <- pylib(method = method, first = TRUE, only_first_letter)
+  zh <- names(py)
   mycharsingle <- strsplit(mychar, split = '')[[1]]
   myreplace <- function(x) {
     if (sum(x == zh) == 0) ifelse(is.null(nonezh_replace), x, nonezh_replace) else py[x == zh]
@@ -62,6 +63,7 @@ pylib <- function(method = c('quanpin', 'tone', 'toneless')[1], first = TRUE, on
     )
   }
   if (only_first_letter) pylib <- substr(pylib, 1, 1)
+  names(pylib) <- zh
   return(pylib)
 }
 
