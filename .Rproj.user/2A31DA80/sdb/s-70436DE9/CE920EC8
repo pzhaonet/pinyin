@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "setwd('D:\\\\googledrive\\\\a0\\\\pzhao\\\\')\nblogdown::build_site()\nblogdown::serve_site()\nlibrary(postr)\ncitation('postr')\ncitation('blogdown')\n",
+    "created" : 1495826115943.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1094274247",
+    "id" : "CE920EC8",
+    "lastKnownWriteTime" : 1495547422,
+    "last_content_update" : 1495547422,
+    "path" : "D:/googledrive/a0/pzhao/_start.R",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
