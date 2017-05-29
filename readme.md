@@ -14,7 +14,7 @@ devtools::install_github("pzhaonet/pinyin")
 
 ## 使用方法
 
-pinyin 0.0.0版包含3个函数.`zh2py()`是主函数，可以把一个带汉字的字符串转换成拼音。可以选择:
+pinyin 0.0.0版包含4个函数.`zh2py()`是主函数，可以把一个带汉字的字符串转换成拼音。可以选择:
 
 -   转换成标准的全拼 (默认 `method = 'quanpin'`)，或
 -   以数字表示声调 (`method = 'tone'`) , 或
@@ -79,10 +79,11 @@ sapply(c('羌笛何须怨杨柳', '春风不度玉门关'), zh2py)
     ##                 羌笛何须怨杨柳                 春风不度玉门关 
     ## "qiānɡ_dí_hé_xū_yuàn_yánɡ_liǔ"  "chūn_fēnɡ_bú_dù_yù_mén_ɡuān"
 
-其他两个函数，其实是 `zh2py()` 的延伸和示例：
+其他3个函数，其实是 `zh2py()` 的延伸和示例：
 
--   `file.rename2py()`用来将文件名里的汉字转换成拼音。
--   `bookdown2py()`是专门为 bookdown 包服务的，作用是为章节的中文标题自动添加个对应的拼音ID `{#biaotipinyin}`，避免在生成网页文件时文件名里出现一大堆乱码，并且解决[标题里中英文混合的问题](https://disqus.com/home/discussion/yihui/_yihui_xie_679/#comment-3175332429)。这事儿已经让我惦记三个月了。--- 当然这事儿手动完全可以处理，只是手动处理的过程毫无乐趣可言罢了。
+- `file.rename2py()`用来将文件名里的汉字转换成拼音。
+- `file2py()` 用来将指定文件夹里的一个文件或多个文件里的汉字全部转换成拼音。 
+- `bookdown2py()`是专门为 bookdown 包服务的，作用是为章节的中文标题自动添加个对应的拼音ID `{#biaotipinyin}`，避免在生成网页文件时文件名里出现一大堆乱码，并且解决[标题里中英文混合的问题](https://disqus.com/home/discussion/yihui/_yihui_xie_679/#comment-3175332429)。这事儿已经让我惦记三个月了。--- 当然这事儿手动完全可以处理，只是手动处理的过程毫无乐趣可言罢了。
 
 拼音库我试了好几个，最后选定了[wangyanhan整理制作的42856字拼音表](http://bbs.unispim.com/forum.php?mod=viewthread&tid=31644)，直接处理文本文件，简单粗暴，转换起来可能有点慢，会顿一下，但已经够我自用了。
 
@@ -92,4 +93,5 @@ sapply(c('羌笛何须怨杨柳', '春风不度玉门关'), zh2py)
 
 ## Updates
 
-- 2017-05-26. *Version 0.0.0***. Preliminary.
+- 2017-05-29. **Version 0.1.0**. A new function `file2py()` was created according to Dong's comment. 
+- 2017-05-26. **Version 0.0.0**. Preliminary.

@@ -9,9 +9,9 @@ pylib(method = c("quanpin", "tone", "toneless")[1], first = TRUE,
 }
 \arguments{
 \item{method}{character. The value can be:
-- 'quanpin', when '汉字' is to be converted to 'hàn zì',
-- 'tone', when '汉字' is to be converted to han4 zi4,
-- 'toneless', when '汉字' is to be converted to 'han zi'}
+- 'quanpin', for the standard form of pinyin (tones above letters),
+- 'tone', for tones expressed with numbers,
+- 'toneless', without tones}
 
 \item{first}{logical. Whether only display the first pronounciation of multiple pronounciations of a Chinese character.}
 

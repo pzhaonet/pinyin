@@ -2,9 +2,9 @@
 #'
 #' @param mychar character. A Chinese character or string to convert to pinyin
 #' @param method character. The value can be:
-#' - 'quanpin', when '汉字' is to be converted to 'hàn zì',
-#' - 'tone', when '汉字' is to be converted to han4 zi4,
-#' - 'toneless', when '汉字' is to be converted to 'han zi'
+#' - 'quanpin', for the standard form of pinyin (tones above letters),
+#' - 'tone', for tones expressed with numbers,
+#' - 'toneless', without tones
 #' @param sep character. Seperation between the converted pinyin.
 #' @param nonezh_replace NULL or character. Define how to convert non-Chinese characters in mychar. NULL means 'let it be'.
 #' @param only_first_letter logical. Wheter only the first letter in pinyin.
@@ -23,14 +23,13 @@ zh2py <- function(mychar, method = c('quanpin', 'tone', 'toneless')[1], sep = '_
   return(zh2py)
 }
 
-
 #############################################################
 #' A Pinyin library
 #'
 #' @param method character. The value can be:
-#' - 'quanpin', when '汉字' is to be converted to 'hàn zì',
-#' - 'tone', when '汉字' is to be converted to han4 zi4,
-#' - 'toneless', when '汉字' is to be converted to 'han zi'
+#' - 'quanpin', for the standard form of pinyin (tones above letters),
+#' - 'tone', for tones expressed with numbers,
+#' - 'toneless', without tones
 #' @param first logical. Whether only display the first pronounciation of multiple pronounciations of a Chinese character.
 #' @param only_first_letter logical. Wheter only the first letter in pinyin.
 #'
@@ -108,5 +107,31 @@ bookdown2py <- function(folder = 'mm', remove_curly_bracket = TRUE) {
       md[headerloc] <- paste(md[headerloc], ' {#', headerpy, '}', sep = '')
     }
     writeLines(text = md, filename, useBytes = TRUE)
+  }
+}
+
+#############################################################
+#' Convert entire files into Pinyin
+#'
+#' @param folder character. The folder in which the files are to be converted.
+#' @param backup logical. Whether the original files should be saved as backups.
+#' @param method character. The value can be:
+#' - 'quanpin', for the standard form of pinyin (tones above letters),
+#' - 'tone', for tones expressed with numbers,
+#' - 'toneless', without tones
+#' @param sep character. Seperation between the converted pinyin.
+#' @param nonezh_replace NULL or character. Define how to convert non-Chinese characters in mychar. NULL means 'let it be'.
+#' @param only_first_letter logical. Wheter only the first letter in pinyin.
+#'
+#' @return files converted to Pinyin.
+#' @export
+#'
+#' @examples file2py()
+file2py <- function(folder = 'pinyin', backup = TRUE, method = c('quanpin', 'tone', 'toneless')[1], sep = ' ', nonezh_replace = NULL, only_first_letter = FALSE) {
+  for (filename in dir(folder, full.names = TRUE)) {
+    if (backup) file.copy(filename, to = paste0(filename, 'backup'))
+    oldfile <- readLines(filename, encoding = 'UTF-8')
+    newfile <- sapply(oldfile, zh2py, method = method, sep = sep, nonezh_replace = nonezh_replace, only_first_letter = only_first_letter)
+    writeLines(text = newfile, filename, useBytes = TRUE)
   }
 }
