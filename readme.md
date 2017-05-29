@@ -57,10 +57,10 @@ zh2py('羌笛何须怨杨柳春风不度玉门关', sep = '', only_first_letter 
     ## [1] "qdhxyylcfbdymɡ"
 
 ``` r
-zh2py('羌笛何须怨?杨柳春风,不度玉门关.', sep = '', nonezh_replace = '-')
+zh2py('羌笛何须怨?杨柳春风,不度玉门关.', sep = '')
 ```
 
-    ## [1] "qiānɡdíhéxūyuàn-yánɡliǔchūnfēnɡ-búdùyùménɡuān-"
+    ## [1] "qiānɡdíhéxūyuàn?yánɡliǔchūnfēnɡ,búdùyùménɡuān."
 
 如果自变量是多个字符串的向量，那么只会转换第一个字符串：
 
@@ -91,7 +91,10 @@ sapply(c('羌笛何须怨杨柳', '春风不度玉门关'), zh2py)
 
 结果好尴尬。
 
+所以这时请用`zh2py()`的参数`multi = TRUE`，这样就把多个读音都列出来，请自选。
+
 ## Updates
 
+- 2017-05-29. **Version 0.2.0**. `zh2py(multi = TRUE)` to display multiple procounciations of a Chinese character.
 - 2017-05-29. **Version 0.1.0**. A new function `file2py()` was created according to Dong's comment. 
 - 2017-05-26. **Version 0.0.0**. Preliminary.

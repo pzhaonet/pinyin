@@ -4,16 +4,18 @@
 \alias{pylib}
 \title{A Pinyin library}
 \usage{
-pylib(method = c("quanpin", "tone", "toneless")[1], first = TRUE, 
+pylib(method = c("quanpin", "tone", "toneless")[1], multi = FALSE, 
     only_first_letter = FALSE)
 }
 \arguments{
 \item{method}{character. The value can be:
-- 'quanpin', for the standard form of pinyin (tones above letters),
-- 'tone', for tones expressed with numbers,
-- 'toneless', without tones}
+\itemize{
+\item 'quanpin', for the standard form of pinyin (tones above letters),
+\item 'tone', for tones expressed with numbers,
+\item 'toneless', without tones
+}}
 
-\item{first}{logical. Whether only display the first pronounciation of multiple pronounciations of a Chinese character.}
+\item{multi}{logical. Whether display multiple pronounciations of a Chinese character or only the first pronounciation.}
 
 \item{only_first_letter}{logical. Wheter only the first letter in pinyin.}
 }
@@ -25,5 +27,5 @@ A Pinyin library
 }
 \examples{
 pylib()
-pylib(first = FALSE)
+pylib(first_of_multi = FALSE)
 }

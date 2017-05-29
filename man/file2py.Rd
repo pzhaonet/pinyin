@@ -13,9 +13,11 @@ file2py(folder = "pinyin", backup = TRUE, method = c("quanpin", "tone", "toneles
 \item{backup}{logical. Whether the original files should be saved as backups.}
 
 \item{method}{character. The value can be:
-- 'quanpin', for the standard form of pinyin (tones above letters),
-- 'tone', for tones expressed with numbers,
-- 'toneless', without tones}
+\itemize{
+\item 'quanpin', for the standard form of pinyin (tones above letters),
+\item 'tone', for tones expressed with numbers,
+\item 'toneless', without tones
+}}
 
 \item{sep}{character. Seperation between the converted pinyin.}
 

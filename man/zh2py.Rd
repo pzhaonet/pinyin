@@ -5,19 +5,23 @@
 \title{Concert Chinese characters into Pinyin.}
 \usage{
 zh2py(mychar, method = c("quanpin", "tone", "toneless")[1], sep = "_", 
-    nonezh_replace = NULL, only_first_letter = FALSE)
+    nonezh_replace = NULL, multi = FALSE, only_first_letter = FALSE)
 }
 \arguments{
 \item{mychar}{character. A Chinese character or string to convert to pinyin}
 
 \item{method}{character. The value can be:
-- 'quanpin', for the standard form of pinyin (tones above letters),
-- 'tone', for tones expressed with numbers,
-- 'toneless', without tones}
+\itemize{
+\item 'quanpin', for the standard form of pinyin (tones above letters),
+\item 'tone', for tones expressed with numbers,
+\item 'toneless', without tones
+}}
 
 \item{sep}{character. Seperation between the converted pinyin.}
 
 \item{nonezh_replace}{NULL or character. Define how to convert non-Chinese characters in mychar. NULL means 'let it be'.}
+
+\item{multi}{logical. Whether display multiple pronounciations of a Chinese character or only the first pronounciation.}
 
 \item{only_first_letter}{logical. Wheter only the first letter in pinyin.}
 }
