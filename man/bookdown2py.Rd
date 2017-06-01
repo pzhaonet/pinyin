@@ -17,6 +17,3 @@ new .Rmd files with Pinyin headers.
 \description{
 Convert the Chinese headers of bookdown .Rmd files into Pinyin
 }
-\examples{
-bookdown2py()
-}

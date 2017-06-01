@@ -25,7 +25,3 @@ a Pinyin library.
 \description{
 A Pinyin library
 }
-\examples{
-pylib()
-pylib(first_of_multi = FALSE)
-}

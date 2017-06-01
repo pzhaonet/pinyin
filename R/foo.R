@@ -12,8 +12,7 @@
 #'
 #' @return pinyin of the given Chinese character.
 #' @export
-#' @examples pinyin()
-pinyin <- function(mychar, method = c('quanpin', 'tone', 'toneless')[1], sep = '_', nonezh_replace = NULL, multi = FALSE, only_first_letter = FALSE) {
+pinyin <- function(mychar = '', method = c('quanpin', 'tone', 'toneless')[1], sep = '_', nonezh_replace = NULL, multi = FALSE, only_first_letter = FALSE) {
   py <- pylib(method = method, multi = multi, only_first_letter = only_first_letter)
   zh <- names(py)
   mycharsingle <- strsplit(mychar, split = '')[[1]]
@@ -37,11 +36,9 @@ pinyin <- function(mychar, method = c('quanpin', 'tone', 'toneless')[1], sep = '
 #' @return a Pinyin library.
 #' @export
 #'
-#' @examples pylib()
-#' pylib(first_of_multi = FALSE)
 pylib <- function(method = c('quanpin', 'tone', 'toneless')[1], multi = FALSE, only_first_letter = FALSE) {
   mystrsplit <- function(x) strsplit(x, split = ' ')[[1]][1]
-  lib <- readLines(paste0(.libPaths(), '/pinyin/lib/zh.txt'), encoding = 'UTF-8', skip = 48) # read source file
+  lib <- readLines(paste0(.libPaths(), '/pinyin/lib/zh.txt'), encoding = 'UTF-8') # read source file
   lib <- lib[49:length(lib)] # skip lines
   lib <- lib[-grep('^#', lib)] # remove headers
   lib <- lib[-which(nchar(lib) == 0)] # remove blank lines
@@ -78,7 +75,6 @@ pylib <- function(method = c('quanpin', 'tone', 'toneless')[1], multi = FALSE, o
 #' @return files with new names.
 #' @export
 #'
-#' @examples file.rename2py()
 file.rename2py <- function(mydir = '/') {
   oldname <- dir(mydir, full.names = TRUE)
   newname <- paste(mydir, sapply(dir(mydir), pinyin, method = 'toneless', sep = '', nonezh_replace = NULL, only_first_letter = TRUE), sep = '/')
@@ -94,7 +90,6 @@ file.rename2py <- function(mydir = '/') {
 #' @return new .Rmd files with Pinyin headers.
 #' @export
 #'
-#' @examples bookdown2py()
 bookdown2py <- function(folder = 'mm', remove_curly_bracket = TRUE) {
   for (filename in dir(folder, full.names = TRUE)) {
     # filename <- dir(folder, full.names = TRUE)[1]
@@ -129,7 +124,6 @@ bookdown2py <- function(folder = 'mm', remove_curly_bracket = TRUE) {
 #' @return files converted to Pinyin.
 #' @export
 #'
-#' @examples file2py()
 file2py <- function(folder = 'pinyin', backup = TRUE, method = c('quanpin', 'tone', 'toneless')[1], sep = ' ', nonezh_replace = NULL, only_first_letter = FALSE) {
   i <- 0
   filedir <- dir(folder, full.names = TRUE)

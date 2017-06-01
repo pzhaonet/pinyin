@@ -15,6 +15,3 @@ files with new names.
 \description{
 Renames files with Chinese characters to pinyin
 }
-\examples{
-file.rename2py()
-}

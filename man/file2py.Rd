@@ -31,6 +31,3 @@ files converted to Pinyin.
 \description{
 Convert entire files into Pinyin
 }
-\examples{
-file2py()
-}
