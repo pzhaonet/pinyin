@@ -2,7 +2,7 @@
 % Please edit documentation in R/foo.R
 \name{file.rename2py}
 \alias{file.rename2py}
-\title{Renames files with Chinese characters to pinyin}
+\title{Rename files with Chinese characters to pinyin}
 \usage{
 file.rename2py(mydir = "/")
 }
@@ -13,5 +13,5 @@ file.rename2py(mydir = "/")
 files with new names.
 }
 \description{
-Renames files with Chinese characters to pinyin
+Rename files with Chinese characters to pinyin
 }

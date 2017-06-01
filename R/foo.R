@@ -1,4 +1,4 @@
-#' Concert Chinese characters into Pinyin.
+#' Convert Chinese characters into Pinyin.
 #'
 #' @param mychar character. A Chinese character or string to convert to pinyin
 #' @param method character. The value can be:
@@ -38,7 +38,8 @@ pinyin <- function(mychar = '', method = c('quanpin', 'tone', 'toneless')[1], se
 #'
 pylib <- function(method = c('quanpin', 'tone', 'toneless')[1], multi = FALSE, only_first_letter = FALSE) {
   mystrsplit <- function(x) strsplit(x, split = ' ')[[1]][1]
-  lib <- readLines(paste0(.libPaths(), '/pinyin/lib/zh.txt'), encoding = 'UTF-8') # read source file
+  mypath <- paste0(.libPaths(), '/pinyin/lib/zh.txt')
+  lib <- readLines(mypath[file.exists(mypath)][1], encoding = 'UTF-8') # read source file.   # for ubuntu users
   lib <- lib[49:length(lib)] # skip lines
   lib <- lib[-grep('^#', lib)] # remove headers
   lib <- lib[-which(nchar(lib) == 0)] # remove blank lines
@@ -68,7 +69,7 @@ pylib <- function(method = c('quanpin', 'tone', 'toneless')[1], multi = FALSE, o
 
 
 #############################################################
-#' Renames files with Chinese characters to pinyin
+#' Rename files with Chinese characters to pinyin
 #'
 #' @param mydir character. The folder in which the files are to be renamed.
 #'

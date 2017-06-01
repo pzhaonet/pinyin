@@ -2,7 +2,7 @@
 % Please edit documentation in R/foo.R
 \name{pinyin}
 \alias{pinyin}
-\title{Concert Chinese characters into Pinyin.}
+\title{Convert Chinese characters into Pinyin.}
 \usage{
 pinyin(mychar = "", method = c("quanpin", "tone", "toneless")[1], sep = "_", 
     nonezh_replace = NULL, multi = FALSE, only_first_letter = FALSE)
@@ -29,5 +29,5 @@ pinyin(mychar = "", method = c("quanpin", "tone", "toneless")[1], sep = "_",
 pinyin of the given Chinese character.
 }
 \description{
-Concert Chinese characters into Pinyin.
+Convert Chinese characters into Pinyin.
 }
