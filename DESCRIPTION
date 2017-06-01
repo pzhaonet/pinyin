@@ -1,16 +1,16 @@
 Package: pinyin
-Version: 0.2.0
+Version: 1.0.0
 Date: 2017-05-26
 Title: Convert Chinese characters into Pinyin
 Author: Peng Zhao
 Maintainer: Peng Zhao <pzhao@pzhao.net>
 Depends: R (>= 3.1.0)
-Imports:
+Imports: 
 Suggests:
 Description: An R package for converting Chinese characters into Pinyin
 License: GPL
-URL: https://github.com/pzhao/pinyin
-BugReports: https://github.com/pzhao/pinyin/issues
+URL: https://github.com/pzhaonet/pinyin
+BugReports: https://github.com/pzhaonet/pinyin/issues
 VignetteBuilder: knitr
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 6.0.1

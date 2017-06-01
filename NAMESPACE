@@ -3,5 +3,5 @@
 export(bookdown2py)
 export(file.rename2py)
 export(file2py)
+export(pinyin)
 export(pylib)
-export(zh2py)

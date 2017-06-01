@@ -12,16 +12,16 @@
 #'
 #' @return pinyin of the given Chinese character.
 #' @export
-#' @examples zh2py()
-zh2py <- function(mychar, method = c('quanpin', 'tone', 'toneless')[1], sep = '_', nonezh_replace = NULL, multi = FALSE, only_first_letter = FALSE) {
+#' @examples pinyin()
+pinyin <- function(mychar, method = c('quanpin', 'tone', 'toneless')[1], sep = '_', nonezh_replace = NULL, multi = FALSE, only_first_letter = FALSE) {
   py <- pylib(method = method, multi = multi, only_first_letter = only_first_letter)
   zh <- names(py)
   mycharsingle <- strsplit(mychar, split = '')[[1]]
   myreplace <- function(x) {
     if (sum(x == zh) == 0) ifelse(is.null(nonezh_replace), x, nonezh_replace) else py[x == zh]
   }
-  zh2py <- paste(sapply(mycharsingle, myreplace), collapse = sep)
-  return(zh2py)
+  pinyin <- paste(sapply(mycharsingle, myreplace), collapse = sep)
+  return(pinyin)
 }
 
 #############################################################
@@ -81,7 +81,7 @@ pylib <- function(method = c('quanpin', 'tone', 'toneless')[1], multi = FALSE, o
 #' @examples file.rename2py()
 file.rename2py <- function(mydir = '/') {
   oldname <- dir(mydir, full.names = TRUE)
-  newname <- paste(mydir, sapply(dir(mydir), zh2py, method = 'toneless', sep = '', nonezh_replace = NULL, only_first_letter = TRUE), sep = '/')
+  newname <- paste(mydir, sapply(dir(mydir), pinyin, method = 'toneless', sep = '', nonezh_replace = NULL, only_first_letter = TRUE), sep = '/')
   file.rename(oldname, newname)
 }
 
@@ -106,7 +106,7 @@ bookdown2py <- function(folder = 'mm', remove_curly_bracket = TRUE) {
     if (length(codeloc) > 0) headerloc <- headerloc[!sapply(headerloc, function(x) sum(x > codeloc[seq(1, length(codeloc), by = 2)] & x < codeloc[seq(2, length(codeloc), by = 2)])) == 1]
     if (remove_curly_bracket) md[headerloc] <- gsub(pattern = '\\{.*\\}', '', md[headerloc])
     for (i in headerloc){
-      headerpy <- zh2py(mychar = sub('^#* ', '', md[headerloc]), method = 'toneless', sep = '', nonezh_replace = '', only_first_letter = TRUE)
+      headerpy <- pinyin(mychar = sub('^#* ', '', md[headerloc]), method = 'toneless', sep = '', nonezh_replace = '', only_first_letter = TRUE)
       md[headerloc] <- paste(md[headerloc], ' {#', headerpy, '}', sep = '')
     }
     writeLines(text = md, filename, useBytes = TRUE)
@@ -139,8 +139,9 @@ file2py <- function(folder = 'pinyin', backup = TRUE, method = c('quanpin', 'ton
     i <- i + 1
     if (backup) file.copy(filename, to = paste0(filename, 'backup'))
     oldfile <- readLines(filename, encoding = 'UTF-8')
-    newfile <- sapply(oldfile, zh2py, method = method, sep = sep, nonezh_replace = nonezh_replace, only_first_letter = only_first_letter)
+    newfile <- sapply(oldfile, pinyin, method = method, sep = sep, nonezh_replace = nonezh_replace, only_first_letter = only_first_letter)
     writeLines(text = newfile, filename, useBytes = TRUE)
     print(paste(filename, 'converted.',  i, '/', filenr))
   }
+  print('Done!')
 }
