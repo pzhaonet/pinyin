@@ -4,14 +4,17 @@
 \alias{file.rename2py}
 \title{Rename files with Chinese characters to pinyin}
 \usage{
-file.rename2py(mydir = "/")
+file.rename2py(folder = "py")
 }
 \arguments{
-\item{mydir}{character. The folder in which the files are to be renamed.}
+\item{folder}{character. The folder in which the files are to be renamed.}
 }
 \value{
 files with new names.
 }
 \description{
 Rename files with Chinese characters to pinyin
+}
+\examples{
+file.rename2py()
 }

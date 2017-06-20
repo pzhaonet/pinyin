@@ -4,7 +4,7 @@
 \alias{bookdown2py}
 \title{Convert the Chinese headers of bookdown .Rmd files into Pinyin}
 \usage{
-bookdown2py(folder = "mm", remove_curly_bracket = TRUE)
+bookdown2py(folder = "py", remove_curly_bracket = TRUE)
 }
 \arguments{
 \item{folder}{character. The folder in which the files are to be converted.}
@@ -16,4 +16,7 @@ new .Rmd files with Pinyin headers.
 }
 \description{
 Convert the Chinese headers of bookdown .Rmd files into Pinyin
+}
+\examples{
+bookdown2py()
 }

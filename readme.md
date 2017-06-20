@@ -16,6 +16,8 @@ Since this package deals with Chinese characters, it is presumed that the users 
 ## Installation 安装方法 [ān zhuānɡ fānɡ fǎ]
 
 ```{r, eval=FALSE}
+install.packages('pinyin')
+# or
 devtools::install_github("pzhaonet/pinyin")
 ```
 
@@ -116,7 +118,7 @@ sapply(c('羌笛何须怨杨柳', '春风不度玉门关'), pinyin)
 
     ##                 羌笛何须怨杨柳                 春风不度玉门关 
     ## "qiānɡ_dí_hé_xū_yuàn_yánɡ_liǔ"  "chūn_fēnɡ_bú_dù_yù_mén_ɡuān"
-    
+
 ## Pinyin library 拼音库 [pīn yīn kù]
 
 拼音库我试了好几个，最后选定了[wangyanhan整理制作的42856字拼音表](http://bbs.unispim.com/forum.php?mod=viewthread&tid=31644)，直接处理文本文件，简单粗暴，转换起来可能有点慢，会愣一下。如果转换比较大的文本文件，请保持耐心。
@@ -130,6 +132,7 @@ sapply(c('羌笛何须怨杨柳', '春风不度玉门关'), pinyin)
 
 ## Updates
 
+- 2017-06-19. **Version 1.0.2**. Published on CRAN!
 - 2017-06-01. **Version 1.0.0**. `zh2py()` has been removed. Now the main function is `pinyin()`. Submitted to CRAN!
 - 2017-05-29. **Version 0.2.0**. `zh2py(multi = TRUE)` to display multiple procounciations of a Chinese character.
 - 2017-05-29. **Version 0.1.0**. A new function `file2py()` was created according to Dong's comment. 
