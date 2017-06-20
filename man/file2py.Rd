@@ -4,7 +4,7 @@
 \alias{file2py}
 \title{Convert entire files into Pinyin}
 \usage{
-file2py(folder = "py", backup = TRUE, method = c("quanpin", "tone", "toneless")[1], 
+file2py(folder = "py", backup = TRUE, method = c("quanpin", "tone", "toneless"), 
     sep = " ", nonezh_replace = NULL, only_first_letter = FALSE, multi = FALSE, 
     encoding = "UTF-8")
 }

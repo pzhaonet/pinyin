@@ -4,7 +4,7 @@
 \alias{pinyin}
 \title{Convert Chinese characters into Pinyin.}
 \usage{
-pinyin(mychar = "", method = c("quanpin", "tone", "toneless")[1], sep = "_", 
+pinyin(mychar = "", method = c("quanpin", "tone", "toneless"), sep = "_", 
     nonezh_replace = NULL, multi = FALSE, only_first_letter = FALSE)
 }
 \arguments{
