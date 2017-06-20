@@ -4,8 +4,9 @@
 \alias{file2py}
 \title{Convert entire files into Pinyin}
 \usage{
-file2py(folder = "pinyin", backup = TRUE, method = c("quanpin", "tone", "toneless")[1], 
-    sep = " ", nonezh_replace = NULL, only_first_letter = FALSE)
+file2py(folder = "py", backup = TRUE, method = c("quanpin", "tone", "toneless")[1], 
+    sep = " ", nonezh_replace = NULL, only_first_letter = FALSE, multi = FALSE, 
+    encoding = "UTF-8")
 }
 \arguments{
 \item{folder}{character. The folder in which the files are to be converted.}
@@ -24,10 +25,17 @@ file2py(folder = "pinyin", backup = TRUE, method = c("quanpin", "tone", "toneles
 \item{nonezh_replace}{NULL or character. Define how to convert non-Chinese characters in mychar. NULL means 'let it be'.}
 
 \item{only_first_letter}{logical. Wheter only the first letter in pinyin.}
+
+\item{multi}{logical. Whether display multiple pronounciations of a Chinese character or only the first pronounciation.}
+
+\item{encoding}{character. The encoding of the input files. 'UTF-8' by default.}
 }
 \value{
 files converted to Pinyin.
 }
 \description{
 Convert entire files into Pinyin
+}
+\examples{
+file2py()
 }

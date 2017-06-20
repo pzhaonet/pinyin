@@ -31,3 +31,6 @@ pinyin of the given Chinese character.
 \description{
 Convert Chinese characters into Pinyin.
 }
+\examples{
+pinyin()
+}

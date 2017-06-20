@@ -20,8 +20,11 @@ pylib(method = c("quanpin", "tone", "toneless")[1], multi = FALSE,
 \item{only_first_letter}{logical. Wheter only the first letter in pinyin.}
 }
 \value{
-a Pinyin library.
+character. a Pinyin library.
 }
 \description{
 A Pinyin library
+}
+\examples{
+pylib()
 }

@@ -12,6 +12,7 @@
 #'
 #' @return pinyin of the given Chinese character.
 #' @export
+#' @examples pinyin()
 pinyin <- function(mychar = '', method = c('quanpin', 'tone', 'toneless')[1], sep = '_', nonezh_replace = NULL, multi = FALSE, only_first_letter = FALSE) {
   py <- pylib(method = method, multi = multi, only_first_letter = only_first_letter)
   zh <- names(py)
@@ -33,9 +34,9 @@ pinyin <- function(mychar = '', method = c('quanpin', 'tone', 'toneless')[1], se
 #' @param multi logical. Whether display multiple pronounciations of a Chinese character or only the first pronounciation.
 #' @param only_first_letter logical. Wheter only the first letter in pinyin.
 #'
-#' @return a Pinyin library.
+#' @return character. a Pinyin library.
 #' @export
-#'
+#' @examples pylib()
 pylib <- function(method = c('quanpin', 'tone', 'toneless')[1], multi = FALSE, only_first_letter = FALSE) {
   mystrsplit <- function(x) strsplit(x, split = ' ')[[1]][1]
   mypath <- paste0(.libPaths(), '/pinyin/lib/zh.txt')
@@ -71,15 +72,18 @@ pylib <- function(method = c('quanpin', 'tone', 'toneless')[1], multi = FALSE, o
 #############################################################
 #' Rename files with Chinese characters to pinyin
 #'
-#' @param mydir character. The folder in which the files are to be renamed.
+#' @param folder character. The folder in which the files are to be renamed.
 #'
 #' @return files with new names.
 #' @export
-#'
-file.rename2py <- function(mydir = '/') {
-  oldname <- dir(mydir, full.names = TRUE)
-  newname <- paste(mydir, sapply(dir(mydir), pinyin, method = 'toneless', sep = '', nonezh_replace = NULL, only_first_letter = TRUE), sep = '/')
-  file.rename(oldname, newname)
+#' @examples file.rename2py()
+file.rename2py <- function(folder = 'py') {
+  if (dir.exists(folder)) {
+    oldname <- dir(folder, full.names = TRUE)
+    newname <- paste(folder, sapply(dir(folder), pinyin, method = 'toneless', sep = '', nonezh_replace = NULL, only_first_letter = TRUE), sep = '/')
+    file.rename(oldname, newname)
+  } else {print(paste('The directory', folder, 'does not exist!'))}
+
 }
 
 #############################################################
@@ -90,23 +94,25 @@ file.rename2py <- function(mydir = '/') {
 #'
 #' @return new .Rmd files with Pinyin headers.
 #' @export
-#'
-bookdown2py <- function(folder = 'mm', remove_curly_bracket = TRUE) {
-  for (filename in dir(folder, full.names = TRUE)) {
-    # filename <- dir(folder, full.names = TRUE)[1]
-    file.copy(filename, to = paste0(filename, 'backup'))
-    md <- readLines(filename, encoding = 'UTF-8')
-    headerloc <- grep('^#+', md)
-    codeloc <- grep('^```', md)
-    # exclude the lines begining with # but in code
-    if (length(codeloc) > 0) headerloc <- headerloc[!sapply(headerloc, function(x) sum(x > codeloc[seq(1, length(codeloc), by = 2)] & x < codeloc[seq(2, length(codeloc), by = 2)])) == 1]
-    if (remove_curly_bracket) md[headerloc] <- gsub(pattern = '\\{.*\\}', '', md[headerloc])
-    for (i in headerloc){
-      headerpy <- pinyin(mychar = sub('^#* ', '', md[headerloc]), method = 'toneless', sep = '', nonezh_replace = '', only_first_letter = TRUE)
-      md[headerloc] <- paste(md[headerloc], ' {#', headerpy, '}', sep = '')
+#' @examples bookdown2py()
+bookdown2py <- function(folder = 'py', remove_curly_bracket = TRUE) {
+  if (dir.exists(folder)) {
+    for (filename in dir(folder, full.names = TRUE)) {
+      # filename <- dir(folder, full.names = TRUE)[1]
+      file.copy(filename, to = paste0(filename, 'backup'))
+      md <- readLines(filename, encoding = 'UTF-8')
+      headerloc <- grep('^#+', md)
+      codeloc <- grep('^```', md)
+      # exclude the lines begining with # but in code
+      if (length(codeloc) > 0) headerloc <- headerloc[!sapply(headerloc, function(x) sum(x > codeloc[seq(1, length(codeloc), by = 2)] & x < codeloc[seq(2, length(codeloc), by = 2)])) == 1]
+      if (remove_curly_bracket) md[headerloc] <- gsub(pattern = '\\{.*\\}', '', md[headerloc])
+      for (i in headerloc){
+        headerpy <- pinyin(mychar = sub('^#* ', '', md[headerloc]), method = 'toneless', sep = '', nonezh_replace = '', only_first_letter = TRUE)
+        md[headerloc] <- paste(md[headerloc], ' {#', headerpy, '}', sep = '')
+      }
+      writeLines(text = md, filename, useBytes = TRUE)
     }
-    writeLines(text = md, filename, useBytes = TRUE)
-  }
+  } else {print(paste('The directory', folder, 'does not exist!'))}
 }
 
 #############################################################
@@ -121,22 +127,26 @@ bookdown2py <- function(folder = 'mm', remove_curly_bracket = TRUE) {
 #' @param sep character. Seperation between the converted pinyin.
 #' @param nonezh_replace NULL or character. Define how to convert non-Chinese characters in mychar. NULL means 'let it be'.
 #' @param only_first_letter logical. Wheter only the first letter in pinyin.
+#' @param multi logical. Whether display multiple pronounciations of a Chinese character or only the first pronounciation.
+#' @param encoding character. The encoding of the input files. 'UTF-8' by default.
 #'
 #' @return files converted to Pinyin.
 #' @export
-#'
-file2py <- function(folder = 'pinyin', backup = TRUE, method = c('quanpin', 'tone', 'toneless')[1], sep = ' ', nonezh_replace = NULL, only_first_letter = FALSE) {
-  i <- 0
-  filedir <- dir(folder, full.names = TRUE)
-  filenr <- length(filedir)
-  print(paste('Start.', filenr, 'file(s) to convert. Please be patient.'))
-  for (filename in filedir) {
-    i <- i + 1
-    if (backup) file.copy(filename, to = paste0(filename, 'backup'))
-    oldfile <- readLines(filename, encoding = 'UTF-8')
-    newfile <- sapply(oldfile, pinyin, method = method, sep = sep, nonezh_replace = nonezh_replace, only_first_letter = only_first_letter)
-    writeLines(text = newfile, filename, useBytes = TRUE)
-    print(paste(filename, 'converted.',  i, '/', filenr))
-  }
-  print('Done!')
+#' @examples file2py()
+file2py <- function(folder = 'py', backup = TRUE, method = c('quanpin', 'tone', 'toneless')[1], sep = ' ', nonezh_replace = NULL, only_first_letter = FALSE, multi = FALSE, encoding = 'UTF-8') {
+  if (dir.exists(folder)) {
+    i <- 0
+    filedir <- dir(folder, full.names = TRUE)
+    filenr <- length(filedir)
+    print(paste('Start.', filenr, 'file(s) to convert. It might take a while. Please be patient.'))
+    for (filename in filedir) {
+      i <- i + 1
+      if (backup) file.copy(filename, to = paste0(filename, 'backup'))
+      oldfile <- readLines(filename, encoding = encoding)
+      newfile <- sapply(oldfile, pinyin, method = method, sep = sep, nonezh_replace = nonezh_replace, only_first_letter = only_first_letter, multi = multi)
+      writeLines(text = newfile, filename, useBytes = TRUE)
+      print(paste(filename, 'converted.',  i, '/', filenr))
+    }
+    print('Done!')
+  } else {print(paste('The directory', folder, 'does not exist!'))}
 }
