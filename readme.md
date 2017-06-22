@@ -132,7 +132,7 @@ sapply(c('羌笛何须怨杨柳', '春风不度玉门关'), pinyin)
 
 ## Updates
 
-- 2017-06-19. **Version 1.0.2**. Published on CRAN!
+- 2017-06-19. **Version 1.0.2**. Released on CRAN!
 - 2017-06-01. **Version 1.0.0**. `zh2py()` has been removed. Now the main function is `pinyin()`. Submitted to CRAN!
 - 2017-05-29. **Version 0.2.0**. `zh2py(multi = TRUE)` to display multiple procounciations of a Chinese character.
 - 2017-05-29. **Version 0.1.0**. A new function `file2py()` was created according to Dong's comment. 

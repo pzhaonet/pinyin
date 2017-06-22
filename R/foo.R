@@ -93,11 +93,13 @@ file.rename2py <- function(folder = 'py') {
 #'
 #' @param folder character. The folder in which the files are to be converted.
 #' @param remove_curly_bracket logical. Whether to remove existing curly brackets in the headers.
+#' @param nonezh_replace NULL or character. Define how to convert non-Chinese characters in mychar. NULL means 'let it be'.
+#' @param only_first_letter logical. Wheter only the first letter in pinyin.
 #'
 #' @return new .Rmd files with Pinyin headers.
 #' @export
 #' @examples bookdown2py()
-bookdown2py <- function(folder = 'py', remove_curly_bracket = TRUE) {
+bookdown2py <- function(folder = 'py', remove_curly_bracket = TRUE, nonezh_replace = NULL, only_first_letter = TRUE) {
   if (dir.exists(folder)) {
     for (filename in dir(folder, full.names = TRUE)) {
       # filename <- dir(folder, full.names = TRUE)[1]
@@ -109,8 +111,10 @@ bookdown2py <- function(folder = 'py', remove_curly_bracket = TRUE) {
       if (length(codeloc) > 0) headerloc <- headerloc[!sapply(headerloc, function(x) sum(x > codeloc[seq(1, length(codeloc), by = 2)] & x < codeloc[seq(2, length(codeloc), by = 2)])) == 1]
       if (remove_curly_bracket) md[headerloc] <- gsub(pattern = '\\{.*\\}', '', md[headerloc])
       for (i in headerloc){
-        headerpy <- pinyin(mychar = sub('^#* ', '', md[headerloc]), method = 'toneless', sep = '', nonezh_replace = '', only_first_letter = TRUE)
-        md[headerloc] <- paste(md[headerloc], ' {#', headerpy, '}', sep = '')
+        headerpy <- pinyin(mychar = sub('^#* ', '', md[i]), method = 'toneless', sep = '', nonezh_replace = nonezh_replace, only_first_letter = only_first_letter)
+        headerpy <- tolower(headerpy)
+        headerpy <- gsub('[^a-z]', '_', headerpy)
+        md[i] <- paste(md[i], ' {#', headerpy, '}', sep = '')
       }
       writeLines(text = md, filename, useBytes = TRUE)
     }

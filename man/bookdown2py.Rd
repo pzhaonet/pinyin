@@ -4,12 +4,17 @@
 \alias{bookdown2py}
 \title{Convert the Chinese headers of bookdown .Rmd files into Pinyin}
 \usage{
-bookdown2py(folder = "py", remove_curly_bracket = TRUE)
+bookdown2py(folder = "py", remove_curly_bracket = TRUE, nonezh_replace = NULL, 
+    only_first_letter = TRUE)
 }
 \arguments{
 \item{folder}{character. The folder in which the files are to be converted.}
 
 \item{remove_curly_bracket}{logical. Whether to remove existing curly brackets in the headers.}
+
+\item{nonezh_replace}{NULL or character. Define how to convert non-Chinese characters in mychar. NULL means 'let it be'.}
+
+\item{only_first_letter}{logical. Wheter only the first letter in pinyin.}
 }
 \value{
 new .Rmd files with Pinyin headers.

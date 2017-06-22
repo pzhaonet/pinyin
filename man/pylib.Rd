@@ -4,7 +4,7 @@
 \alias{pylib}
 \title{A Pinyin library}
 \usage{
-pylib(method = c("quanpin", "tone", "toneless")[1], multi = FALSE, 
+pylib(method = c("quanpin", "tone", "toneless"), multi = FALSE, 
     only_first_letter = FALSE)
 }
 \arguments{
