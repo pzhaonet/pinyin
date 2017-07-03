@@ -1,5 +1,8 @@
 # pinyin: an R package for converting Chineses characters into pinyin 
 
+
+ ![CRAN downloads](http://cranlogs.r-pkg.org/badges/grand-total/pinyin)
+ 
 ## Introduction
 
 This is an R package for converting Chinese characters into pinyin. An brief introduction to pinyin can be found in [Wikipedia](https://en.wikipedia.org/wiki/Pinyin):
