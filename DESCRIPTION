@@ -1,6 +1,6 @@
 Package: pinyin
-Version: 1.0.3
-Date: 2017-06-22
+Version: 1.1.0
+Date: 2017-07-18
 Title: Convert Chinese Characters into Pinyin
 Author: Peng Zhao
 Maintainer: Peng Zhao <pzhao@pzhao.net>
