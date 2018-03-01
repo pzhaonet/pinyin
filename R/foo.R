@@ -12,12 +12,14 @@
 #'
 #' @return pinyin of the given Chinese character.
 #' @export
-#' @examples pinyin()
+#' @examples pinyin('test')
 pinyin <- function(mychar = '', method = c('quanpin', 'tone', 'toneless'), sep = '_', nonezh_replace = NULL, multi = FALSE, only_first_letter = FALSE) {
   method <- match.arg(method)
   py <- pylib(method = method, multi = multi, only_first_letter = only_first_letter)
+#  zh <- names(py)
   mycharsingle <- strsplit(mychar, split = '')[[1]]
   myreplace <- function(x) {
+ #   if (sum(x == zh) == 0) ifelse(is.null(nonezh_replace), x, nonezh_replace) else py[x == zh]
     if (is.null(py[[x]])) ifelse(is.null(nonezh_replace), x, nonezh_replace) else py[[x]]
   }
   pinyin <- paste(sapply(mycharsingle, myreplace), collapse = sep)
@@ -65,9 +67,8 @@ pylib <- function(method = c('quanpin', 'tone', 'toneless'), multi = FALSE, only
     )
   }
   if (only_first_letter) pylib <- substr(pylib, 1, 1)
-
+ # names(pylib) <- zh
   pylib <- list2env(setNames(as.list(pylib),zh))
-
   return(pylib)
 }
 
@@ -79,7 +80,11 @@ pylib <- function(method = c('quanpin', 'tone', 'toneless'), multi = FALSE, only
 #'
 #' @return files with new names.
 #' @export
-#' @examples file.rename2py()
+#' @examples
+#' mydir <- paste0(tempdir(), '/py')
+#' dir.create(mydir)
+#' file.create(paste0(mydir, '/test.txt'))
+#' file.rename2py(mydir)
 file.rename2py <- function(folder = 'py') {
   if (dir.exists(folder)) {
     oldname <- dir(folder, full.names = TRUE)
@@ -99,7 +104,12 @@ file.rename2py <- function(folder = 'py') {
 #'
 #' @return new .Rmd files with Pinyin headers.
 #' @export
-#' @examples bookdown2py()
+#' @examples
+#' mydir <- paste0(tempdir(), '/py')
+#' dir.create(mydir)
+#' file.create(paste0(mydir, '/test.txt'))
+#' writeLines(text = '# test\n', paste0(mydir, '/test.txt'))
+#' bookdown2py(mydir)
 bookdown2py <- function(folder = 'py', remove_curly_bracket = TRUE, nonezh_replace = NULL, only_first_letter = TRUE) {
   if (dir.exists(folder)) {
     for (filename in dir(folder, full.names = TRUE)) {
@@ -139,7 +149,12 @@ bookdown2py <- function(folder = 'py', remove_curly_bracket = TRUE, nonezh_repla
 #'
 #' @return files converted to Pinyin.
 #' @export
-#' @examples file2py()
+#' @examples
+#' mydir <- paste0(tempdir(), '/py')
+#' dir.create(mydir)
+#' file.create(paste0(mydir, '/test.txt'))
+#' writeLines(text = 'test\n', paste0(mydir, '/test.txt'))
+#' file2py(mydir)
 file2py <- function(folder = 'py', backup = TRUE, method = c('quanpin', 'tone', 'toneless'), sep = ' ', nonezh_replace = NULL, only_first_letter = FALSE, multi = FALSE, encoding = 'UTF-8') {
   if (dir.exists(folder)) {
     method <- match.arg(method)
