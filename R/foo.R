@@ -16,10 +16,9 @@
 pinyin <- function(mychar = '', method = c('quanpin', 'tone', 'toneless'), sep = '_', nonezh_replace = NULL, multi = FALSE, only_first_letter = FALSE) {
   method <- match.arg(method)
   py <- pylib(method = method, multi = multi, only_first_letter = only_first_letter)
-  zh <- names(py)
   mycharsingle <- strsplit(mychar, split = '')[[1]]
   myreplace <- function(x) {
-    if (sum(x == zh) == 0) ifelse(is.null(nonezh_replace), x, nonezh_replace) else py[x == zh]
+    if (is.null(py[[x]])) ifelse(is.null(nonezh_replace), x, nonezh_replace) else py[[x]]
   }
   pinyin <- paste(sapply(mycharsingle, myreplace), collapse = sep)
   return(pinyin)
@@ -66,7 +65,9 @@ pylib <- function(method = c('quanpin', 'tone', 'toneless'), multi = FALSE, only
     )
   }
   if (only_first_letter) pylib <- substr(pylib, 1, 1)
-  names(pylib) <- zh
+
+  pylib <- list2env(setNames(as.list(pylib),zh))
+
   return(pylib)
 }
 
