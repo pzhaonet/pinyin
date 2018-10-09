@@ -1,26 +1,35 @@
 #' Convert Chinese characters into Pinyin.
 #'
 #' @param mychar character. A Chinese character or string to convert to pinyin
-#' @param method character. The value can be:
+#' @param sep character. Seperation between the converted pinyin.
+#' @param nonezh_replace NULL or character. Define how to convert non-Chinese characters in mychar. NULL means 'let it be'.
+#' @param py the preloaded pinyin library using the `pylib()` function.
+#' @param method character. Only valid when py == NA. The value can be:
 #' - 'quanpin', for the standard form of pinyin (tones above letters),
 #' - 'tone', for tones expressed with numbers,
 #' - 'toneless', without tones
-#' @param sep character. Seperation between the converted pinyin.
-#' @param nonezh_replace NULL or character. Define how to convert non-Chinese characters in mychar. NULL means 'let it be'.
-#' @param multi logical. Whether display multiple pronounciations of a Chinese character or only the first pronounciation.
-#' @param only_first_letter logical. Wheter only the first letter in pinyin.
+#' @param multi logical. Only valid when py == NA. Whether display multiple pronounciations of a Chinese character or only the first pronounciation.
+#' @param only_first_letter logical. Only valid when py == NA. Wheter only the first letter in pinyin.
+#' @param dic character. Only valid when py == NA. Choose the dictionary.
 #'
 #' @return pinyin of the given Chinese character.
+#' @importFrom stats setNames
 #' @export
 #' @examples pinyin('test')
-pinyin <- function(mychar = '', method = c('quanpin', 'tone', 'toneless'), sep = '_', nonezh_replace = NULL, multi = FALSE, only_first_letter = FALSE) {
+pinyin <- function(mychar = '',
+                   sep = '_',
+                   nonezh_replace = NULL,
+                   py = NA,
+                   method = c('quanpin', 'tone', 'toneless'),
+                   multi = FALSE,
+                   only_first_letter = FALSE,
+                   dic = c('zh', 'zh2')) {
   method <- match.arg(method)
-  py <- pylib(method = method, multi = multi, only_first_letter = only_first_letter)
-#  zh <- names(py)
+  dic <- match.arg(dic)
+  if(class(py)!= 'environment')  py <- pylib(method = method, multi = multi, only_first_letter = only_first_letter, dic = dic)
   mycharsingle <- strsplit(mychar, split = '')[[1]]
   myreplace <- function(x) {
- #   if (sum(x == zh) == 0) ifelse(is.null(nonezh_replace), x, nonezh_replace) else py[x == zh]
-    if (is.null(py[[x]])) ifelse(is.null(nonezh_replace), x, nonezh_replace) else py[[x]]
+    if(is.null(py[[x]])) ifelse(is.null(nonezh_replace), x, nonezh_replace) else py[[x]]
   }
   pinyin <- paste(sapply(mycharsingle, myreplace), collapse = sep)
   return(pinyin)
@@ -35,41 +44,67 @@ pinyin <- function(mychar = '', method = c('quanpin', 'tone', 'toneless'), sep =
 #' - 'toneless', without tones
 #' @param multi logical. Whether display multiple pronounciations of a Chinese character or only the first pronounciation.
 #' @param only_first_letter logical. Wheter only the first letter in pinyin.
+#' @param dic character. Choose the dictionary.
 #'
 #' @return character. a Pinyin library.
 #' @export
 #' @examples pylib()
-pylib <- function(method = c('quanpin', 'tone', 'toneless'), multi = FALSE, only_first_letter = FALSE) {
+pylib <- function(method = c('quanpin', 'tone', 'toneless'),
+                  multi = FALSE,
+                  only_first_letter = FALSE,
+                  dic = c('zh', 'zh2')) {
   method <- match.arg(method)
+  dic <- match.arg(dic)
   mystrsplit <- function(x) strsplit(x, split = ' ')[[1]][1]
-  mypath <- paste0(.libPaths(), '/pinyin/lib/zh.txt')
-  lib <- readLines(mypath[file.exists(mypath)][1], encoding = 'UTF-8') # read source file.   # for ubuntu users
-  lib <- lib[49:length(lib)] # skip lines
-  lib <- lib[-grep('^#', lib)] # remove headers
-  lib <- lib[-which(nchar(lib) == 0)] # remove blank lines
-  zh <- substr(lib, 1, 1) # chinese char
-  bracketloc <- regexpr('\\(', lib)
-  if (multi) {
-    qp <- substr(lib, 3, bracketloc - 1)
-    pylib <-  switch( # extract all pinyins
-      method,
-      quanpin = qp,
-      tone = substr(lib, bracketloc + 1, nchar(lib) - 1),
-      toneless = gsub('[1-4]', '', substr(lib, bracketloc + 1, nchar(lib) - 1))
-    )
-    pylib <- ifelse(grepl(' ', qp), paste0('[', pylib, ']'), pylib)
-  } else {
-    pylib <-  switch( # extract the first pinyin if multiple
-      method,
-      quanpin = sapply(substr(lib, 3, bracketloc - 1), mystrsplit),
-      tone = sapply(substr(lib, bracketloc + 1, nchar(lib) - 1), mystrsplit),
-      toneless = gsub('[1-4]', '', sapply(substr(lib, bracketloc + 1, nchar(lib) - 1), mystrsplit))
-    )
+  mypath <- paste0(.libPaths(), '/pinyin/lib/', dic, '.txt')
+  lib <- readLines(mypath[file.exists(mypath)][1], encoding = 'UTF-8')
+  if(dic == 'zh') {
+    lib <- lib[49:length(lib)] # skip lines
+    lib <- lib[-grep('^#', lib)] # remove headers
+    lib <- lib[-which(nchar(lib) == 0)] # remove blank lines
+    zh <- substr(lib, 1, 1) # chinese char
+    bracketloc <- regexpr('\\(', lib)
+    if (multi) {
+      qp <- substr(lib, 3, bracketloc - 1)
+      mylib <-  switch( # extract all pinyins
+        method,
+        quanpin = qp,
+        tone = substr(lib, bracketloc + 1, nchar(lib) - 1),
+        toneless = gsub('[1-4]', '', substr(lib, bracketloc + 1, nchar(lib) - 1))
+      )
+      mylib <- ifelse(grepl(' ', qp), paste0('[', mylib, ']'), mylib)
+    } else {
+      mylib <-  switch( # extract the first pinyin if multiple
+        method,
+        quanpin = sapply(substr(lib, 3, bracketloc - 1), mystrsplit),
+        tone = sapply(substr(lib, bracketloc + 1, nchar(lib) - 1), mystrsplit),
+        toneless = gsub('[1-4]', '', sapply(substr(lib, bracketloc + 1, nchar(lib) - 1), mystrsplit))
+      )
+    }
   }
-  if (only_first_letter) pylib <- substr(pylib, 1, 1)
- # names(pylib) <- zh
-  pylib <- list2env(setNames(as.list(pylib),zh))
-  return(pylib)
+  if(dic == 'zh2'){
+    zh <- substr(lib, 1, 1)
+    if(multi){
+      qp <- substr(lib, 2, nchar(lib))
+      mylib <-  switch( # extract all pinyins
+        method,
+        quanpin = qp,
+        tone = qp,
+        toneless = gsub('[1-4]', '', qp)
+      )
+      mylib <- ifelse(grepl(' ', qp), paste0('[', mylib, ']'), mylib)
+    } else {
+      qp <- sapply(substr(lib, 2, nchar(lib)), mystrsplit)
+      mylib <- switch(method,
+                      quanpin = qp,
+                      tone = qp,
+                      toneless = gsub("[1-4]","", qp))
+      mylib <- sapply(mylib, mystrsplit)
+    }
+  }
+  if (only_first_letter) mylib <- substr(mylib, 1, 1)
+  mylib <- list2env(setNames(as.list(mylib),zh))
+  return(mylib)
 }
 
 

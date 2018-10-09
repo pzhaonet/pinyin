@@ -1,4 +1,4 @@
-丂yu2,kao3
+丂yu2 kao3
 丄shang4
 丅xia4
 丆shi2
@@ -12,19 +12,19 @@
 丩jiu1
 丮ji3
 丯jie4
-丱kuang4,guan4
+丱kuang4 guan4
 丳chan3
 丵zhuo2
 丷ba1
 丼jing3
 乀fu2
-乁yi2,fu2
-乂yi4,ai4
+乁yi2 fu2
+乂yi4 ai4
 乆jiu3
 乊hu1
-乑yin2,pan1
+乑yin2 pan1
 乕hu3
-乗sheng4,cheng2
+乗sheng4 cheng2
 乚yin3
 乛zhe2
 乢gai4
@@ -34,12 +34,12 @@
 乴xue2
 乵yan3
 乸na3
-乹qian2,gan1
+乹qian2 gan1
 乿luan4
 亀gui1
 亁gan1
 亂luan4
-亃lin4,lin3
+亃lin4 lin3
 亄yi4
 亅jue2
 亇ding1
@@ -47,63 +47,63 @@
 亐yu2
 亖si4
 亗sui4
-亙geng4,gen4
-亜ya4,ya1
-亝zhai1,qi2
-亞ya4,ya1
+亙geng4 gen4
+亜ya4 ya1
+亝zhai1 qi2
+亞ya4 ya1
 亣da4
 亯xiang3
 亰jing1
 亱ye4
 亴you4
-亶dan4,dan3
+亶dan4 dan3
 亷lian2
 亸duo3
-亹wei3,men2
+亹wei3 men2
 亼ji2
 亽ji2
-亾wu2,wang2
+亾wu2 wang2
 仈ba1
 仌bing1
 仏fo2
 仐tao1
 仒bing1
 仚xian1
-仛tuo2,cha4
+仛tuo2 cha4
 仜hong2
-仠han4,gan3
+仠han4 gan3
 仢bo2
 仦chao4
-仧zhang3,chang2
+仧zhang3 chang2
 仩chang2
 仭ren4
 仮fan3
-仯miao3,chao4
-仱qian2,jing1
+仯miao3 chao4
+仱qian2 jing1
 仴wo4
-仸yao3,fo2
+仸yao3 fo2
 仹feng1
-仺chuang4,cang1
+仺chuang4 cang1
 仼wang2
 仾di1
 伀zhong1
 伂pei4
-伃yu3,yu2
+伃yu3 yu2
 伄diao4
 伅dun4
 伆wu4
 伇yi4
 伋ji2
 伌ai4
-伒yin2,jin4
+伒yin2 jin4
 伓pi1
-伔shen3,dan3
-伕fu2,fu1
-伖tang3,nu2
-伜zu2,cui4
+伔shen3 dan3
+伕fu2 fu1
+伖tang3 nu2
+伜zu2 cui4
 伝yun2
-伡ju1,che1
-伣xian4,qian4
+伡ju1 che1
+伣xian4 qian4
 伨xun4
 伩xin4
 伬che3
@@ -113,147 +113,147 @@
 伳xie4
 伵xu4
 伷zhou4
-伹zu4,qu1
+伹zu4 qu1
 伻beng1
 伾pi1
 伿yi4
 佀si4
-佁yi3,si4
+佁yi3 si4
 佂zheng1
-佄han1,gan4
+佄han1 gan4
 佅mai4
 佇zhu4
 佈bu4
 佉qu1
 佊bi3
-佋zhao1,shao4
+佋zhao1 shao4
 佌ci3
 佒yang3
-佔zhan4,chan1
+佔zhan4 chan1
 佖bi4
 佡xian1
 佢qu2
 佦shi2
 佨bao1
-佪hui2,huai2
-佫he4,ge2
+佪hui2 huai2
+佫he4 ge2
 佭xiang2
-佮ge2,e2
+佮ge2 e2
 佱fa3
 佲ming3
 併bing4
-佷heng2,hen3
+佷heng2 hen3
 佸huo2
-佹gui3,gui1
+佹gui3 gui1
 佺quan2
 佽ci4
 侀xing2
 侁shen1
 侂tuo1
-侅hai4,gai1
+侅hai4 gai1
 來lai2
 侇yi2
 侊guang1
 侌yin1
 侎mi3
 侐xu4
-侒an3,an1
+侒an3 an1
 侓lu4
 侕er2
-侖lun4,lun2
+侖lun4 lun2
 侘cha4
 侙chi1
-侚xun4,xun2
+侚xun4 xun2
 侜zhou1
 侞ru2
-侟jian4,cun2
+侟jian4 cun2
 価si4
 侢dai4
 侫ning4
 侭jin4
 侰jiong3
-侱ting3,cheng3
-侲zhen4,zhen1
+侱ting3 cheng3
+侲zhen4 zhen1
 侳zuo4
 侴chou3
 侶lv3
 侷ju2
-侸shu4,dou1
+侸shu4 dou1
 侹ting3
 侺shen4
-侻tuo1,tui4
+侻tuo1 tui4
 侼bo2
 侽nan2
 侾xiao1
 俀tui3
 俁yu3
-係xi5,xi4
-俆xu2,shu1
+係xi5 xi4
+俆xu2 shu1
 俇guang4
 俈ku4
-俉wu3,wu2
+俉wu3 wu2
 俋yi4
 俌fu3
-俍liang2,lang3
+俍liang2 lang3
 俒hun4
-俓ying2,jing4
-俔xian4,qian4
+俓ying2 jing4
+俔xian4 qian4
 俕san4
 俙xi1
-俛mian3,fu3
+俛mian3 fu3
 俠xia2
 俢xiu1
 俤di4
-俥ju1,che1
+俥ju1 che1
 俫lai2
 俬si1
 俰huo4
 俲xiao4
 俴jian4
 俵biao4
-俶ti4,chu4
+俶ti4 chu4
 俷fei4
-俹ya4,ya1
+俹ya4 ya1
 俻bei4
 俼yu4
 俽xin1
-俿hu3,chi2
-倀cheng2,chang1
+俿hu3 chi2
+倀cheng2 chang1
 倁zhi1
 倂bing4
 倃jiu4
 倄yao2
-倅zu2,cui4
-倆liang3,lia3
+倅zu2 cui4
+倆liang3 lia3
 倇wan3
 倈lai2
-倉chuang4,cang1
+倉chuang4 cang1
 倊zong4
-個ge5,ge3
+個ge5 ge3
 倎tian3
 倐shu1
-們men5,men2
-倓tan2,dan4
-倕zhui4,chui2
+們men5 men2
+倓tan2 dan4
+倕zhui4 chui2
 倖xing4
 倗peng2
-倛qi2,qi1
+倛qi2 qi1
 倝gan4
-倞liang4,jing4
+倞liang4 jing4
 倠sui1
-倢qie4,jie2
+倢qie4 jie2
 倣fang3
 値zhi2
 倧zong1
 倫lun2
 倯song1
-倰ling2,leng4
+倰ling2 leng4
 倱hun4
-倲dong4,dong1
+倲dong4 dong1
 倳zi4
-倴ben4,ben1
+倴ben4 ben1
 倵wu3
-倶ju4,ju1
+倶ju4 ju1
 倷nai3
 倸cai3
 倹jian3
@@ -262,17 +262,17 @@
 倿ning4
 偀ying1
 偁cheng1
-偂qian2,jian3
-偄ruan3,ru2
-偅zhong4,tong2
+偂qian2 jian3
+偄ruan3 ru2
+偅zhong4 tong2
 偆chun3
 偉wei3
 偊yu3
-偋bing4,bing3
+偋bing4 bing3
 偍ti2
 偐yan4
 偑feng1
-偒tang3,dang4
+偒tang3 dang4
 偓wo4
 偔e4
 偖che3
@@ -281,124 +281,124 @@
 偙di4
 偛cha1
 偝bei4
-偞ye4,xie4
+偞ye4 xie4
 偟huang2
 偠yao3
 偡zhan4
-偢qiao4,chou3
+偢qiao4 chou3
 偣yan1
 偤you2
 偦xu3
 偧zha1
 偨ci1
 偩fu4
-偪fu4,bi1
+偪fu4 bi1
 偫zhi4
 偭mian3
 偮ji2
 偯yi3
 偰xie4
 偱xun2
-偲si1,cai1
+偲si1 cai1
 偳duan1
-側zhai1,ce4
+側zhai1 ce4
 偵zhen1
 偸tou1
 偹bei4
-偺zan5,za2
+偺zan5 za2
 偼jie2
-偽wei3,wei2
+偽wei3 wei2
 傁sou3
-傂zhi4,si1
+傂zhi4 si1
 傃su4
 傄xia1
-傆yuan4,yuan2
+傆yuan4 yuan2
 傇rong3
 傉nu4
 傊yun4
-傋jiang3,gou4
-傌ma4,ma3
+傋jiang3 gou4
+傌ma4 ma3
 傎dian1
 傏tang2
 傐hao4
 傑jie2
-傒xi4,xi1
+傒xi4 xi1
 傓shan4
-傔qian4,jian1
-傕que4,jue2
-傖chen5,cang1
+傔qian4 jian1
+傕que4 jue2
+傖chen5 cang1
 傗chu4
 傘san3
 備bei4
 傚xiao4
-傛yong3,rong2
+傛yong3 rong2
 傜yao2
-傝tan4,ta4
+傝tan4 ta4
 傞suo1
 傟yang3
 傠fa2
 傡bing4
-傢jie5,jia1
+傢jie5 jia1
 傤zai4
 傦gu3
-傪san3,can1
+傪san3 can1
 傫lei3
-傭yong1,chong1
-傮zao1,cao2
+傭yong1 chong1
+傮zao1 cao2
 傯zong3
 傰beng1
-傱shuang3,song3
-傳zhuan4,chuan2
+傱shuang3 song3
+傳zhuan4 chuan2
 傴yu3
 債zhai4
-傶zu2,qi1
+傶zu2 qi1
 傷shang1
 傸chuang3
 傹jing4
 傼han4
 傽zhang1
 傾qing1
-傿yan4,yan1
+傿yan4 yan1
 僀di4
 僁xie4
-僂lv3,lou2
+僂lv3 lou2
 僃bei4
 僄piao4
 僅jin3
-僆lian4,lian2
-僇lu4,liao2
-僈man4,man2
+僆lian4 lian2
+僇lu4 liao2
+僈man4 man2
 僉qian1
 僊xian1
-僋tan4,lan4
+僋tan4 lan4
 僌ying2
 働dong4
-僎zhuan4,zun1
+僎zhuan4 zun1
 僐shan4
 僑qiao2
 僒jiong3
-僓tui3,tui2
+僓tui3 tui2
 僔zun3
 僕pu2
-僗lao4,lao2
+僗lao4 lao2
 僘chang3
 僙guang1
 僛qi1
-僜teng2,deng1
-僝zhuan4,chan2
-僞wei3,wei2
+僜teng2 deng1
+僝zhuan4 chan2
+僞wei3 wei2
 僟ji1
 僠bo1
 僡hui4
-僢chun3,chuan3
-僣tie3,jian4
-僤dan4,chan2
-僥yao2,jiao3
+僢chun3 chuan3
+僣tie3 jian4
+僤dan4 chan2
+僥yao2 jiao3
 僨fen4
 僩xian4
-僪yu4,ju2
+僪yu4 ju2
 僫e4
-僯lin4,lin3
+僯lin4 lin3
 僰bo2
 僱gu4
 僲xian1
@@ -406,7 +406,7 @@
 僶min3
 僷ye4
 僸jin4
-價qia3,jia4
+價qia3 jia4
 僺qiao4
 僼feng1
 僽zhou4
@@ -415,22 +415,22 @@
 儀yi2
 儁jun4
 儂nong2
-儃shan4,chan2
+儃shan4 chan2
 億yi4
-儅dang4,dang1
+儅dang4 dang1
 儈kuai4
 儉jian3
 儊chu4
-儌jiao3,jiao1
+儌jiao3 jiao1
 儍sha3
 儎zai4
 儏can4
-儐bin4,bin1
-儓tai4,tai2
-儔dao4,chou2
+儐bin4 bin1
+儓tai4 tai2
+儔dao4 chou2
 儕chai2
 儖lan2
-儗yi4,ni3
+儗yi4 ni3
 儘jin3
 儙qian4
 儚meng2
@@ -439,44 +439,44 @@
 儝qiong2
 儞ni3
 償chang2
-儠lie4,la4
+儠lie4 la4
 儢lv3
 儣kuang3
 儤bao4
-儥yu4,di2
+儥yu4 di2
 儦biao1
 儧zan3
 儨zhi4
 儩si4
 優you1
 儫hao2
-儬qing4,jing4
-儭qin4,chen4
+儬qing4 jing4
+儭qin4 chen4
 儮li4
 儯teng2
 儰wei3
-儱long4,long3
+儱long4 long3
 儲chu3
-儳chan4,chan2
-儴xiang1,rang2
-儵tiao2,shu1
-儶xie2,hui4
-儷li4,li2
+儳chan4 chan2
+儴xiang1 rang2
+儵tiao2 shu1
+儶xie2 hui4
+儷li4 li2
 儸luo2
 儹zan3
 儺nuo2
-儻tang4,tang3
+儻tang4 tang3
 儼yan3
-儽luo3,lei3
+儽luo3 lei3
 儾nang4
 兂zan1
 兇xiong1
 兊dui4
-兌dui5,dui4
-兎tu4,tu2
+兌dui5 dui4
+兎tu4 tu2
 兏chang2
-児ni2,er2
-兒ni2,er2
+児ni2 er2
+兒ni2 er2
 兓jin1
 兗yan3
 兘shi3
@@ -489,27 +489,27 @@
 兡ke4
 兣gong1
 兤huang3
-兦wu2,wang2
-內nei4,na4
+兦wu2 wang2
+內nei4 na4
 兩liang3
-兪yu2,shu4
+兪yu2 shu4
 兯jie2
 兲tian1
 兾ji4
 兿yi4
 冃mao4
-冄ran3,ran2
+冄ran3 ran2
 円yuan2
 冇mao3
-冊zha4,ce4
-冋jiong3,jiong1
+冊zha4 ce4
+冋jiong3 jiong1
 冎gua3
-冏jiong3,jiong1
-冐mo4,mao4
+冏jiong3 jiong1
+冐mo4 mao4
 冑zhou4
-冓gou4,gou1
+冓gou4 gou1
 冔xu3
-冘you2,yin2
+冘you2 yin2
 冚kan3
 冝yi2
 冞mi2
@@ -519,7 +519,7 @@
 冦kou4
 冧lin2
 冨fu4
-冩xie4,xie3
+冩xie4 xie3
 冪mi4
 冭tai4
 冮gang1
@@ -549,11 +549,11 @@
 凚jin4
 凜lin3
 凞xi1
-凟du2,dou4
+凟du2 dou4
 凢fan2
 凣fan2
 凥ju1
-処chu4,chu3
+処chu4 chu3
 凨feng1
 凬feng1
 凮feng1
@@ -578,11 +578,11 @@
 刡min3
 刢ling2
 刣zhong1
-別bie4,bie2
+別bie4 bie2
 刦jie2
 刧jie2
 刪shan1
-刬chan4,chan3
+刬chan4 chan3
 刯geng1
 刱chuang4
 刲kui1
@@ -597,64 +597,64 @@
 剈yuan1
 剉cuo4
 剋ke4
-剎sha1,cha4
+剎sha1 cha4
 剏chuang4
 剒cuo4
 剓li2
 剕fei4
-剗chan4,chan3
+剗chan4 chan3
 剘qi2
 剙chuang4
 剚zi4
 剛gang1
-剝pu1,bao1
-剟duo1,chi4
-剠qing2,lve4
-剢zhuo2,du1
+剝pu1 bao1
+剟duo1 chi4
+剠qing2 lve4
+剢zhuo2 du1
 剣jian4
 剤ji4
 剨huo1
-剫duo2,du4
-剬zhi4,duan1
+剫duo2 du4
+剬zhi4 duan1
 剭wu1
 剮gua3
 剰sheng4
 剱jian4
-剳zha2,da2
+剳zha2 da2
 剴kai3
-創chuang4,chuang1
+創chuang4 chuang1
 剶chuan1
 剷chan3
-剸zhuan1,tuan2
+剸zhuan1 tuan2
 剹lu4
 剺li2
 剻peng3
 剼shan1
 剾kou1
 劀gua1
-劃hua5,hua2
-劄zha2,zha1
+劃hua5 hua2
+劄zha2 zha1
 劅zhuo2
 劆lian2
 劇ju4
 劉liu2
 劊gui4
-劋jiao3,chao1
+劋jiao3 chao1
 劌gui4
 劍jian4
 劎jian4
-劏tong1,tang1
+劏tong1 tang1
 劑ji4
 劒jian4
 劔jian4
 劕zhi4
 劖chan2
 劗zuan1
-劘mo2,mi2
+劘mo2 mi2
 劙li2
 劚zhu2
 劜ya4
-劤jing4,jin4
+劤jing4 jin4
 劥keng1
 劦xie2
 劧zhi3
@@ -672,41 +672,41 @@
 劼jie2
 劽lie4
 勀ke4
-勁jing4,jin4
+勁jing4 jin4
 勂gao4
 勄min3
 勅chi4
 勆lang2
 勈yong3
 勊ke4
-勌juan4,juan1
+勌juan4 juan1
 勍qing2
 勎lu4
 勏bu4
-勑lai4,chi4
+勑lai4 chi4
 勓kai4
 勔mian3
 動dong4
 勗xu4
-務wu5,wu4
+務wu5 wu4
 勚yi4
 勛xun1
-勜yang3,weng3
-勝sheng4,sheng1
+勜yang3 weng3
+勝sheng4 sheng1
 勞lao2
 勠lu4
 勡piao4
-勢shi5,shi4
+勢shi5 shi4
 勣ji4
-勥qiang3,jiang3
-勦jiao3,chao1
+勥qiang3 jiang3
+勦jiao3 chao1
 勧quan4
 勨xiang4
 勩yi4
-勪qiao1,jue2
+勪qiao1 jue2
 勫fan1
 勬juan1
-勭tong2,dong4
+勭tong2 dong4
 勮ju4
 勯dan1
 勱mai4
@@ -715,7 +715,7 @@
 勴lv4
 勵li4
 勶che4
-勷xiang1,rang2
+勷xiang1 rang2
 勸quan4
 勻yun2
 勼jiu1
@@ -725,7 +725,7 @@
 匄gai4
 匉peng1
 匊ju1
-匋yao2,tao2
+匋yao2 tao2
 匌ge2
 匎e4
 匑gong1
@@ -741,133 +741,133 @@
 匤qu1
 匥fan2
 匧qie4
-匨zang1,cang2
+匨zang1 cang2
 匩kuang1
 匫hu1
 匬yu3
 匭gui3
 匯hui4
 匰dan1
-匱kui4,gui4
+匱kui4 gui4
 匲lian2
 匳lian2
 匵du2
 匶jiu4
-匷qu2,jue2
+匷qu2 jue2
 匸xi4
 匼ke1
-匽yan4,yan3
-區qu1,ou1
+匽yan4 yan3
+區qu1 ou1
 卂xun4
 卄nian4
-卆zu2,cu4
+卆zu2 cu4
 卋shi4
 卌xi4
 卍wan4
 卐wan4
 協xie2
 単dan1
-卙ji2,chi4
-卛shuai4,lv4
-卝kuang4,guan4
+卙ji2 chi4
+卛shuai4 lv4
+卝kuang4 guan4
 卥xi1
 卨xie4
 卪jie2
-卬yang3,ang2
+卬yang3 ang2
 卭qiong2
 卲shao4
 卶chi3
-卹xu4,su1
+卹xu4 su1
 卻que4
-卼kui4,kui3
+卼kui4 kui3
 卽ji2
 卾e4
 厀xi1
 厁san1
-厃yan2,wei3
+厃yan2 wei3
 厇zhe2
-厈han3,an4
+厈han3 an4
 厊ya3
 厎di3
-厏zhai3,zha3
+厏zhai3 zha3
 厐pang2
 厑ting1
 厒qie4
 厓ya2
-厔zhi4,shi1
+厔zhi4 shi1
 厖mang2
 厗ti2
 厙she4
 厛ting1
 厜zui1
 厞fei4
-厠si5,ce4
+厠si5 ce4
 厡yuan2
 厤li4
 厧dian1
-厪qin2,jin3
+厪qin2 jin3
 厫ao2
 厬gui3
-厭yan4,ya1
+厭yan4 ya1
 厯li4
 厰chang3
-厱qian1,lan2
+厱qian1 lan2
 厲li4
 厳yan2
 厴yan3
 厵yuan2
-厷hong2,gong1
-厸mian3,lin2
-厹rou2,qiu2
+厷hong2 gong1
+厸mian3 lin2
+厹rou2 qiu2
 厺qu4
 厽lei3
-厾du3,du1
-叀zhuan1,hui4
-參shen1,can1
-叄shen1,san1
-叅shen1,can1
-叆yi3,ai4
+厾du3 du1
+叀zhuan1 hui4
+參shen1 can1
+叄shen1 san1
+叅shen1 can1
+叆yi3 ai4
 叇dai4
 収shou1
-叏jue2,guai4
+叏jue2 guai4
 叐ba2
 叒ruo4
-叓shi4,li4
+叓shi4 li4
 叕zhuo2
-叚xia2,jia3
-叜sou3,sou1
+叚xia2 jia3
+叜sou3 sou1
 叝ji2
-叞yu4,wei4
+叞yu4 wei4
 叡rui4
 叢cong2
 叧gua3
 叴qiu2
 叺chi3
-叿hong2,hong1
+叿hong2 hong1
 吀mie1
 吅xuan1
 吇zi3
-吋duo4,cun4
+吋duo4 cun4
 吔ye1
 吘ou3
 吙huo1
-吚yi1,xi1
+吚yi1 xi1
 吜chou3
 吢qin4
-吤jie4,ge4
-吥pou1,bu4
-吪hua1,e2
+吤jie4 ge4
+吥pou1 bu4
+吪hua1 e2
 吰hong2
-吳yu2,wu2
+吳yu2 wu2
 吶na4
-吷xue4,jue2
-吺ru2,dou1
-吽hou3,ou1
+吷xue4 jue2
+吺ru2 dou1
+吽hou3 ou1
 吿gao4
 呁jun4
 呂lv3
 呄ge2
-呅wen3,mei2
+呅wen3 mei2
 呇qi3
 呉wu2
 呌jiao4
@@ -876,85 +876,85 @@
 呏sheng1
 呑tun1
 呚wen3
-呝e4,ai4
+呝e4 ai4
 呞shi1
 呟juan3
-呡wen3,min3
-呣mu4,mou2
+呡wen3 min3
+呣mu4 mou2
 呥ran2
 呧di3
 呩shi4
 呪zhou4
-呫tie4,che4
-呬xi4,chi4
+呫tie4 che4
+呬xi4 chi4
 呭yi4
-呮zhi1,qi4
+呮zhi1 qi4
 呯ping2
-呰zi3,ci1
-呴xu3,hou3
+呰zi3 ci1
+呴xu3 hou3
 呹yi4
-呺xiao1,hao2
-呾ya4,da2
-呿qu4,ka1
-咁xian2,han2
+呺xiao1 hao2
+呾ya4 da2
+呿qu4 ka1
+咁xian2 han2
 咃tuo1
 咅pou3
-咇bie2,bi4
+咇bie2 bi4
 咈fu2
 咉yang3
-咊he4,he2
-咍tai1,hai1
+咊he4 he2
+咍tai1 hai1
 咑da1
 咓wa3
 咗zuo5
 咘bu4
 咜ta1
-咞xian4,xian2
+咞xian4 xian2
 咟huo4
 咠qi4
-咡er4,er2
+咡er4 er2
 咢e4
-咥xi4,die2
+咥xi4 die2
 咮zhou4
-咰xun2,shu4
+咰xun2 shu4
 咲xiao4
 咵kua3
-咶shi4,huai4
-咷tiao4,tao2
-咹e4,an4
-咺xuan3,xuan1
-咼wai1,guo1
+咶shi4 huai4
+咷tiao4 tao2
+咹e4 an4
+咺xuan3 xuan1
+咼wai1 guo1
 咾lao3
 哃tong2
 哅xiong1
 哊you4
-哋mi4,di4
+哋mi4 di4
 哖nian2
 哠hao4
-員yun4,yuan2
-哢long4,ka1
-哣tou4,pou3
+員yun4 yuan2
+哢long4 ka1
+哣tou4 pou3
 哤mang2
 哫zu2
 哬he2
 哯xian4
 哰lao2
-哱po4,bo1
-哴liang4,lang2
+哱po4 bo1
+哴liang4 lang2
 哵ba1
 哶mie1
-哷lv4,lie4
+哷lv4 lie4
 哸sui1
 哹fu2
 哻han1
-哾yue4,shuo1
+哾yue4 shuo1
 唀you4
 唂gu1
-唃gu3,gu1
-唄bei5,bai4
+唃gu3 gu1
+唄bei5 bai4
 唅han2
 唈yi4
-唊qian3,jia2
+唊qian3 jia2
 唋tu1
 唌xian2
 唍wan3
@@ -962,61 +962,61 @@
 唒qiu2
 唓che1
 唕zao4
-唖ya3,e4
+唖ya3 e4
 唗dou1
 唘qi3
 唙di2
-唚qin4,qin1
-唝hong3,gong3
+唚qin4 qin1
+唝hong3 gong3
 唡liang3
 唥lang5
 唦sha1
 唨zu3
-唩wo1,wei3
-唫yin2,jin4
+唩wo1 wei3
+唫yin2 jin4
 唭qi4
-唲wa1,er2
+唲wa1 er2
 唴qiang4
 唵an3
-唶ze2,jie4
-唸nian4,dian4
+唶ze2 jie4
+唸nian4 dian4
 唹yu1
 唺tian3
 唻lai4
 唽xi1
 啀ai2
-啅zhuo2,zhao4
-啇shi4,di4
-啈heng4,e4
-啋cai3,cai1
+啅zhuo2 zhao4
+啇shi4 di4
+啈heng4 e4
+啋cai3 cai1
 啌xiang1
-啍zhun1,tun1
+啍zhun1 tun1
 啎wu3
 問wen4
-啑sha4,die2
+啑sha4 die2
 啒gu3
 啓qi3
 啔qi3
 啗dan4
-啘ye4,wa1
-啙zi3,ci1
-啚tu2,bi3
+啘ye4 wa1
+啙zi3 ci1
+啚tu2 bi3
 啛cui4
 啝he2
-啞ya3,e4
+啞ya3 e4
 啟qi3
 啠zhe2
 啢liang3
 啣xian2
-啨ying1,qing2
-啩gua4,gua3
+啨ying1 qing2
+啩gua4 gua3
 啫ze2
 啯guo1
-啰luo5,luo1
+啰luo5 luo1
 啱yan2
 啲di1
-啳quan2,jue2
-啴tan1,chan3
+啳quan2 jue2
+啴tan1 chan3
 啹ju2
 啺tang2
 啿dan4
@@ -1026,57 +1026,57 @@
 喍chai2
 喎wai1
 喐yu4
-喒zan5,za2
+喒zan5 za2
 喓yao1
 喕mian3
 喖hu2
 喗yun3
 喚huan4
-喛yuan2,huan4
+喛yuan2 huan4
 喞ji1
-喠zhong3,chong3
-喡wei4,wei2
+喠zhong3 chong3
+喡wei4 wei2
 喢sha4
 喣xu4
 喤huang2
-喥zha4,duo2
-喦yan2,nie4
+喥zha4 duo2
+喦yan2 nie4
 喨liang4
 喩yu4
-喪sang4,sang1
-喫kai4,chi1
+喪sang4 sang1
+喫kai4 chi1
 喬qiao2
 喭yan4
-單shan4,chan2
-喯pen4,ben1
-喰sun1,can1
-喲yo5,yo1
+單shan4 chan2
+喯pen4 ben1
+喰sun1 can1
+喲yo5 yo1
 喴wei1
 喺xi2
 喼jie1
 喿zao4
-嗀hu4,gu3
+嗀hu4 gu3
 嗁ti2
 嗂yao2
-嗃xiao1,he4
-嗆qiang5,qiang1
+嗃xiao1 he4
+嗆qiang5 qiang1
 嗇se4
 嗈yong1
-嗊hong3,gong3
+嗊hong3 gong3
 嗋xie2
-嗎ma5,ma2
+嗎ma5 ma2
 嗏cha1
 嗐hai4
 嗕ru4
-嗗wa1,gu1
+嗗wa1 gu1
 嗘ji1
 嗙pang3
-嗚wu4,wu1
-嗛xian2,qie4
+嗚wu4 wu1
+嗛xian2 qie4
 嗞zi1
-嗠lu4,lao4
+嗠lu4 lao4
 嗢wa4
-嗧lun2,jia1
+嗧lun2 jia1
 嗩suo3
 嗰ge3
 嗱na4
@@ -1084,21 +1084,21 @@
 嗶bi4
 嗸ao2
 嗹lian2
-嗺zui1,sui1
-嗻zhe4,zhe1
+嗺zui1 sui1
+嗻zhe4 zhe1
 嗼mo4
 嗿tan3
 嘂jiao4
 嘃chong1
-嘄jiao4,jiao1
-嘅kai4,ge2
+嘄jiao4 jiao1
+嘅kai4 ge2
 嘆tan4
-嘇shan1,can4
+嘇shan1 can4
 嘊ai2
 嘋xiao4
-嘍lou5,lou2
-嘐xiao1,jiao1
-嘑hu4,hu1
+嘍lou5 lou2
+嘐xiao1 jiao1
+嘑hu4 hu1
 嘒hui4
 嘓guo1
 嘔ou3
@@ -1106,46 +1106,46 @@
 嘖ze2
 嘗chang2
 嘙po2
-嘚dei1,de1
+嘚dei1 de1
 嘜mai4
 嘝hu2
-嘠ga2,ga1
+嘠ga2 ga1
 嘡tang1
 嘢ye3
 嘥sai1
 嘦jiao4
 嘨xiao4
-嘩hua2,hua1
+嘩hua2 hua1
 嘪mai3
 嘫ran2
-嘮lao5,lao2
+嘮lao5 lao2
 嘯xiao4
-嘰ji5,ji1
+嘰ji5 ji1
 嘳kui4
 嘵xiao1
 嘷hao2
-嘸mu4,fu3
-嘺qiao4,qiao2
-嘼xu4,chu4
-嘽tan1,chan3
-嘾tan2,dan4
+嘸mu4 fu3
+嘺qiao4 qiao2
+嘼xu4 chu4
+嘽tan1 chan3
+嘾tan2 dan4
 噀xun4
-噁wu4,e3
+噁wu4 e3
 噂zun3
-噃fan1,bo5
-噄kai4,chi1
+噃fan1 bo5
+噄kai4 chi1
 噅hui1
 噆zan3
 噇chuang2
-噈za1,cu4
+噈za1 cu4
 噉dan4
 噊yu4
-噋tun1,kuo4
+噋tun1 kuo4
 噏xi1
 噐qi4
 噑hao2
 噒lian2
-噓xu1,shi1
+噓xu1 shi1
 噕hui1
 噖yin2
 噚xun2
@@ -1153,52 +1153,52 @@
 噞yan3
 噟ying4
 噠da1
-噡zhan1,dan1
-噣zhuo2,zhou4
-噥nong5,nong2
-噦yue5,hui4
+噡zhan1 dan1
+噣zhuo2 zhou4
+噥nong5 nong2
+噦yue5 hui4
 噧xie4
-噭qiao4,jiao4
+噭qiao4 jiao4
 噮yuan4
-噯ai4,ai1
+噯ai4 ai1
 噰yong1
 噲guai4
 噳yu3
-噴pen5,pen1
+噴pen5 pen1
 噵dao4
 噸dun1
-噹dang4,dang1
+噹dang4 dang1
 噽pi3
-噾yin4,yin1
+噾yin4 yin1
 噿zui3
 嚀ning2
 嚁di2
-嚂lan4,han3
+嚂lan4 han3
 嚃ta4
-嚄wo4,o3
-嚇xia4,he4
+嚄wo4 o3
+嚇xia4 he4
 嚈ye4
 嚉duo1
-嚊xiu4,pi4
-嚋zhou1,chou2
-嚌jie1,ji4
+嚊xiu4 pi4
+嚋zhou1 chou2
+嚌jie1 ji4
 嚍jin4
 嚐chang2
 嚑xun1
 嚔ti4
-嚕lu5,lu1
+嚕lu5 lu1
 嚖hui4
-嚗pao4,bo2
+嚗pao4 bo2
 嚘you1
 嚙nie4
 嚚yin2
-嚛yo5,hu4
+嚛yo5 hu4
 嚜me5
 嚝hong1
 嚞zhe2
 嚟li2
 嚠liu2
-嚡hai4,hai2
+嚡hai4 hai2
 嚢nang2
 嚤mo1
 嚥yan4
@@ -1214,31 +1214,31 @@
 嚱xi4
 嚲duo3
 嚳ku4
-嚴yan3,yan2
-嚵chan2,chan1
+嚴yan3 yan2
+嚵chan2 chan1
 嚶ying1
 嚸dian3
 嚹la3
 嚺ta4
-嚻xiao1,ao2
+嚻xiao1 ao2
 嚽chuo4
-嚾huan4,huan1
+嚾huan4 huan1
 嚿huo4
 囀zhuan4
 囁nie4
-囂xiao1,ao2
+囂xiao1 ao2
 囄li2
 囅chan3
 囆chai4
 囇li4
 囈yi4
-囉luo5,luo1
-囋zan4,za2
+囉luo5 luo1
+囋zan4 za2
 囌su1
 囍xi3
 囎zen4
 囏jian1
-囐za2,nie4
+囐za2 nie4
 囑zhu3
 囒lan2
 囓nie4
@@ -1251,7 +1251,7 @@
 囧jiong3
 囨pian1
 囩yun2
-囪chuang1,cong1
+囪chuang1 cong1
 囬hui2
 囮e2
 囯guo2
@@ -1259,19 +1259,19 @@
 図tu2
 囶guo2
 囷qun1
-囸shi2,ri4
+囸shi2 ri4
 囻guo2
 囼tai1
 圀guo2
 圁yin2
-圂hun4,huan4
+圂hun4 huan4
 圅han2
 圇lun2
 國guo2
-圌chui2,chuan2
+圌chui2 chuan2
 圍wei2
 圎yuan2
-圏quan1,juan1
+圏quan1 juan1
 圐ku1
 圑pu3
 園yuan2
@@ -1292,8 +1292,8 @@
 圤pu2
 圥lu4
 圦kuai4
-圧ya1,ju1
-圫zhun1,yu4
+圧ya1 ju1
+圫zhun1 yu4
 圱qian1
 圲qian1
 圴zhuo2
@@ -1306,24 +1306,24 @@
 坃xun1
 坄yi4
 坅qin3
-坆mei2,fen2
-坈rong3,keng1
-坉tun4,dun4
+坆mei2 fen2
+坈rong3 keng1
+坉tun4 dun4
 坋fen4
 坒bi4
 坓jing3
-坔lan4,di4
+坔lan4 di4
 坕jing1
 坖ji4
-坘di3,chi2
-坙xing2,jing1
-坢pan4,ban4
+坘di3 chi2
+坙xing2 jing1
+坢pan4 ban4
 坣tang2
 坥qu1
 坧zhi2
 坬gua4
 坮tai2
-坰shang3,jiong1
+坰shang3 jiong1
 坱yang3
 坲fo2
 坴lu4
@@ -1333,13 +1333,13 @@
 坺ba2
 坽ling2
 坾zhu4
-坿fu4,fu2
+坿fu4 fu2
 垀hu1
 垁zhi4
 垇ao4
 垈dai4
 垉pao2
-垊min3,min2
+垊min3 min2
 垍ji4
 垎he4
 垏lv4
@@ -1352,7 +1352,7 @@
 垘fu2
 垙guang1
 垚yao2
-垜duo4,duo3
+垜duo4 duo3
 垝gui3
 垞cha2
 垟yang2
@@ -1365,59 +1365,59 @@
 垶xing1
 垷xian4
 垹bang1
-垺pou2,fu2
-垻bei4,ba4
+垺pou2 fu2
+垻bei4 ba4
 垼yi4
 垽yin4
-垾han4,an4
+垾han4 an4
 垿xu4
 埀chui2
 埁qin2
-埄feng2,beng3
-埅fang2,fang1
-埆que4,jue2
+埄feng2 beng3
+埅fang2 fang1
+埆que4 jue2
 埇yong3
 埈jun4
-埉xia2,jia1
+埉xia2 jia1
 埊di4
 埌lang4
 埍juan3
-埐qin2,jin1
+埐qin2 jin1
 埑zhe2
 埓lie3
 埗bu4
 埛jiong1
 埜ye3
 埞di1
-埡ya4,e4
-埢quan2,juan3
-埣sui4,su4
-埥zheng1,qing1
-埦wan3,wan1
+埡ya4 e4
+埢quan2 juan3
+埣sui4 su4
+埥zheng1 qing1
+埦wan3 wan1
 埧ju4
 埩zheng1
 埪kong1
-埫shang3,chong3
+埫shang3 chong3
 埬dong1
-埮tan4,tan2
-埰cai4,cai3
-埱tou4,chu4
-埲beng3,bang4
+埮tan4 tan2
+埰cai4 cai3
+埱tou4 chu4
+埲beng3 bang4
 埳kan3
 埵duo3
 埶yi4
 執zhi2
-埻zhun3,dui1
+埻zhun3 dui1
 埼qi2
 埾ju4
-埿ni4,ban4
+埿ni4 ban4
 堁ke4
 堃kun1
 堄ni4
 堅jian1
 堈gang1
 堉yu4
-堊ya4,e4
+堊ya4 e4
 堌gu4
 堎leng4
 堏fang2
@@ -1428,26 +1428,26 @@
 堖nao3
 堗tu1
 堘cheng2
-堚hun2,huan2
+堚hun2 huan2
 堛bi4
 堜lian4
-堝wo1,guo1
+堝wo1 guo1
 堟zhuan4
 堢bao3
 堣yu2
-堥mou2,mao2
+堥mou2 mao2
 堦jie1
-堨ye4,ai4
+堨ye4 ai4
 堩geng4
 堫zong1
 堬yu2
 堭huang2
 堮e4
 堯yao2
-報fu4,bao4
-堲ji2,ci2
+報fu4 bao4
+堲ji2 ci2
 堳mei2
-場chang3,chang2
+場chang3 chang2
 堶tuo2
 堷yin4
 堸feng2
@@ -1456,15 +1456,15 @@
 堻jin1
 堼heng4
 堽gang1
-堾chun1,chuan3
-堿kan3,jian3
+堾chun1 chuan3
+堿kan3 jian3
 塁lei3
 塂xing4
 塃huang1
 塅duan4
 塆wan1
 塇xuan1
-塈xi4,ji4
+塈xi4 ji4
 塉ji2
 塊kuai4
 塋ying2
@@ -1475,8 +1475,8 @@
 塓mi4
 塕weng3
 塖cheng2
-塗tu5,tu2
-塙que4,qiao1
+塗tu5 tu2
+塙que4 qiao1
 塚zhong3
 塛li4
 塜peng2
@@ -1484,7 +1484,7 @@
 塟zang4
 塠dui1
 塡tian2
-塢wu4,wu3
+塢wu4 wu3
 塣zheng4
 塤xun1
 塦zhen4
@@ -1495,31 +1495,31 @@
 塮xie4
 塯liu4
 塱lang3
-塲shang1,chang2
+塲shang1 chang2
 塳peng2
 塴beng4
 塵chen2
 塶lu4
-塷lu3,lu2
+塷lu3 lu2
 塸ou1
 塹qian4
 塺mei2
 塻mo4
-塼zhuan1,tuan2
+塼zhuan1 tuan2
 塽shuang3
 塿lou3
 墂biao1
 墄ce4
-墆zhi4,di4
+墆zhi4 di4
 墇zhang4
 墈kan4
-墊nian4,dian4
+墊nian4 dian4
 墋chen3
 墌zhi2
-墍xi4,ji4
+墍xi4 ji4
 墎guo1
 墏qiang3
-墐qin2,jin4
+墐qin2 jin4
 墑di4
 墔cui1
 墕yan4
@@ -1529,39 +1529,39 @@
 墛wei4
 墜zhui4
 墝qiao1
-墠shan4,chan3
+墠shan4 chan3
 墡shan4
-墢fei4,ba2
+墢fei4 ba2
 墣pu2
-墤tui2,kuai4
-墥tuan3,dong3
+墤tui2 kuai4
+墥tuan3 dong3
 墦fan1
-墧que4,qiao2
+墧que4 qiao2
 墪dun1
-墫zun1,cun1
+墫zun1 cun1
 墬di4
 墭sheng4
-墮hui1,duo4
+墮hui1 duo4
 墯duo4
 墰tan2
-墱deng4,deng1
-墲wu2,mu2
-墳fen4,fen2
+墱deng4 deng1
+墲wu2 mu2
+墳fen4 fen2
 墴huang2
 墵tan2
-墶da2,da1
+墶da2 da1
 墷ye4
 墹jian4
-墺yu4,ao4
+墺yu4 ao4
 墻qiang2
-墽qiao4,qiao1
+墽qiao4 qiao1
 墾ken3
 墿yi4
-壀pi2,bi4
+壀pi2 bi4
 壂dian4
 壃jiang1
 壄ye3
-壆xue2,bo2
+壆xue2 bo2
 壇tan2
 壈lan3
 壉ju4
@@ -1569,10 +1569,10 @@
 壌rang3
 壍qian4
 壎xun1
-壏xian4,lan4
+壏xian4 lan4
 壐xi3
 壒ai4
-壓ya4,ya1
+壓ya4 ya1
 壔dao3
 壗jin4
 壘lei3
@@ -1581,7 +1581,7 @@
 壛yan2
 壜tan2
 壝wei3
-壞hui4,huai4
+壞hui4 huai4
 壟long3
 壠long3
 壡rui4
@@ -1606,9 +1606,9 @@
 壿dun1
 夀shou4
 夁yi1
-夃ying2,gu3
+夃ying2 gu3
 夅jiang4
-夆pang2,feng2
+夆pang2 feng2
 夈zhai1
 変bian4
 夊sui1
@@ -1618,17 +1618,17 @@
 夑xie4
 夒nao2
 夓xia4
-夗yuan4,wan3
-夘wan1,mao3
+夗yuan4 wan3
+夘wan1 mao3
 夛duo1
 夝qing2
 夠gou4
 夡qi4
 夢meng4
-夣meng4,meng2
+夣meng4 meng2
 夦chen3
 夨ze4
-夬jue2,guai4
+夬jue2 guai4
 夰gao3
 夲tao1
 夳tai4
@@ -1636,32 +1636,32 @@
 夶bi3
 夻hua4
 夽yun3
-夾jia2,ga1
+夾jia2 ga1
 夿ba1
 奀en1
-奃ti4,di1
+奃ti4 di1
 奅pao4
 奆juan4
-奊xie2,lie4
+奊xie2 lie4
 奌dian3
-奍quan1,juan4
+奍quan1 juan4
 奐huan4
 奒kai1
-奓zha4,she1
+奓zha4 she1
 奙ben3
 奛huang3
-奜fei3,fei1
+奜fei3 fei1
 奝diao1
 奞xun4
-奟keng1,beng1
+奟keng1 beng1
 奡ao4
 奣weng3
-奤tai3,ha3
+奤tai3 ha3
 奦wu4
 奧ao4
 奨jiang3
 奩lian2
-奪duo2,dui4
+奪duo2 dui4
 奫yun1
 奬jiang3
 奭shi4
@@ -1669,8 +1669,8 @@
 奯huo4
 奰bi4
 奱luan2
-奲duo3,che3
-奵ding3,ding1
+奲duo3 che3
+奵ding3 ding1
 奷qian1
 奺jiu3
 奼cha4
@@ -1679,127 +1679,127 @@
 妀ji3
 妅hong2
 妉dan1
-妋you1,fu1
+妋you1 fu1
 妌jing4
-妎jie4,ha1
+妎jie4 ha1
 妏wen4
 妐zhong1
 妑pa1
-妔keng1,hang2
+妔keng1 hang2
 妕zhong4
 妘yun2
-妚pi1,fou3
+妚pi1 fou3
 妛chi1
-妜yue4,jue2
-妝zhuang5,zhuang1
+妜yue4 jue2
+妝zhuang5 zhuang1
 妟yan4
-妠nan4,na4
+妠nan4 na4
 妡xin1
 妢fen1
 妦feng1
-妧yuan2,wan4
+妧yuan2 wan4
 妬du4
-妭bo1,ba2
+妭bo1 ba2
 妰zhuo2
 妱zhao1
-妳ni3,nai3
+妳ni3 nai3
 妴yuan4
 妶xuan2
-妷zhi2,yi4
-妸e3,e1
+妷zhi2 yi4
+妸e3 e1
 妺mo4
 妼bi4
 妽shen1
 妿e1
 姀he2
-姁xu3,xu1
+姁xu3 xu1
 姂fa2
 姃zheng1
 姄min2
 姅ban4
-姇fu2,fu1
+姇fu2 fu1
 姈ling2
 姉zi3
 姌ran3
 姍shan1
 姎yang1
 姏man2
-姕zi1,ci1
+姕zi1 ci1
 姖ju4
-姙ren4,ren2
+姙ren4 ren2
 姛dong4
 姞ji2
 姟gai1
 姠xiang4
-姡huo2,hua2
+姡huo2 hua2
 姢juan1
 姤gou4
 姦jian1
 姧jian1
-姩nian4,nian2
+姩nian4 nian2
 姪zhi2
 姫zhen3
 姭xian4
 姮heng2
 姯guang1
-姰xun1,jun1
-姱kua1,hu4
+姰xun1 jun1
+姱kua1 hu4
 姲yan4
 姳ming3
 姴lie4
 姵pei4
-姶ya4,e4
+姶ya4 e4
 姷you4
 姸yan2
-姺xian1,shen1
-姼ti2,ji4
-姽wa2,gui3
+姺xian1 shen1
+姼ti2 ji4
+姽wa2 gui3
 姾quan2
 娀song1
 娂hong2
 娊xian4
-娋shao4,shao1
-娍sheng4,cheng2
+娋shao4 shao1
+娍sheng4 cheng2
 娎xie4
 娏mang2
 娐fu1
-娒wu3,mu3
+娒wu3 mu3
 娔ke4
-娕chuo4,cu4
-娖chuo4,cu4
-娗ting3,tian3
+娕chuo4 cu4
+娖chuo4 cu4
+娗ting3 tian3
 娙xing2
 娚nan2
 娛yu2
-娝pou1,bi3
-娞sui1,nei3
+娝pou1 bi3
+娞sui1 nei3
 娡zhi4
 娢han2
 娤zhuang1
 娦pin2
 娧tui4
 娨xian4
-娪wu4,wu2
+娪wu4 wu2
 娫yan2
 娬wu3
-娭xi1,ai1
+娭xi1 ai1
 娮yan2
 娯yu2
 娰si4
 娳li4
 娵ju1
-娷zhui4,shui4
+娷zhui4 shui4
 娸qi1
 娹xian2
 娺zhuo2
-娻dong4,dong1
+娻dong4 dong1
 娽lu4
-娾e4,ai2
-娿e3,e1
+娾e4 ai2
+娿e3 e1
 婁lou2
 婂mian2
 婃cong2
-婄pou3,bu4
+婄pou3 bu4
 婅ju1
 婇cai3
 婈ling2
@@ -1807,50 +1807,50 @@
 婌shu2
 婍qi3
 婎hui1
-婏fu4,fan4
+婏fu4 fan4
 婐wo3
-婑wo3,rui2
+婑wo3 rui2
 婒tan2
 婓fei1
 婔fei1
 婖tian1
-婗ni3,ni2
+婗ni3 ni2
 婘quan2
 婙jing4
 婛jing1
-婜qian1,jin3
+婜qian1 jin3
 婝dian4
 婞xing4
 婟hu4
-婠wan1,guan4
+婠wan1 guan4
 婡lai2
 婣yin1
 婤zhou1
-婥nao4,chuo4
-婦fu5,fu4
+婥nao4 chuo4
+婦fu5 fu4
 婨lun2
-婩nve4,an4
-婫kun1,hun4
+婩nve4 an4
+婫kun1 hun4
 婬yin2
-婭ya4,ya3
+婭ya4 ya3
 婮ju1
-婯li4,li2
+婯li4 li2
 婰dian3
 婱xian2
 婳hua4
-婸yang2,dang4
+婸yang2 dang4
 婹yao3
 婻nan4
-婼ruo4,chuo4
+婼ruo4 chuo4
 婽jia3
 婾tou1
-媀yu4,yu2
-媁wei3,wei2
-媂ti2,di4
+媀yu4 yu2
+媁wei3 wei2
+媂ti2 di4
 媃rou2
 媄mei3
 媅dan1
-媆ruan3,nen4
+媆ruan3 nen4
 媇qin1
 媈hui1
 媉wo4
@@ -1863,17 +1863,17 @@
 媐yi2
 媑zhong4
 媓huang2
-媔mian3,mian2
-媕yan3,an1
+媔mian3 mian2
+媕yan3 an1
 媖ying1
 媗xuan1
 媘jie1
 媙wei1
 媜zheng1
 媝qiu1
-媞ti2,shi4
+媞ti2 shi4
 媟xie4
-媠tuo3,duo4
+媠tuo3 duo4
 媡lian4
 媢mao4
 媣ran3
@@ -1886,8 +1886,8 @@
 媫jie2
 媬bao3
 媭xu1
-媮yu2,tou1
-媯gui4,gui1
+媮yu2 tou1
+媯gui4 gui1
 媰chu2
 媱yao2
 媴yuan2
@@ -1896,16 +1896,16 @@
 媹liu2
 媺mei3
 媻pan2
-媼yun3,ao3
+媼yun3 ao3
 媽ma1
 媿kui4
-嫀shen1,qin2
-嫃zhen3,zhen1
+嫀shen1 qin2
+嫃zhen3 zhen1
 嫄yuan2
-嫅suo3,jie1
+嫅suo3 jie1
 嫆rong2
-嫇ming3,meng2
-嫈ying1,xing1
+嫇ming3 meng2
+嫈ying1 xing1
 嫊su4
 嫋niao3
 嫍tao1
@@ -1914,18 +1914,18 @@
 嫐nao3
 嫓pi4
 嫕yi4
-嫗yu4,yu3
+嫗yu4 yu3
 嫙xuan2
-嫚yuan1,man1
+嫚yuan1 man1
 嫛yi1
 嫝kang1
 嫞yong1
 嫟ni4
-嫢zui1,gui1
-嫤jin4,jin3
-嫥zhuan1,tuan2
+嫢zui1 gui1
+嫤jin4 jin3
+嫥zhuan1 tuan2
 嫧ze2
-嫨nan3,han1
+嫨nan3 han1
 嫪lao4
 嫬zhe1
 嫭hu4
@@ -1935,14 +1935,14 @@
 嫲ma2
 嫴gu1
 嫵wu3
-嫶qiao2,jiao1
-嫷tuo3,duo4
+嫶qiao2 jiao1
+嫷tuo3 duo4
 嫸zhan3
 嫹miao2
 嫺xian2
 嫻xian2
 嫼mo4
-嫽liao3,liao2
+嫽liao3 liao2
 嫿hua4
 嬀gui1
 嬁deng1
@@ -1952,7 +1952,7 @@
 嬅hua4
 嬆xi1
 嬇kui4
-嬈rao3,rao2
+嬈rao3 rao2
 嬊yan4
 嬋chan2
 嬌jiao1
@@ -1968,32 +1968,32 @@
 嬘sui4
 嬙qiang2
 嬚lian3
-嬛xuan1,qiong2
+嬛xuan1 qiong2
 嬜xin1
 嬝niao3
 嬞dong3
-嬟yi4,yi3
+嬟yi4 yi3
 嬠can1
 嬡ai4
 嬣ning2
-嬤mo5,mo2
-嬥tiao3,diao4
+嬤mo5 mo2
+嬥tiao3 diao4
 嬦chou2
 嬧jin4
 嬨ci2
 嬩yu2
 嬪pin2
 嬫rong2
-嬬ru2,nou4
-嬭nai3,er3
-嬮yan4,yan1
+嬬ru2 nou4
+嬭nai3 er3
+嬮yan4 yan1
 嬯tai2
 嬰ying1
-嬱qian4,can2
+嬱qian4 can2
 嬳yue4
 嬵mian2
 嬸shen3
-嬹xing4,xing1
+嬹xing4 xing1
 嬺ni4
 嬻du2
 嬼liu3
@@ -2002,32 +2002,32 @@
 嬿yan4
 孁ling2
 孂jiao3
-孃rang2,niang2
-孄lan4,lan3
-孅xian1,qian1
+孃rang2 niang2
+孄lan4 lan3
+孅xian1 qian1
 孆ying1
 孇shuang1
-孈xie2,hui4
-孉quan2,huan1
+孈xie2 hui4
+孉quan2 huan1
 孊mi3
-孋li4,li2
-孌luan2,lian4
-孍yan3,yan2
-孎zhu2,shu2
-孏lan4,lan3
+孋li4 li2
+孌luan2 lian4
+孍yan3 yan2
+孎zhu2 shu2
+孏lan4 lan3
 孒jue2
-孖zi1,ma1
+孖zi1 ma1
 孞xin4
 孠si4
 孡tai1
 孧you4
-孨zhuan3,ni4
-孫xun4,sun1
+孨zhuan3 ni4
+孫xun4 sun1
 孭mie1
 孮cong2
 孯qian1
 孲ya1
-孴yi4,ni3
+孴yi4 ni3
 孶zi1
 孷li2
 學xue2
@@ -2037,7 +2037,7 @@
 孿luan2
 宂rong3
 宆qiong2
-宊tu1,jia1
+宊tu1 jia1
 宍rou4
 宎yao3
 宐yi2
@@ -2048,13 +2048,13 @@
 実shi2
 宧yi2
 宨tiao3
-宩xi1,shi3
+宩xi1 shi3
 宬cheng2
-宭qun2,jiong3
+宭qun2 jiong3
 宮gong1
 宯xiao1
 宱zha4
-宲shi2,bao3
+宲shi2 bao3
 宷shen3
 宺huang3
 宻mi4
@@ -2067,88 +2067,88 @@
 寊zhen1
 寋jian4
 寍ning2
-寎bing4,bing3
+寎bing4 bing3
 寏huan2
 寑qin3
 寔shi2
-寕ning4,ning2
+寕ning4 ning2
 寖jin4
 寗ning4
-寘zhi4,tian2
+寘zhi4 tian2
 寙yu3
 寚bao3
 寛kuan1
 寜ning2
-寠lv4,ju4
+寠lv4 ju4
 寢qin3
 寣hu1
-實zhi4,shi2
-寧ning4,ning2
+實zhi4 shi2
+寧ning4 ning2
 審shen3
-寪wei3,wei2
-寫xie4,xie3
+寪wei3 wei2
+寫xie4 xie3
 寬kuan1
 寭hui4
 寯jun4
 寱yi4
 寲yi2
 寳bao3
-寴qin4,qin1
-寵long2,chong3
+寴qin4 qin1
+寵long2 chong3
 寶bao3
 寷feng1
-寽lv4,lve4
+寽lv4 lve4
 尀po3
-尃fu1,bu4
+尃fu1 bu4
 尅ke4
-將qiang1,jiang1
+將qiang1 jiang1
 專zhuan1
 尋xun2
-尌zhu4,shu4
-對dui5,dui4
+尌zhu4 shu4
+對dui5 dui4
 導dao3
-尐jie2,ji2
-尒mi3,er3
-尓mi3,er3
+尐jie2 ji2
+尒mi3 er3
+尓mi3 er3
 尗shu1
 尙shang4
 尛mo2
-尞liao4,liao2
+尞liao4 liao2
 尟xian3
 尠xian3
 尡kun1
 尣wang1
-尦niao3,liao4
-尨meng2,mang2
+尦niao3 liao4
+尨meng2 mang2
 尩wang1
 尪wang1
 尫wang1
 尭yao2
 尮duo4
-尯kui4,kui3
+尯kui4 kui3
 尰zhong3
 尲gan1
 尳gu3
 尵tui2
 尶gan1
 尷gan1
-屃xie4,xi4
+屃xie4 xi4
 屄bi1
 屆jie4
 屇tian2
 屌diao3
 屍shi1
 屒zhen3
-屓xie4,xi4
+屓xie4 xi4
 屔ni2
 屖xi1
 屗wei3
 屘man3
-屚lou4,lou2
-屛ping2,bing3
+屚lou4 lou2
+屛ping2 bing3
 屜ti4
 屝fei4
-屟xie4,ti4
+屟xie4 ti4
 屢lv3
 層ceng2
 屧xie4
@@ -2156,19 +2156,19 @@
 屩jue1
 屪liao2
 屫jue1
-屬zhu3,shu3
-屭xie4,xi4
+屬zhu3 shu3
+屭xie4 xi4
 屰ni4
 屲wa1
 屳xian1
 屴li4
-屵yan3,e4
+屵yan3 e4
 屶hui4
 屷hui4
-屸long2,hong2
+屸long2 hong2
 屻ren4
 屼wu4
-屽han4,an4
+屽han4 an4
 屾shen1
 岀chu1
 岄yue4
@@ -2177,8 +2177,8 @@
 岇ang2
 岉wu4
 岊jie2
-岋ji2,e4
-岎fen2,cha4
+岋ji2 e4
+岎fen2 cha4
 岏wan2
 岒qian2
 岓qi2
@@ -2192,7 +2192,7 @@
 岥po1
 岦li4
 岧tiao2
-岨zu3,ju3
+岨zu3 ju3
 岪fu2
 岮tuo2
 岯pi2
@@ -2207,10 +2207,10 @@
 峂tong2
 峃xue2
 峆he2
-峇ke4,ba1
+峇ke4 ba1
 峈luo4
 峉e4
-峊nie4,fu4
+峊nie4 fu4
 峌die2
 峍lu4
 峎en3
@@ -2221,20 +2221,20 @@
 峔mu3
 峕shi2
 峖an1
-峗wei3,wei2
+峗wei3 wei2
 峘huan2
 峚mi4
 峛li3
 峜ji4
-峝tong2,dong4
-峞wei3,wei2
+峝tong2 dong4
+峞wei3 wei2
 峟you4
 峠qia3
 峢lie4
 峣yao2
 峧jiao1
 峩e2
-峫ye2,xie2
+峫ye2 xie2
 峬bu1
 峮qun1
 峯feng1
@@ -2251,10 +2251,10 @@
 峼gao4
 峽xia2
 峾yin2
-峿yu3,wu2
-崀nang3,lang4
+峿yu3 wu2
+崀nang3 lang4
 崁kan4
-崄yan3,xian3
+崄yan3 xian3
 崅que4
 崈chong2
 崉ta4
@@ -2265,41 +2265,41 @@
 崏min2
 崐kun1
 崑kun1
-崒zu2,cui4
+崒zu2 cui4
 崓gu4
 崕ya2
-崗gang4,bang1
+崗gang4 bang1
 崘lun2
 崙lun2
 崚ling2
-崜duo3,duo1
+崜duo3 duo1
 崝zheng1
 崟yin2
-崠dong4,dong1
+崠dong4 dong1
 崡han2
 崢zheng1
 崣wei3
-崥pi2,bi3
+崥pi2 bi3
 崨jie2
 崪zu2
-崫ku1,jue2
+崫ku1 jue2
 崬dong1
 崯yin2
 崰zi1
 崱ze4
 崲huang2
 崳yu2
-崵yang2,dang4
+崵yang2 dang4
 崶feng1
 崷qiu2
 崸yang2
 崹ti2
 崺yi3
 崻zhi4
-崼shi4,die2
+崼shi4 die2
 崿e4
 嵀zhu4
-嵁zhan4,kan1
+嵁zhan4 kan1
 嵂lv4
 嵃yan3
 嵄mei3
@@ -2307,38 +2307,38 @@
 嵆ji1
 嵈huan4
 嵉ting2
-嵍wu4,mao2
+嵍wu4 mao2
 嵎yu2
 嵏zong1
 嵐lan2
-嵑ke3,jie2
+嵑ke3 jie2
 嵒yan2
 嵓yan2
-嵔wei3,wei1
+嵔wei3 wei1
 嵕zong1
 嵖cha2
 嵗sui4
 嵙ke1
 嵚qin1
-嵜qi3,qi2
+嵜qi3 qi2
 嵞tu2
 嵟dui1
 嵠xi1
 嵡weng3
 嵢cang1
-嵣tang2,dang4
-嵤ying2,rong2
+嵣tang2 dang4
+嵤ying2 rong2
 嵥jie2
-嵦kai3,ai2
+嵦kai3 ai2
 嵧liu2
 嵨wu4
-嵪qiao1,kao1
+嵪qiao1 kao1
 嵭beng1
 嵮dian1
 嵰qian3
 嵱yong3
 嵲nie4
-嵳cuo2,ci1
+嵳cuo2 ci1
 嵵shi2
 嵷song3
 嵸zong1
@@ -2346,27 +2346,27 @@
 嵺liao2
 嵻kang1
 嵼chan3
-嵽die2,di4
-嵾cen1,can1
+嵽die2 di4
+嵾cen1 can1
 嵿ding3
 嶀tu1
 嶁lou3
-嶃zhan3,chan2
-嶄zhan3,chan2
-嶅ao4,ao2
+嶃zhan3 chan2
+嶄zhan3 chan2
+嶅ao4 ao2
 嶆cao2
 嶇qu1
 嶈qiang1
-嶉zui3,cui1
+嶉zui3 cui1
 嶊zui3
 嶋dao3
 嶌dao3
 嶍xi2
 嶎yu4
-嶏pi3,pei4
+嶏pi3 pei4
 嶐long2
 嶑xiang4
-嶒zheng1,ceng2
+嶒zheng1 ceng2
 嶓bo1
 嶔qin1
 嶕jiao1
@@ -2375,28 +2375,28 @@
 嶘zhan4
 嶚liao2
 嶛liao2
-嶜qin2,jin1
+嶜qin2 jin1
 嶞duo4
 嶟zun1
-嶠qiao2,jiao4
-嶡jue2,gui4
+嶠qiao2 jiao4
+嶡jue2 gui4
 嶢yao2
 嶣jiao1
 嶤yao2
 嶥jue2
-嶦zhan1,shan4
+嶦zhan1 shan4
 嶧yi4
 嶨xue2
 嶩nao2
 嶪ye4
 嶫ye4
-嶬yi3,yi2
+嶬yi3 yi2
 嶭nie4
-嶮yan3,xian3
+嶮yan3 xian3
 嶯ji2
 嶰xie4
 嶱ke2
-嶲xi1,gui1
+嶲xi1 gui1
 嶳di4
 嶴ao4
 嶵zui3
@@ -2410,16 +2410,16 @@
 嶾yin3
 嶿nuo4
 巀jie2
-巁lie4,li4
-巂xi2,gui1
+巁lie4 li4
+巂xi2 gui1
 巃long2
 巄long2
-巆ying2,hong1
+巆ying2 hong1
 巇xi1
 巈ju2
 巉chan2
 巊ying3
-巋kui4,kui1
+巋kui4 kui1
 巌yan2
 巎nao2
 巏quan2
@@ -2434,9 +2434,9 @@
 巘yan3
 巙kui2
 巚yan3
-巜kuai4,huan1
+巜kuai4 huan1
 巟huang1
-巠xing2,jing1
+巠xing2 jing1
 巣chao2
 巤lie4
 巬pu1
@@ -2448,7 +2448,7 @@
 巹jin3
 巺xun4
 巻juan3
-巿po2,fu2
+巿po2 fu2
 帀za1
 帄ding1
 帇nie4
@@ -2458,14 +2458,14 @@
 帍hu4
 帎dan4
 帒dai4
-帓wa4,mo4
-帗fu2,bo2
+帓wa4 mo4
+帗fu2 bo2
 帞mo4
 帟yi4
 帠yi4
 帡ping2
 帢qia4
-帣juan4,juan3
+帣juan4 juan3
 帤ru2
 帥shuai4
 帨shui4
@@ -2477,10 +2477,10 @@
 帰gui1
 帲ping2
 帳zhang4
-帴san4,jian3
+帴san4 jian3
 帵wan1
 帶dai4
-帹sha4,qie4
+帹sha4 qie4
 帺ji4
 帾du3
 帿hou2
@@ -2498,42 +2498,42 @@
 幐teng2
 幑hui1
 幒zhong1
-幓shen1,qiao1
+幓shen1 qiao1
 幖biao1
 幗guo2
 幘ze2
 幙mu4
 幚bang1
 幜jing3
-幝chan4,chan3
+幝chan4 chan3
 幟zhi4
-幠wu2,hu1
+幠wu2 hu1
 幣bi4
 幤bi4
 幥zhang3
 幦mi4
 幧qiao1
-幨chan4,chan1
-幩fen4,fen2
-幪meng3,meng2
+幨chan4 chan1
+幩fen4 fen2
+幪meng3 meng2
 幫bang1
-幬dao4,chou2
+幬dao4 chou2
 幭mie4
 幮chu2
 幯jie2
 幰xian3
 幱lan2
 幵jian1
-幷bing4,bing1
-幹gan4,gan1
-幾ji3,ji1
+幷bing4 bing1
+幹gan4 gan1
+幾ji3 ji1
 庁ting1
 庂ze4
 庅me5
 庈qi2
-庉tun2,dun4
-庌ya3,ya2
-庍xin4,ting1
+庉tun2 dun4
+庌ya3 ya2
+庍xin4 ting1
 庎jie4
 庒zhuang1
 庘ya1
@@ -2547,49 +2547,49 @@
 庩tu2
 庪gui3
 庫ku4
-庬meng2,mang2
-庮you3,you2
+庬meng2 mang2
+庮you3 you2
 庯bu1
-庰bing4,bing3
+庰bing4 bing3
 庱cheng3
 庲lai2
-庴ji2,ji1
+庴ji2 ji1
 庺song1
 庻shu4
-庼qing3,qing1
+庼qing3 qing1
 庽yu4
 庿miao4
 廀sou1
-廁ci4,ce4
+廁ci4 ce4
 廂xiang1
 廄jiu4
 廅e4
-廆wei3,gui1
+廆wei3 gui1
 廇liu4
-廈xia4,sha4
+廈xia4 sha4
 廋sou1
 廌zhi4
 廍bu4
-廎qing3,qing1
+廎qing3 qing1
 廏jiu4
 廐jiu4
 廔lou2
 廕yin4
-廗xi2,dai4
+廗xi2 dai4
 廘lu4
 廙yi4
 廚chu2
 廜tu2
 廝si1
-廞xin1,qian4
+廞xin1 qian4
 廟miao4
 廠chang3
 廡wu3
-廢fei4,fa1
-廣guang4,an1
+廢fei4 fa1
+廣guang4 an1
 廥kuai4
 廦bi4
-廧se4,qiang2
+廧se4 qiang2
 廩lin3
 廫liao2
 廬lu2
@@ -2607,35 +2607,35 @@
 廼nai3
 廽hui2
 弅fen4
-弆qu3,ju3
-弇yan3,yan1
+弆qu3 ju3
+弇yan3 yan1
 弉zang4
 弌yi1
 弍er4
 弎san1
 弒shi4
-弔diao4,di4
+弔diao4 di4
 弖hu4
 弙wu1
-弚ti4,di4
+弚ti4 di4
 弜jiang4
 弝ba4
 弞shen3
-弡zhang1,jue2
+弡zhang1 jue2
 弢tao1
 弣fu3
 弤di3
 弨chao1
 弫zhen3
 弬yi2
-弮quan1,juan4
+弮quan1 juan4
 弰shao1
-弲yuan1,xuan1
+弲yuan1 xuan1
 弳jing4
 弴diao1
 張zhang1
 弶jiang4
-強qiang3,jiang4
+強qiang3 jiang4
 弸peng2
 弻bi4
 弽she4
@@ -2644,14 +2644,14 @@
 彃bi4
 彄kou1
 彅jian3
-彆bie5,bie4
+彆bie5 bie4
 彇xiao1
-彈tan5,dan4
-彉kuo4,guo1
-彊qiang2,jiang1
+彈tan5 dan4
+彉kuo4 guo1
+彊qiang2 jiang1
 彋hong2
-彌mi3,mi2
-彍kuo4,guo1
+彌mi3 mi2
+彍kuo4 guo1
 彎wan1
 彏jue2
 彑ji4
@@ -2671,18 +2671,18 @@
 彮yong3
 彯piao1
 彲chi1
-彴zhuo2,bo2
-彵yi2,tuo3
+彴zhuo2 bo2
+彵yi2 tuo3
 彶ji2
 彸zhong1
 彺wang2
 彽di1
-彾ling3,ling2
+彾ling3 ling2
 彿fu2
 徃wang3
 徆xi1
-徍wang3,wa1
-徎zheng4,cheng3
+徍wang3 wa1
+徎zheng4 cheng3
 徏zhi4
 徑jing4
 従cong2
@@ -2693,75 +2693,75 @@
 徝zhi4
 從cong2
 徟zhou1
-徠lai4,lai2
+徠lai4 lai2
 徢xie4
 徣jie4
 徤jian4
-徥ti3,shi4
-徦xia2,jia3
+徥ti3 shi4
+徦xia2 jia3
 徧bian4
 復fu4
 徫wei3
-徬pang2,bang4
+徬pang2 bang4
 徯xi1
 徰zheng1
 徱piao4
-徲ti2,chi2
+徲ti2 chi2
 徳de2
-徴zhi3,zheng1
+徴zhi3 zheng1
 徶bie2
-徸zhong3,chong1
+徸zhong3 chong1
 徹che4
 徺yao2
 徻hui4
 徾mei2
-徿long4,long3
+徿long4 long3
 忀xiang1
 忁bao4
-忂qu2,ju4
+忂qu2 ju4
 忇le4
 忈ren2
-忊ting4,ding4
+忊ting4 ding4
 忋gai3
 忎ren2
-忓han4,gan1
-忔yi4,qi4
-忕tai4,shi4
-忚xi1,lie3
-忛fan4,fan1
-忞wen3,min2
+忓han4 gan1
+忔yi4 qi4
+忕tai4 shi4
+忚xi1 lie3
+忛fan4 fan1
+忞wen3 min2
 忟wen3
 忢wu4
 忣ji2
 忥xi4
-忦jie4,jia2
-忨wan4,wan2
+忦jie4 jia2
+忨wan4 wan2
 忩cong1
-忬yu4,shu1
-忯shi4,qi2
+忬yu4 shu1
+忯shi4 qi2
 忰cui4
 忲tai4
-忳zhun1,dun4
-忴qin2,qian2
+忳zhun1 dun4
+忴qin2 qian2
 忶hun2
 忷xiong1
-忹wang3,kuang2
+忹wang3 kuang2
 忺xian1
-忼kang4,kang1
+忼kang4 kang1
 怇ju4
 怈yi4
-怉bao4,bao3
-怋min2,men2
+怉bao4 bao3
+怋min2 men2
 怌pei1
-怐kou4,ju4
+怐kou4 ju4
 怑ban4
-怓niu2,nao2
-怗zhan1,tie1
-怘hu4,gu4
-怚qu1,ju4
-怞you2,chou2
+怓niu2 nao2
+怗zhan1 tie1
+怘hu4 gu4
+怚qu1 ju4
+怞you2 chou2
 怟di4
-怢tu1,die2
+怢tu1 die2
 怣you2
 怤fu1
 怬xi4
@@ -2771,8 +2771,8 @@
 怱cong1
 怲bing3
 怳huang3
-怴xue4,xu4
-怶pi1,bi4
+怴xue4 xu4
+怶pi1 bi4
 怷shu4
 怸xi1
 怹tan1
@@ -2780,19 +2780,19 @@
 恀shi4
 恄xi4
 恅lao3
-恆heng2,geng4
+恆heng2 geng4
 恇kuang1
 恈mou2
 恉zhi3
 恊xie2
-恌yao2,tiao1
+恌yao2 tiao1
 恎die2
 恏hao4
-恑wei2,gui3
+恑wei2 gui3
 恓xi1
-恔xiao4,jiao3
+恔xiao4 jiao3
 恖si1
-恗kua1,hu1
+恗kua1 hu1
 恘qiu1
 恛hui2
 恜chi4
@@ -2809,27 +2809,27 @@
 恵hui4
 恾mang2
 悀yong3
-悁yuan1,juan4
+悁yuan1 juan4
 悂pi1
 悅yue4
-悆yu4,shu1
-悇yu2,tu2
-悈ke4,jie4
+悆yu4 shu1
+悇yu2 tu2
+悈ke4 jie4
 悊zhe2
 悋lin4
-悎jiao4,hao4
+悎jiao4 hao4
 悏qie4
 悐ti4
 悑bu4
 悓qian4
 悕xi1
-悗men4,man2
+悗men4 man2
 悘yi4
-悙heng4,heng1
+悙heng4 heng1
 悜cheng3
 悞wu4
 悡li2
-悢liang4,lang3
+悢liang4 lang3
 悤cong1
 悥yi4
 悧li4
@@ -2838,14 +2838,14 @@
 悰cong2
 悳de2
 悵chang4
-悶men5,men1
+悶men5 men1
 悷li4
 悹guan4
 悺guan4
 悽qi1
 悾kong1
 悿tian3
-惀lun4,lun2
+惀lun4 lun2
 惁xi1
 惂kan3
 惃gun3
@@ -2853,35 +2853,35 @@
 惇dun1
 惈guo3
 惉zhan1
-惌yuan1,wan3
+惌yuan1 wan3
 惍jin1
 惎ji4
-惏lin2,lan2
-惐yu4,xu4
+惏lin2 lan2
+惐yu4 xu4
 惒he2
-惓quan2,juan4
-惔tan2,dan4
+惓quan2 juan4
+惔tan2 dan4
 惖ti4
 惗nie4
 惙chuo4
 惛hun1
 惞xin1
-惡wu5,e3
-惢suo3,rui3
+惡wu5 e3
+惢suo3 rui3
 惣zong3
 惤jian1
 惥yong3
 惪de2
 惱nao3
 惲yun4
-惵tie1,die2
+惵tie1 die2
 惷chun3
 惸qiong2
 惻ce4
 惼bian3
 惽hun1
 惾zong1
-惿ti2,shi4
+惿ti2 shi4
 愂bei4
 愃xuan1
 愄wei1
@@ -2892,30 +2892,30 @@
 愌huan4
 愐mian3
 愑yong3
-愒qi4,he4
-愓shang1,dang4
+愒qi4 he4
+愓shang1 dang4
 愔yin1
-愖dan1,chen2
+愖dan1 chen2
 愗mao4
-愘qia4,qia1
+愘qia4 qia1
 愙ke4
 愛ai4
 愜qie4
 愝yan3
-愞ruan3,nuo4
-愢si1,sai1
+愞ruan3 nuo4
+愢si1 sai1
 愨que4
-愩hong3,gong1
+愩hong3 gong1
 愪yun2
 愬su4
 愭qi2
-愮yao4,yao2
+愮yao4 yao2
 愯song3
-愰huang4,huang3
+愰huang4 huang3
 愱ji2
 愲gu3
 愳ju4
-愴chuang4,chuang3
+愴chuang4 chuang3
 愵ni4
 愶xie2
 愷kai3
@@ -2925,21 +2925,21 @@
 愻xun4
 愼shen4
 愽bo2
-愾xi4,kai4
-慀xie2,xi4
+愾xi4 kai4
+慀xie2 xi4
 慁hun4
 慂yong3
 慃yang3
 慄li4
-慅sao1,cao3
+慅sao1 cao3
 慆tao1
 慇yin1
-慉xu4,chu4
+慉xu4 chu4
 態tai4
-慍yun4,yun3
+慍yun4 yun3
 慏ming3
-慐gong4,gong1
-慒cong2,cao2
+慐gong4 gong1
+慒cong2 cao2
 慓piao4
 慔mu4
 慖guo2
@@ -2951,16 +2951,16 @@
 慜min3
 慞zhang1
 慟tong4
-慠ao4,ao2
+慠ao4 ao2
 慡shuang3
 慣guan4
 慤que4
 慥zao4
 慦jiu4
 慩lian2
-慪ou4,ou1
+慪ou4 ou1
 慫song3
-慬qin2,jin4
+慬qin2 jin4
 慭yin4
 慮lv4
 慯shang1
@@ -2969,9 +2969,9 @@
 慳qian1
 慴she4
 慶qing4
-慸di4,chi4
-慹zhi2,zhe2
-慺lv3,lou2
+慸di4 chi4
+慹zhi2 zhe2
+慺lv3 lou2
 慻juan4
 慼qi1
 慽qi1
@@ -2994,15 +2994,15 @@
 憑ping2
 憒kui4
 憓hui4
-憕zheng4,cheng2
-憖yin4,xin4
+憕zheng4 cheng2
+憖yin4 xin4
 憗yin4
-憘xi3,xi1
-憙xi3,xi1
-憚dan4,da2
+憘xi3 xi1
+憙xi3 xi1
+憚dan4 da2
 憛tan2
 憜duo4
-憞dun4,dui4
+憞dun4 dui4
 憟su4
 憠jue2
 憡ce4
@@ -3010,15 +3010,15 @@
 憣fan1
 憤fen4
 憥lao2
-憦lao4,lao2
-憪xian4,xian2
+憦lao4 lao2
+憪xian4 xian2
 憫min3
-憭liao3,liao2
+憭liao3 liao2
 憮wu3
 憯can3
 憰jue2
 憱cu4
-憲xian4,xian3
+憲xian4 xian3
 憳tan3
 憴sheng2
 憵pi1
@@ -3027,53 +3027,53 @@
 憹nao2
 憺dan4
 憻tan3
-憼jing4,jing3
+憼jing4 jing3
 憽song1
-憿jiao3,ji1
+憿jiao3 ji1
 懀wei4
-懁xuan1,huan1
+懁xuan1 huan1
 懃qin2
 懄qin2
 懅ju4
-懆sao1,cao3
+懆sao1 cao3
 懇ken3
-應ying5,ying1
+應ying5 ying1
 懌yi4
 懍lin3
 懎se4
 懏jun4
 懐huai2
 懓ai4
-懕yan4,yan1
+懕yan4 yan1
 懖kuo4
 懗xia4
 懘chi4
-懙yu3,yu2
+懙yu3 yu2
 懚yin4
 懛dai1
-懜meng4,meng2
-懝ni4,ai4
+懜meng4 meng2
+懝ni4 ai4
 懞meng2
 懟dui4
-懠qi2,ji4
+懠qi2 ji4
 懡mo3
-懢xian4,lan2
+懢xian4 lan2
 懣men4
 懤chou2
 懥zhi4
 懧nuo4
-懨yan1,chu2
+懨yan1 chu2
 懩yang3
 懪bo2
 懫zhi4
 懬kuang4
 懭kuang3
-懮you3,you1
+懮you3 you1
 懯fu1
-懰liu3,liu2
+懰liu3 liu2
 懱mie4
 懲cheng2
-懳sui4,hui4
+懳sui4 hui4
 懴chan4
 懶lan3
 懷huai2
@@ -3082,15 +3082,15 @@
 懺chan4
 懻ji4
 懼ju4
-懽huan1,guan4
+懽huan1 guan4
 懾she4
 戀lian4
 戁nan3
-戂mo2,mi2
+戂mo2 mi2
 戃tang3
 戄jue2
-戅zhuang4,gang4
-戇zhuang4,gang4
+戅zhuang4 gang4
+戇zhuang4 gang4
 戉yue4
 戓ge1
 戔jian1
@@ -3098,22 +3098,22 @@
 戜die2
 戝zei2
 戞jia2
-戠zhi2,zhi1
+戠zhi2 zhi1
 戣kui2
-戧qiang4,qiang1
+戧qiang4 qiang1
 戨ge1
 戩jian3
 戫yu4
-戭you3,yan3
-戯xi4,hu1
-戰zhan5,zhan4
-戱xi4,hu1
-戲xi4,hu1
+戭you3 yan3
+戯xi4 hu1
+戰zhan5 zhan4
+戱xi4 hu1
+戲xi4 hu1
 戵qu2
-戶hu5,hu4
+戶hu5 hu4
 戸hu4
 戹e4
-戺yi2,shi4
+戺yi2 shi4
 戻ti4
 戼mao3
 扂dian4
@@ -3122,173 +3122,173 @@
 扆yi3
 扊yan3
 扏qiu2
-扐li4,le4
+扐li4 le4
 払fan3
 扗zai4
 扙zhang4
-扚diao3,di2
-扜yu1,wu1
-扝wu1,ku1
-扞han4,gan3
+扚diao3 di2
+扜yu1 wu1
+扝wu1 ku1
+扞han4 gan3
 扟shen1
-扠chai1,cha1
-扡yi3,chi3
-扢qi4,ge1
+扠chai1 cha1
+扡yi3 chi3
+扢qi4 ge1
 扤wu4
 扥den4
 扨ren4
-扱xi1,cha1
-扲qin2,qian2
+扱xi1 cha1
+扲qin2 qian2
 扴jia2
 扵yu2
 扷ao4
-扸zhe2,xi1
+扸zhe2 xi1
 扺zhi3
 扻zhi4
 扽den4
 抁yan3
-抂wang3,kuang2
+抂wang3 kuang2
 抃bian4
-抅ju1,gou1
+抅ju1 gou1
 抆wen3
-抇hu2,gu3
+抇hu2 gu3
 抈yue4
 抋qin4
-抌shen3,dan3
+抌shen3 dan3
 抍zheng3
 抎yun3
 抏wan2
-抐ni4,ne4
+抐ni4 ne4
 抔pou2
-抝ao4,ao3
+抝ao4 ao3
 択ze2
 抣jun1
 抦bing3
-抧zhi3,zhai3
+抧zhi3 zhai3
 抩nan2
 抪bu4
 抭yao3
 抮zhen3
 抯zha1
 抰yang1
-抲he4,he1
-抳ni3,ni2
-抴ye4,she2
+抲he4 he1
+抳ni3 ni2
+抴ye4 she2
 抶chi4
-抷pi1,pei1
+抷pi1 pei1
 抸jia1
 抺mei4
 抾qu1
 拀chu4
-拁ya2,jia1
-拃zhan3,zha3
+拁ya2 jia1
+拃zhan3 zha3
 拋pao1
 拏na2
 拑qian2
 拕tuo1
 拝bai4
-拞zhi3,di3
+拞zhi3 di3
 拠ju4
 拡kuo4
 拤qia2
 拪qian1
 拫hen2
 拲gong3
-拸yi2,chi3
+拸yi2 chi3
 拹xie2
-拺se4,ce4
+拺se4 ce4
 拻hui1
 挀bai1
 挃zhi4
-挄kuo4,guang1
-挅duo4,duo3
-挆duo4,duo3
+挄kuo4 guang1
+挅duo4 duo3
+挆duo4 duo3
 挊nong4
 挋zhen4
-挌he2,ge2
-挍jiao4,jiao1
+挌he2 ge2
+挍jiao4 jiao1
 挏dong4
-挐ru2,na2
+挐ru2 na2
 挒lie4
 挓zha1
 挔lu3
-挕she4,die2
+挕she4 die2
 挗jue2
 挘lie3
 挙ju3
-挜ya4,ya3
+挜ya4 ya3
 挦xian2
 挧yu3
-挩tuo1,shui4
+挩tuo1 shui4
 挬bo2
 挭geng3
-挮ti4,ti3
+挮ti4 ti3
 挰cheng2
-挱sha1,suo1
-挳qian1,keng1
+挱sha1 suo1
+挳qian1 keng1
 挴mei3
 挵nong4
 挶ju1
-挷peng2,bang4
+挷peng2 bang4
 挸jian3
 挻shan1
 挼rua2
-挾xie2,jia1
+挾xie2 jia1
 挿cha1
 捀feng2
-捁ku4,jiao3
-捄qiu2,ju1
-捇huo4,chi4
-捈tu2,cha1
-捊pou2,fu2
+捁ku4 jiao3
+捄qiu2 ju1
+捇huo4 chi4
+捈tu2 cha1
+捊pou2 fu2
 捑ze4
-捒shu4,song3
+捒shu4 song3
 捓ye2
-捔zhuo2,jue2
+捔zhuo2 jue2
 捖wan2
-捗zhi4,bu4
-捙zhuai4,ye4
+捗zhi4 bu4
+捙zhuai4 ye4
 捚zhai1
 捛lu3
 捜sou1
-捝tuo1,shui4
+捝tuo1 shui4
 捠bang1
 捤wei3
-捥wan4,wan1
+捥wan4 wan1
 捦qin2
 捨she3
 捪min2
 捫men2
-捬fu4,fu3
-捯dao3,dao2
-捰wo3,luo4
+捬fu4 fu3
+捯dao3 dao2
+捰wo3 luo4
 捲juan3
 捳yue4
 捴zong3
-捵tian3,chen1
+捵tian3 chen1
 捸tu1
 捹ben4
-捽zuo2,cu4
-捾xia2,wo4
+捽zuo2 cu4
+捾xia2 wo4
 捿qi1
 掁cheng2
-掃sao4,sao3
-掄lun2,lun1
+掃sao4 sao3
+掄lun2 lun1
 掅qing4
 掆gang4
-掋di4,di3
+掋di4 di3
 掍hun4
 掑qi2
 掓shu1
 掔qian1
 掕ling2
-掗ya4,ya3
-掙zheng5,zheng1
+掗ya4 ya3
+掙zheng5 zheng1
 掚liang3
 掛gua4
-掝xu4,huo4
-掞yan4,shan4
-掟zheng3,ding4
+掝xu4 huo4
+掞yan4 shan4
+掟zheng3 ding4
 採cai3
 掤bing1
 掦ti4
@@ -3296,87 +3296,87 @@
 掯ken4
 掱pa2
 掲jie1
-掶jie2,geng1
+掶jie2 geng1
 掹meng2
 掽peng4
 掿nuo4
 揀jian3
-揁zheng1,keng1
-揂you2,jiu1
-揃jian3,jian1
+揁zheng1 keng1
+揂you2 jiu1
+揃jian3 jian1
 揅yan2
 揇nan3
-揈xuan4,hong1
-揊pi4,che4
+揈xuan4 hong1
+揊pi4 che4
 揋wei1
-揌sai1,cai1
+揌sai1 cai1
 揑nie1
 揓shi4
 揔zong3
 揕zhen4
 揗xun2
-揘yong2,huang2
-揙bian4,bian1
+揘yong2 huang2
+揙bian4 bian1
 揚yang2
-換huan5,huan4
+換huan5 huan4
 揜yan3
-揝zuan4,zan3
-揟xu1,ju1
-揢qia1,ke2
+揝zuan4 zan3
+揟xu1 ju1
+揢qia1 ke2
 揤ji2
-揥ti4,di4
-揦la4,la2
+揥ti4 di4
+揦la4 la2
 揧la4
 揨chen2
 揫jiu1
 揬tu2
-揮hun2,hui1
+揮hun2 hui1
 揯gen4
-揰dong3,chong3
+揰dong3 chong3
 揱xiao1
-揳xie4,xie1
-揵qian2,jian4
+揳xie4 xie1
+揵qian2 jian4
 揷cha1
 揹bei1
 揺yao2
 揻wei1
 揼beng4
-揾wu4,wen4
+揾wu4 wen4
 搃zong3
 搄gen4
-搆gou4,gou1
+搆gou4 gou1
 搇qin4
 搈rong2
 搉que4
-搊zou3,chou1
+搊zou3 chou1
 損sun3
 搎sun1
-搑rong2,nang2
-搒peng2,bang4
-搕ke1,e4
+搑rong2 nang2
+搒peng2 bang4
+搕ke1 e4
 搖yao2
-搗dao5,dao3
+搗dao5 dao3
 搘zhi1
-搙nuo4,nou4
-搚xie2,la1
+搙nuo4 nou4
+搚xie2 la1
 搝qiu3
 搟xian1
 搢jin4
 搣mie4
-搤yi4,e4
-搥dui1,chui2
+搤yi4 e4
+搥dui1 chui2
 搧shan1
 搨ta4
-搩zha3,jie2
-搫po2,pan2
+搩zha3 jie2
+搫po2 pan2
 搮li4
 搯tao1
-搰ku1,hu2
-搲wa4,wa1
-搳xia2,hua2
+搰ku1 hu2
+搲wa4 wa1
+搳xia2 hua2
 搵wen4
-搶qiang3,qiang1
-搷tian2,shen1
+搶qiang3 qiang1
+搷tian2 shen1
 搸zhen1
 搹e4
 搻nuo4
@@ -3385,105 +3385,105 @@
 摀wu3
 摃kang2
 摉sou1
-摋sha1,sa4
+摋sha1 sa4
 摍suo1
 摎jiu1
 摏chong1
 摐chuang1
-摑guo2,guai1
-摓peng3,feng2
-摕tu2,di4
-摖qi4,cha2
-摗sou1,song3
-摙lian4,lian3
+摑guo2 guai1
+摓peng3 feng2
+摕tu2 di4
+摖qi4 cha2
+摗sou1 song3
+摙lian4 lian3
 摚cheng1
 摛chi1
 摜guan4
 摝lu4
-摟lou5,lou1
+摟lou5 lou1
 摠zong3
-摡xi4,gai4
-摢hu4,chu1
-摣zhua1,zha1
-摤qiang4,qiang3
+摡xi4 gai4
+摢hu4 chu1
+摣zhua1 zha1
+摤qiang4 qiang3
 摥tang4
 摦hua4
-摪qiang4,jiang1
+摪qiang4 jiang1
 摫gui1
 摬ying3
-摮qiao1,ao2
+摮qiao1 ao2
 摯zhi4
 摰nie4
-摱man4,man2
-摲chan4,can2
+摱man4 man2
+摲chan4 can2
 摳kou1
-摴chu1,chi1
-摵she4,mi2
+摴chu1 chi1
+摵she4 mi2
 摶tuan2
-摷jiao3,chao1
-摻shan3,can4
-摼qian1,keng1
-摽biao4,biao1
+摷jiao3 chao1
+摻shan3 can4
+摼qian1 keng1
+摽biao4 biao1
 摾jiang4
 摿yao2
 撀gou4
-撁qian4,qian1
+撁qian4 qian1
 撃ji1
-撆pie3,pie1
+撆pie3 pie1
 撈lao1
 撉dun1
 撊xian4
 撌gui4
-撍zan3,zan1
+撍zan3 zan1
 撎yi4
 撏xian2
 撐cheng1
-撓xiao1,nao2
+撓xiao1 nao2
 撔hong4
 撗guang4
-撘ta4,da1
+撘ta4 da1
 撚nian3
 撛lin3
 撜zheng3
-撝wei2,hui1
-撟jiao3,jiao1
+撝wei2 hui1
+撟jiao3 jiao1
 撠ji3
 撡cao1
-撢tan4,dan3
-撣shan4,dan3
-撥fa2,bo1
+撢tan4 dan3
+撣shan4 dan3
+撥fa2 bo1
 撦che3
 撧jue1
 撨xiao1
 撪ben4
-撫mo2,fu3
+撫mo2 fu3
 撯zhuo2
-撱zhui4,tuo3
-撲pu1,bu3
+撱zhui4 tuo3
+撲pu1 bu3
 撳qin4
 撴dun1
 撶hua2
 撹jiao3
 撻ta4
-撽yao1,qiao4
-撾zhua1,wo1
+撽yao1 qiao4
+撾zhua1 wo1
 撿jian3
 擁yong1
 擃nang3
 擄lu3
 擆zhuo2
-擇zhai2,ze2
+擇zhai2 ze2
 擈pu1
 擉chuo4
 擊ji1
-擋dang4,dang3
+擋dang4 dang3
 擌se4
-擏qing2,jing3
+擏qing2 jing3
 擑jie1
 擓kuai3
-擔dan5,dan1
+擔dan5 dan1
 擕xie2
-擖ye4,jia1
+擖ye4 jia1
 擙ao4
 據ju4
 擛ye4
@@ -3496,39 +3496,39 @@
 擥lan3
 擧ju3
 擨ye2
-擩ru4,ru3
+擩ru4 ru3
 擪ye4
 擫ye4
 擬ni3
-擭huo4,hu4
+擭huo4 hu4
 擮jie2
 擯bin4
-擰ning4,ning2
-擱ge5,ge1
+擰ning4 ning2
+擱ge5 ge1
 擲zhi4
-擳zhi4,jie2
+擳zhi4 jie2
 擴kuo4
 擵mo2
 擶jian4
 擷xie2
-擸lie4,la4
+擸lie4 la4
 擹tan1
 擺bai3
-擻sou4,sou3
+擻sou4 sou3
 擼lu1
-擽lve4,li4
+擽lve4 li4
 擾rao3
-擿zhi4,ti1
+擿zhi4 ti1
 攁yang3
-攂lei4,lei2
-攃sa3,ca1
-攄shu1,lu4
+攂lei4 lei2
+攃sa3 ca1
+攄shu1 lu4
 攅cuan2
 攆nian3
 攇xian3
 攈jun4
 攊li4
-攋lai4,la4
+攋lai4 la4
 攌huan3
 攍ying2
 攎lu2
@@ -3537,47 +3537,47 @@
 攑qian1
 攓qian1
 攔lan2
-攕xian1,jian1
+攕xian1 jian1
 攖ying1
 攗mei2
-攙shan4,chan1
+攙shan4 chan1
 攚weng3
 攛cuan1
 攜xie2
 攝she4
-攞luo3,luo2
+攞luo3 luo2
 攟jun4
-攠mo2,mi2
+攠mo2 mi2
 攡chi1
-攢zan3,cuan2
-攣luan2,lian4
-攤tan1,nan4
-攦shai4,li4
+攢zan3 cuan2
+攣luan2 lian4
+攤tan1 nan4
+攦shai4 li4
 攧dian1
-攨wa4,wa1
-攩tang3,dang3
+攨wa4 wa1
+攩tang3 dang3
 攪jiao3
-攬lan5,lan3
-攭luo3,li4
+攬lan5 lan3
+攭luo3 li4
 攰gui4
-攱gui4,gui3
-攲qi1,ji1
+攱gui4 gui3
+攲qi1 ji1
 攳xun2
 攷kao3
 攺yi3
-攼han4,gan1
+攼han4 gan1
 攽ban1
 敀po4
 敁dian1
 敂kou4
 敃min3
-敄wu4,mou2
-敆shi1,he2
+敄wu4 mou2
+敆shi1 he2
 敇ce4
-敊shou1,chu4
-敋guo2,e4
+敊shou1 chu4
+敋guo2 e4
 敍xu4
-敎jiao4,jiao1
+敎jiao4 jiao1
 敐chen2
 敒shen1
 敓duo2
@@ -3587,32 +3587,32 @@
 敚duo2
 敜nie4
 敟dian3
-敠que4,duo1
+敠que4 duo1
 敡yi4
 敤ke3
-敥yan4,jiao3
-敧qi1,ji1
+敥yan4 jiao3
+敧qi1 ji1
 敩xiao4
 敪duo1
 敭yang2
-敮xia1,gui1
+敮xia1 gui1
 敯min3
-敱zhu2,ai2
-敳zhu2,ai2
+敱zhu2 ai2
+敳zhu2 ai2
 敵di2
 敶zhen4
-數shuo4,shu3
+數shuo4 shu3
 敹liao2
-敺qu1,ou1
+敺qu1 ou1
 敼yi3
 敽jiao3
 敾shan4
 敿jiao3
 斀zhuo2
-斁yi4,du4
+斁yi4 du4
 斂lian3
 斃bi4
-斄tai2,li2
+斄tai2 li2
 斅xiao4
 斆xiao4
 斈xue2
@@ -3631,25 +3631,25 @@
 斞yu3
 斠jiao4
 斣dou4
-斦zhi4,yin2
+斦zhi4 yin2
 斨qiang1
 斪qu2
-斬zhan4,zhan3
+斬zhan4 zhan3
 斮zhuo2
 斱zhuo2
 斲zhuo2
-斳qin2,jin3
+斳qin2 jin3
 斴lin2
 斵zhuo2
 斶chu4
 斷duan4
 斸zhu2
-斺jie4,chan3
+斺jie4 chan3
 斻hang2
 斾pei4
-斿you2,liu2
+斿you2 liu2
 旂qi2
-旇pi1,bi4
+旇pi1 bi4
 旈liu2
 旉fu1
 旊fang3
@@ -3671,7 +3671,7 @@
 旤huo4
 旪xie2
 旫tiao1
-旲ying1,tai2
+旲ying1 tai2
 旳di4
 旴xu1
 旵chan3
@@ -3679,16 +3679,16 @@
 旹shi2
 旻min2
 旼min2
-旽zhen4,tun1
+旽zhen4 tun1
 旾chun1
-旿wu4,wu3
+旿wu4 wu3
 昁bei4
 昄ban3
 昅jie2
 昇sheng1
 昈hu4
 昉fang3
-昋jiong3,gui4
+昋jiong3 gui4
 昍xuan1
 昐fen1
 昑qin3
@@ -3701,7 +3701,7 @@
 昜yang2
 昞bing3
 昡xuan4
-昢po4,pei4
+昢po4 pei4
 昣zhen3
 昤ling2
 昦hao4
@@ -3710,9 +3710,9 @@
 昫xu4
 昬hun1
 昮zong4
-昰xia4,shi4
+昰xia4 shi4
 昲fei4
-昳yi4,die2
+昳yi4 die2
 昷wen1
 昸dong1
 昹ai3
@@ -3724,7 +3724,7 @@
 晄huang3
 晅xuan1
 晆kui2
-晇xu1,kua1
+晇xu1 kua1
 晈jiao3
 晉jin4
 晊zhi4
@@ -3741,7 +3741,7 @@
 晠sheng4
 晢zhe2
 晣zhe2
-晥wan3,han4
+晥wan3 han4
 晧hao4
 晩wan3
 晪tian3
@@ -3751,30 +3751,30 @@
 晱shan3
 晲ni3
 晳xi1
-晵qi3,du4
+晵qi3 du4
 晸zheng3
 晹yi4
-晻an4,an3
+晻an4 an3
 晼wan3
 晽lin2
 晿chang1
-暀wang4,wang3
+暀wang4 wang3
 暁xiao3
 暃fei1
-暅xuan3,geng4
+暅xuan3 geng4
 暆yi2
-暈yun4,yun1
+暈yun4 yun1
 暉hui1
 暊xu3
-暋min3,min2
+暋min3 min2
 暍ye1
 暎ying4
-暏shu3,du3
+暏shu3 du3
 暐wei3
 暒qing2
 暓mao4
 暔nan2
-暕lan2,jian3
+暕lan2 jian3
 暘yang2
 暙chun1
 暚yao2
@@ -3782,7 +3782,7 @@
 暜pu3
 暞jiao3
 暟kai3
-暠hao4,gao3
+暠hao4 gao3
 暡weng3
 暢chang4
 暣qi4
@@ -3807,7 +3807,7 @@
 暻jing3
 暼pie1
 暽lin2
-暿xi3,xi1
+暿xi3 xi1
 曀yi4
 曁ji4
 曂huang4
@@ -3821,7 +3821,7 @@
 曊fei4
 曋shen3
 曌zhao4
-曍hao4,hao2
+曍hao4 hao2
 曎yi4
 曏xiang4
 曐xing1
@@ -3855,138 +3855,138 @@
 書shu1
 曺cao2
 曻sheng1
-曽zeng1,ceng2
-朁qian2,can3
+曽zeng1 ceng2
+朁qian2 can3
 朂xu4
-會kuai4,hui4
+會kuai4 hui4
 朄yin3
 朅qie4
 朆fen1
 朇pi2
-朌fen2,ban1
+朌fen2 ban1
 朎ling2
-朏ku1,fei3
+朏ku1 fei3
 朒nv4
-朓tiao4,tiao3
+朓tiao4 tiao3
 朖lang3
-朘zui1,juan1
+朘zui1 juan1
 朙ming2
-朚mang2,huang1
+朚mang2 huang1
 朜tun1
 朞qi1
 朠ying1
 朡zong1
 朢wang4
-朣tong2,chuang2
+朣tong2 chuang2
 朤lang3
 朥lao2
 朧long2
-朮zhu2,shu4
+朮zhu2 shu4
 朲ren2
 朳ba1
 朶duo3
-朷mu4,dao1
+朷mu4 dao1
 朸li4
-朹qiu2,gui3
+朹qiu2 gui3
 朻jiu1
 朼bi3
-朾zhen1,cheng2
+朾zhen1 cheng2
 朿ci4
 杄qian1
-杅yu2,wu1
+杅yu2 wu1
 杇wu1
 杊xun2
 杋fan2
 杍zi3
 杒ren4
-杔zhe2,tuo1
-杕duo4,di4
+杔zhe2 tuo1
+杕duo4 di4
 杗mang2
 杘chi4
 杙yi4
-杚ge2,gai4
+杚ge2 gai4
 杛gong1
-杝zhi4,li2
+杝zhi4 li2
 杢jiang4
 杣mian2
 杧mang2
-杫xi3,si4
+杫xi3 si4
 杬yuan2
-杮fei4,bei4
+杮fei4 bei4
 東dong1
 杴xian1
 杶chun1
-杸shu1,dui4
+杸shu1 dui4
 杹hua4
 杺xin1
-杻niu3,chou3
+杻niu3 chou3
 杽chou3
 枀song1
-枂yue4,wo4
+枂yue4 wo4
 枃jin4
 枅ji1
 枆mao2
-枈pi1,bi4
+枈pi1 bi4
 枊ang2
 枌fen2
 枍yi4
 枎fu2
 枏nan2
 枑hu4
-枒ye1,ya2
-枓zhu3,dou3
+枒ye1 ya2
+枓zhu3 dou3
 枔xin2
-枖yao3,yao1
-枙e4,e3
+枖yao3 yao1
+枙e4 e3
 枛zhao4
 枟yun4
 枡sheng1
-枤duo4,di4
+枤duo4 di4
 枦lu2
-枬zhan1,nan2
+枬zhan1 nan2
 枮zhen1
-枱tai2,ci2
+枱tai2 ci2
 枲xi3
 枴guai3
-枹fu2,bao1
+枹fu2 bao1
 枺mo4
-枻yi4,xie4
+枻yi4 xie4
 枼ye4
 枽ye4
 枾shi4
 枿nie4
 柀bi3
-柂yi2,duo4
-柅ni3,chi4
+柂yi2 duo4
+柅ni3 chi4
 柆la1
 柇he2
-柈pan2,ban4
+柈pan2 ban4
 柉fan2
 柊zhong1
 柋dai4
 柌ci2
-柍yang4,yang3
-柎fu3,fu1
+柍yang4 yang3
+柎fu3 fu1
 柕shu1
-柖shao4,shao2
+柖shao4 shao2
 柗song1
 柛shen1
-柟ran2,nan2
-柣zhi4,die2
+柟ran2 nan2
+柣zhi4 die2
 柤zha1
 柦dan4
 柧gu1
-柨pu1,bu4
-柪ao4,ao1
+柨pu1 bu4
+柪ao4 ao1
 柫fu2
-柭bo2,ba1
-柮zuo2,duo4
-柲bie2,bi4
-柵zha4,shan1
+柭bo2 ba1
+柮zuo2 duo4
+柲bie2 bi4
+柵zha4 shan1
 柶si4
 柷zhu4
 柸bei1
-柹shi4,fei4
+柹shi4 fei4
 柺guai3
 査cha2
 柼yao3
@@ -3995,14 +3995,14 @@
 栂mei2
 栆zao3
 栐yong3
-栒xun2,sun3
+栒xun2 sun3
 栔qi4
-栕zhen1,chen2
+栕zhen1 chen2
 栘yi2
 栙xiang2
 栚zhen4
 栛li4
-栜se4,ci4
+栜se4 ci4
 栞kan1
 栟bing1
 栠ren3
@@ -4016,32 +4016,32 @@
 栬zui4
 栭er2
 栮er3
-栯yu4,you3
+栯yu4 you3
 栰fa2
 栱gong3
 栴zhan1
 栵li4
 栶yin1
-栺zhi1,yi4
+栺zhi1 yi4
 栻shi4
 栿fu2
 桇ru2
-桋yi2,ti2
+桋yi2 ti2
 桍ku1
 桏qiong2
 桒sang1
 桖xue4
 桗duo4
 桘chui2
-桙yu2,mou2
-桚zan3,za1
+桙yu2 mou2
+桚zan3 za1
 桝jie2
 桞liu3
 桪xun2
 桬sha1
-桭zhen1,chen2
+桭zhen1 chen2
 桮bei1
-桯ying2,ting1
+桯ying2 ting1
 桰kuo4
 桱jing4
 桲bo2
@@ -4050,12 +4050,12 @@
 桸xi1
 桹lang2
 桺liu3
-桻feng4,feng1
+桻feng4 feng1
 桼qi1
 桽wen3
 桾jun1
-桿han4,gan1
-梀yin4,su4
+桿han4 gan1
+梀yin4 su4
 梂qiu2
 梄you3
 梇long4
@@ -4063,9 +4063,9 @@
 梉zhuang1
 梊di4
 梋xuan1
-梌tu2,cha2
+梌tu2 cha2
 梍zao4
-梎you4,ao1
+梎you4 ao1
 梐bi4
 梑di2
 梒han2
@@ -4081,16 +4081,16 @@
 梞ji4
 梟xiao1
 梠lv3
-梡kuan3,hun2
+梡kuan3 hun2
 梣cen2
 梤fen2
 梥song1
-梩si4,li2
+梩si4 li2
 梪dou4
 梫qin3
 梬ying3
 梮ju1
-梱kun3,hun2
+梱kun3 hun2
 梲zhuo2
 梴chan1
 梶wei3
@@ -4101,64 +4101,64 @@
 梽zhi4
 梾lai2
 梿lian2
-棁zhuo1,tuo1
+棁zhuo1 tuo1
 棃li2
 棄qi4
 棅bing3
 棆lun2
-棇song1,cong1
+棇song1 cong1
 棈qian4
 棊qi2
 棌cai4
 棎chan2
-棏zhe2,de2
-棐fei3,fei2
-棑pai2,bei4
-棓pou3,bang4
+棏zhe2 de2
+棐fei3 fei2
+棑pai2 bei4
+棓pou3 bang4
 棔hun1
-棖cheng2,chang2
+棖cheng2 chang2
 棗zao3
-棙lie4,li4
+棙lie4 li4
 棛yu4
 棜yu4
 棝gu4
-棞jun4,gun4
+棞jun4 gun4
 棟dong4
 棡gang1
 棢wang3
 棤cuo4
 棥fan2
 棦cheng1
-棧zhan4,zhan3
+棧zhan4 zhan3
 棨qi3
 棩yuan1
-棪yan4,yan3
+棪yan4 yan3
 棫yu4
-棬quan1,juan4
+棬quan1 juan4
 棭yi4
-棯shen3,ren3
+棯shen3 ren3
 棲qi1
 棳zhuo1
-棴su4,fu2
+棴su4 fu2
 棶lai2
-棷zou1,sou3
+棷zou1 sou3
 棸zou1
 棻fen1
 棽chen1
 棾qing2
-棿nie4,ni2
+棿nie4 ni2
 椀wan3
 椂lu4
 椃hao2
-椄jie2,jie1
-椆zhou4,chou2
+椄jie2 jie1
+椆zhou4 chou2
 椇ju3
 椈ju2
 椉cheng2
-椊zuo2,cui4
-椌qiang1,kong1
-椏ya1,e3
-椑pi2,bei1
+椊zuo2 cui4
+椌qiang1 kong1
+椏ya1 e3
+椑pi2 bei1
 椓zhuo2
 椔zi1
 椕bin1
@@ -4176,17 +4176,17 @@
 椪peng4
 椫shan4
 椬yi2
-椮sen1,san3
+椮sen1 san3
 椯duo3
 椱fu4
-椲wei3,hui1
+椲wei3 hui1
 椳wei1
-椵jia3,jia1
+椵jia3 jia1
 椶zong1
-椷jian1,han2
+椷jian1 han2
 椸yi2
 椺xi2
-椻yan4,ya4
+椻yan4 ya4
 椼yan3
 椾jian1
 楀yu3
@@ -4195,7 +4195,7 @@
 楄pian2
 楅bi1
 楆yao1
-楇huo4,guo1
+楇huo4 guo1
 楈xu1
 楉ruo4
 楊yang2
@@ -4207,45 +4207,45 @@
 楐jie4
 楑kui2
 楒si1
-楓feng1,fan2
+楓feng1 fan2
 楕tuo3
-楖zhi4,ji2
+楖zhi4 ji2
 楘mu4
 楙mao4
-楛ku3,hu4
+楛ku3 hu4
 楜hu2
 楟ting2
 楡yu2
-楢you3,you2
-楤song3,cong1
-楥yuan2,xuan4
+楢you3 you2
+楤song3 cong1
+楥yuan2 xuan4
 楧yang3
 楨zhen1
 楩pian2
-楪ye4,die2
-楬qia4,jie2
+楪ye4 die2
+楬qia4 jie2
 業ye4
-楯shun3,dun4
+楯shun3 dun4
 楰yu2
 楲wei1
 楳mei2
-楴ti4,di3
+楴ti4 di3
 極ji2
 楶jie2
-楺rou4,rou2
+楺rou4 rou2
 楻huang2
-楽yue4,le4
+楽yue4 le4
 榃tan2
-榅yun4,wen1
+榅yun4 wen1
 榌bi1
 榎jia3
 榏yi4
-榐zhen4,chan3
-榑fu4,fu2
+榐zhen4 chan3
+榑fu4 fu2
 榒nuo4
 榓mi4
 榖gu3
-榗jin4,jian4
+榗jin4 jian4
 榙ta1
 榚yao3
 榝sha1
@@ -4257,9 +4257,9 @@
 榣yao2
 榤jie2
 榥huang4
-榦han2,gan4
+榦han2 gan4
 榩qian2
-榪ma4,ma3
+榪ma4 ma3
 榬yuan2
 榮rong2
 榯shi2
@@ -4275,20 +4275,20 @@
 榽xi1
 榾gu3
 榿qi1
-槀kao4,gao3
+槀kao4 gao3
 槂sun1
 槃pan2
 槄tao1
 槅ge2
 槆chun1
-槇zhen3,dian1
+槇zhen3 dian1
 槈nou4
 槉ji2
-構jie2,gou4
-槍qiang1,cheng1
-槏xian4,qian3
+構jie2 gou4
+槍qiang1 cheng1
+槏xian4 qian3
 槑mei2
-槒xu4,chu4
+槒xu4 chu4
 槓gang4
 槕zhuo1
 槖tuo2
@@ -4298,22 +4298,22 @@
 槜zui4
 槞long2
 槡sang1
-槢xi2,die2
-槣ji1,gui1
-槤lian3,lian2
+槢xi2 die2
+槣ji1 gui1
+槤lian3 lian2
 槥hui4
 槦yong1
 槧qian4
 槨guo3
 槩gai4
 槪gai4
-槫tuan2,shuan4
+槫tuan2 shuan4
 槬hua4
-槮shen3,sen1
-槯zui3,cui1
+槮shen3 sen1
+槯zui3 cui1
 槰peng2
 槱you3
-槳jiang3,jiang1
+槳jiang3 jiang1
 槴hu4
 槵huan4
 槶gui4
@@ -4323,14 +4323,14 @@
 槺kang1
 槻gui1
 槼gui1
-槾wan4,man2
+槾wan4 man2
 樀di2
-樁zhuang1,chong1
-樂yue4,le4
+樁zhuang1 chong1
+樂yue4 le4
 樃lang3
 樄chen2
-樅zong1,cong1
-樆li2,chi1
+樅zong1 cong1
+樆li2 chi1
 樇xiu1
 樈qing2
 樉shuang3
@@ -4338,22 +4338,22 @@
 樌guan4
 樍ze2
 樎su4
-樏lei3,lei2
+樏lei3 lei2
 樐lu3
 樑liang2
 樒mi4
 樓lou2
-樔chao2,chao1
+樔chao2 chao1
 樕su4
 樖ke1
-標biao4,biao1
-樚lu4,du2
-樛liao2,jiu1
+標biao4 biao1
+樚lu4 du2
+樛liao2 jiu1
 樜zhe4
 樝zha1
 樞shu1
 樠man2
-樢niao3,mu4
+樢niao3 mu4
 樣yang4
 樤tiao2
 樥peng2
@@ -4363,12 +4363,12 @@
 樫jian1
 樬cong1
 樭ji1
-樲zhi1,er4
+樲zhi1 er4
 樳xun2
-樴zhi2,yi4
+樴zhi2 yi4
 樶zui1
 樷cong2
-樸pu3,pu2
+樸pu3 pu2
 樹shu4
 樺hua4
 樻kui4
@@ -4377,9 +4377,9 @@
 橀xi1
 橁chun1
 橂dian4
-橃fei4,fa2
+橃fei4 fa2
 橅mo2
-橆wu3,wu2
+橆wu3 wu2
 橈rao2
 橉lin4
 橊liu2
@@ -4387,30 +4387,30 @@
 橌xian4
 橍run4
 橎fan2
-橏zhan3,jian3
+橏zhan3 jian3
 橑lao3
 橒yun2
 橓shun4
-橔tui2,dun1
+橔tui2 dun1
 橕cheng1
-橖tang2,cheng1
+橖tang2 cheng1
 橗meng2
-橚xiao1,qiu1
+橚xiao1 qiu1
 橜jue2
-橝tan2,dian4
+橝tan2 dian4
 橞hui4
 機ji1
 橠nuo2
 橢tuo3
 橣ning3
 橤rui3
-橦tong2,chuang2
-橧zeng1,ceng2
-橨fen4,fen2
+橦tong2 chuang2
+橧zeng1 ceng2
+橨fen4 fen2
 橩qiong2
-橪yan1,ran3
-橫heng4,heng2
-橬qin2,qian2
+橪yan1 ran3
+橫heng4 heng2
+橬qin2 qian2
 橭gu1
 橮liu3
 橯lao4
@@ -4421,7 +4421,7 @@
 橸jing1
 橺jian4
 橽ta4
-橾shu1,qiao1
+橾shu1 qiao1
 橿jiang1
 檁lin3
 檂nong2
@@ -4438,18 +4438,18 @@
 檏pu3
 檒feng1
 檓hui3
-檔dang4,dang1
+檔dang4 dang1
 檕ji4
 檖sui4
-檘ping2,bo4
+檘ping2 bo4
 檙cheng2
 檚chu3
 檛zhua1
-檜hui4,gui4
+檜hui4 gui4
 檝ji2
 檞jie3
 檟jia3
-檡zhai2,shi4
+檡zhai2 shi4
 檢jian3
 檣qiang2
 檤dao4
@@ -4459,30 +4459,30 @@
 檨she1
 檪li4
 檭yin2
-檮tao2,chou2
+檮tao2 chou2
 檯tai2
 檰mian2
 檱qi2
 檲tuan2
-檳bing1,bin1
-檴huo4,hua4
+檳bing1 bin1
+檴huo4 hua4
 檵ji4
 檶qian1
-檷ni3,mi2
+檷ni3 mi2
 檸ning2
 檹yi1
 檺gao3
-檻kan3,jian4
+檻kan3 jian4
 檼yin4
-檽ruan3,nou4
+檽ruan3 nou4
 檾qing3
 檿yan3
 櫀qi2
 櫁mi4
-櫂zhao4,di2
+櫂zhao4 di2
 櫃gui4
 櫄chun1
-櫅ji4,ji1
+櫅ji4 ji1
 櫆kui2
 櫇po2
 櫈deng4
@@ -4490,16 +4490,16 @@
 櫋mian2
 櫌you1
 櫍zhi4
-櫎huang3,guang4
+櫎huang3 guang4
 櫏qian1
 櫐lei3
-櫑lie3,lei2
+櫑lie3 lei2
 櫒sa4
 櫓lu3
 櫔li4
 櫕cuan2
 櫖lv4
-櫗mie4,mei4
+櫗mie4 mei4
 櫘hui4
 櫙ou1
 櫚lv2
@@ -4507,43 +4507,43 @@
 櫜gao1
 櫝du2
 櫞yuan2
-櫟yue4,li4
+櫟yue4 li4
 櫠fei4
-櫡zhuo2,zhu4
+櫡zhuo2 zhu4
 櫢sou3
 櫣lian2
 櫤jiang4
 櫥chu2
 櫧zhu1
 櫨lu2
-櫩yan3,yan2
+櫩yan3 yan2
 櫪li4
 櫫zhu1
-櫬qin4,chen4
-櫭jie2,ji4
+櫬qin4 chen4
+櫭jie2 ji4
 櫮e4
 櫯su1
-櫰huai2,gui1
+櫰huai2 gui1
 櫱nie4
 櫲yu4
 櫳long2
-櫴lai4,la4
+櫴lai4 la4
 櫵jiao2
 櫶xian3
 櫷gui1
 櫸ju3
-櫹xiao1,qiu1
+櫹xiao1 qiu1
 櫺ling2
 櫻ying1
-櫼shan1,jian1
+櫼shan1 jian1
 櫽yin3
 櫾you4
 櫿ying2
 欀xiang1
 欁nong2
 欂bo2
-欃zhan4,chan2
-欄lan5,lan2
+欃zhan4 chan2
+欄lan5 lan2
 欅ju3
 欆shuang1
 欇she4
@@ -4554,86 +4554,86 @@
 欌zang1
 欍jiu4
 欎yu4
-欏luo3,luo2
-欐li4,li3
-欑zuan4,cuan2
+欏luo3 luo2
+欐li4 li3
+欑zuan4 cuan2
 欒luan2
-欓tang3,dang3
+欓tang3 dang3
 欔jue2
 欖lan3
 欗lan2
 欘zhu2
-欙luo3,lei2
+欙luo3 lei2
 欚li3
 欛ba4
 欜nang2
 欝yu4
 欞ling2
-欥yi4,huan1
-欦xian1,qian1
+欥yi4 huan1
+欦xian1 qian1
 欨xu1
 欩chao1
-欪xi4,chu4
+欪xi4 chu4
 欫qi4
 欬kai4
-欭yin1,yi4
+欭yin1 yi4
 欮jue2
 欯xi4
 欰xu4
-欱xia2,he1
+欱xia2 he1
 欳kui4
 欴lang2
 欵kuan3
-欶shuo4,sou4
-欸ea4,ai1
+欶shuo4 sou4
+欸ea4 ai1
 欻chua1
-欼chuai4,chi3
+欼chuai4 chi3
 欽qin1
 欿kan3
 歀kuan3
-歁ke4,kan3
-歂chuan3,chuan2
+歁ke4 kan3
+歂chuan3 chuan2
 歄gua1
 歅yin1
 歈yu2
 歊xiao1
 歋ye4
-歍yang1,wu1
+歍yang1 wu1
 歎tan4
-歏qun1,jin4
+歏qun1 jin4
 歐ou1
 歑hu1
-歒xiao1,ti4
+歒xiao1 ti4
 歓huan1
 歔xu1
 歕pen1
-歖yi3,xi3
+歖yi3 xi3
 歗xiao4
-歘xu1,chua1
-歛lian3,han1
+歘xu1 chua1
+歛lian3 han1
 歜chu4
 歝yi4
 歞e4
 歟yu2
 歠chuo4
-歡huan5,huan1
+歡huan5 huan1
 歨bu4
 歩bu4
 歫ju4
 歬qian2
-歭zhi4,chi2
+歭zhi4 chi2
 歮se4
 歰se4
 歱zhong3
 歲sui4
 歴li4
-歵ze2,ji4
+歵ze2 ji4
 歶yu2
 歷li4
-歸kui4,gui1
+歸kui4 gui1
 歺e4
 歽zhe2
-歾wen3,mo4
+歾wen3 mo4
 歿mo4
 殀yao1
 殅sheng1
@@ -4642,11 +4642,11 @@
 殎qia4
 殏qiu2
 殐su4
-殑qing2,jing4
+殑qing2 jing4
 殔yi4
-殗ye4,yan4
+殗ye4 yan4
 殘can2
-殙men4,hun1
+殙men4 hun1
 殜die2
 殝zhen1
 殞yun3
@@ -4658,7 +4658,7 @@
 殥yin2
 殦chi1
 殧jiu4
-殨kui4,hui4
+殨kui4 hui4
 殩cuan4
 殫dan1
 殬du4
@@ -4669,16 +4669,16 @@
 殱jian1
 殲jian1
 殶zhu4
-殸sheng1,qing4
+殸sheng1 qing4
 殹yi4
 殺sha1
-殻qiao4,ke2
-殼qiao4,ke2
-殽yao2,xiao2
+殻qiao4 ke2
+殼qiao4 ke2
+殽yao2 xiao2
 殾xun4
-毀hui4,hui3
-毃que4,qiao1
-毄ji4,ji1
+毀hui4 hui3
+毃que4 qiao1
+毄ji4 ji1
 毆ou1
 毇hui3
 毈duan4
@@ -4696,7 +4696,7 @@
 毟lie3
 毠jia1
 毢sai1
-毣mu4,mao4
+毣mu4 mao4
 毤tuo3
 毥xun2
 毦er3
@@ -4704,68 +4704,68 @@
 毨xian3
 毩ju2
 毬qiu2
-毭nuo4,dou4
+毭nuo4 dou4
 毰pei2
 毱ju2
 毲duo1
 毴bi1
 毶san1
 毷mao4
-毸sui1,sai1
+毸sui1 sai1
 毺shu1
 毻tuo4
-毼ke3,he2
+毼ke3 he2
 毾ta4
 毿san1
-氀shu1,lv2
+氀shu1 lv2
 氁mu2
-氂mao2,li2
+氂mao2 li2
 氃tong2
 氄rong3
 氈zhan1
 氉sao4
 氊zhan1
 氋meng2
-氌lu5,lu1
+氌lu5 lu1
 氎die2
 氒jue2
-氜yang2,ri4
+氜yang2 ri4
 氝nei4
 氠shen1
-氣qi5,qi4
+氣qi5 qi4
 氥xi1
 氫qing1
 氬ya4
 氭dong1
 氱yang3
 氳yun1
-氶zheng3,cheng2
+氶zheng3 cheng2
 氷bing1
 氹dang4
 氺shui3
 氻le4
-氼ni4,mei4
-氾fan4,fan2
-氿qiu2,gui3
-汃pa4,bin1
+氼ni4 mei4
+氾fan4 fan2
+氿qiu2 gui3
+汃pa4 bin1
 汄ze4
 汅mian3
 汈diao1
-汋zhuo2,yue4
+汋zhuo2 yue4
 汌chuan4
-汍wan2,huan2
-汎fan4,fa2
-汏dai4,da4
+汍wan2 huan2
+汎fan4 fa2
+汏dai4 da4
 汑tuo1
-汒mang3,mang2
-汓you2,qiu2
+汒mang3 mang2
+汓you2 qiu2
 汖pin4
 汘qian1
-汙yu2,wu1
-汚yu2,wu1
+汙yu2 wu1
+汚yu2 wu1
 汢tu3
 汣jiu3
-汥zhi1,ji4
+汥zhi1 ji4
 汦zhi3
 汧qian1
 汫jing3
@@ -4773,26 +4773,26 @@
 汭rui4
 汮jun1
 汯hong2
-汱quan3,fu2
+汱quan3 fu2
 汳bian4
-汵han2,gan4
+汵han2 gan4
 汷zhong1
 汸pang1
 決jue2
-汻huang3,hu3
+汻huang3 hu3
 汼niu2
 汿xu4
 沀xu4
 沄yun2
-沇yan3,wei3
+沇yan3 wei3
 沊dan4
 沋you2
-沍hu4,hu2
+沍hu4 hu2
 沎huo4
 沑nv4
-沒mo4,mei2
-沕wu4,fu1
-沖chong4,chong1
+沒mo4 mei2
+沕wu4 fu1
+沖chong4 chong1
 沗pang1
 沘bi3
 沚zhi3
@@ -4801,81 +4801,81 @@
 沠liu2
 沢ze2
 沨feng1
-沬mei4,hui4
+沬mei4 hui4
 沯za2
-沰tuo1,duo2
-沴zhen3,li4
-沵ni3,mi3
-沶yi2,chi2
+沰tuo1 duo2
+沴zhen3 li4
+沵ni3 mi3
+沶yi2 chi2
 沷fa1
 沺tian2
 泀si1
 況kuang4
-泂ying2,jiong3
+泂ying2 jiong3
 泃ju1
-泆yi4,die2
+泆yi4 die2
 泇jia1
 泈zhong1
-泋hui4,hui3
-泍ben4,ben1
+泋hui4 hui3
+泍ben4 ben1
 泎ze2
 泏zhu2
 泑you1
 泒gu1
-泘hu3,hu1
-泙ping2,peng1
-泚zi3,ci3
-泜zhi3,chi2
+泘hu3 hu1
+泙ping2 peng1
+泚zi3 ci3
+泜zhi3 chi2
 泝su4
 泟cheng1
 泤si4
 泦ju2
-泧xue4,sa4
+泧xue4 sa4
 泩sheng1
-泬xue4,jue2
+泬xue4 jue2
 泭fu2
 泲ji3
 泴guan4
 泹dan4
 泿yin2
-洀zhou1,pan2
+洀zhou1 pan2
 洂ye4
 洃hui1
 洅zai4
 洆cheng2
 洈wei2
 洉hou4
-洊jian4,cun2
+洊jian4 cun2
 洍si4
 洏er2
 洐xing2
-洑fu4,fu2
-洓se4,qi4
+洑fu4 fu2
+洓se4 qi4
 洔zhi3
 洕yin4
 洖wu2
-洘kao4,kao3
+洘kao4 kao3
 洜luo4
-洝yan4,an4
+洝yan4 an4
 洟ti4
 洠mou2
-洡lei4,lei3
+洡lei4 lei3
 洢yi1
 洣mi3
 洤quan2
 洦po4
 洨xiao2
-洩yi4,xie4
-洬shuo4,su4
+洩yi4 xie4
+洬shuo4 su4
 洭kuang1
-洯qie4,jie2
+洯qie4 jie2
 洰ju4
 洴ping2
 洶xiong1
 洷zhi4
-洸huang4,guang1
+洸huang4 guang1
 洺ming2
-洿wu1,hu4
+洿wu1 hu4
 浀qu1
 浂yi4
 浄jing4
@@ -4885,70 +4885,70 @@
 浖lie4
 浗qiu2
 浘wei3
-浛han4,han2
+浛han4 han2
 浝mang2
-浟you2,di2
+浟you2 di2
 浡bo2
 浢dou4
 浤hong2
-浥yi4,ya4
-浧ying3,cheng2
+浥yi4 ya4
+浧ying3 cheng2
 浨lan3
 浫han3
 浬li3
 浭geng1
 浰lian4
 浱chun2
-浲hong2,feng2
+浲hong2 feng2
 浳yi4
 浵tong2
 浶lao2
-浹xia2,jia1
+浹xia2 jia1
 浺chong1
-浻jiong3,jiong1
-浽sui1,nei3
+浻jiong3 jiong1
+浽sui1 nei3
 浾cheng1
 浿pei4
-涀xian4,jian3
+涀xian4 jian3
 涁shen4
 涃kun4
 涄ping1
 涆han4
 涇jing1
-涊ren3,nian3
+涊ren3 nian3
 涋tu1
 涍xiao4
 涏ting3
 涐e2
-涒yun1,tun1
+涒yun1 tun1
 涖li4
 涗shui4
 涘si4
 涙lei4
 涚shui4
-涢yun3,yun2
+涢yun3 yun2
 涥heng1
 涬xing4
-涭tao1,shou4
+涭tao1 shou4
 涰chuo4
 涱zhang3
-涳nang2,kong1
-涴yuan1,wan3
-涶tuo4,tuo1
+涳nang2 kong1
+涴yuan1 wan3
+涶tuo4 tuo1
 涷dong1
 涹wo1
 涺ju1
 涻she4
-涼liang4,liang2
-涽hun4,hun1
+涼liang4 liang2
+涽hun4 hun1
 涾ta4
-淁qie4,ji2
+淁qie4 ji2
 淂de2
 淃juan4
-淈hu4,gu3
-淉guo3,guan4
-淊yan1,han4
-淍zhou1,diao1
+淈hu4 gu3
+淉guo3 guan4
+淊yan1 han4
+淍zhou1 diao1
 淎peng3
 淏hao4
 淐chang1
@@ -4959,33 +4959,33 @@
 淗ju2
 淚lei4
 淛zhe4
-淜ping2,peng2
+淜ping2 peng2
 淟tian3
-淢yu4,xu4
+淢yu4 xu4
 淣ni2
 淥lu4
 淧mi4
 淨jing4
-淩ling2,ling1
+淩ling2 ling1
 淭qu2
 淯yu4
-淰shen3,nian3
-淲hu1,biao1
+淰shen3 nian3
+淲hu1 biao1
 淴hu1
 淵yuan1
 淶lai2
 淸qing1
-淺qian3,jian1
+淺qian3 jian1
 淽zhi3
-淾yin4,yin3
-淿po1,bo2
-渀ben4,ben1
+淾yin4 yin3
+淿po1 bo2
+渀ben4 ben1
 渁yuan1
-渂wen4,min2
+渂wen4 min2
 渃ruo4
 渄fei1
 渆yuan1
-済ji4,ji3
+済ji4 ji3
 渉she4
 渏yi1
 渒pai4
@@ -4993,31 +4993,31 @@
 渘rou2
 渙huan4
 減jian3
-渞wu4,qiu2
-渟ting2,ting1
-渢feng2,fan2
-渦wo1,guo1
-渧ti2,di1
+渞wu4 qiu2
+渟ting2 ting1
+渢feng2 fan2
+渦wo1 guo1
+渧ti2 di1
 渨wei1
 渪ru2
 測ce4
 渮he2
 渰yan3
-渱hong2,gong4
+渱hong2 gong4
 渳mi3
 渵mao2
 渶ying1
 渷yan3
-渹qing4,hong1
+渹qing4 hong1
 渻sheng3
 渼mei3
 渽zai1
-渾hun4,hun2
+渾hun4 hun2
 渿nai4
 湀gui3
 湁chi4
 湂e4
-湅lian4,lan4
+湅lian4 lan4
 湆qi4
 湇qi4
 湈mei2
@@ -5025,44 +5025,44 @@
 湊cou4
 湋wei2
 湌can1
-湏min3,hui4
-湐po4,bo2
-湑xu4,xu3
+湏min3 hui4
+湐po4 bo2
+湑xu4 xu3
 湒ji2
 湕jian3
 湗feng4
 湙yi4
 湚yin4
 湜shi2
-湝xie2,jie1
+湝xie2 jie1
 湞zhen1
 湠tan4
 湡yu2
 湢bi4
-湣min3,hun1
+湣min3 hun1
 湤shi1
 湥tu1
 湦sheng1
 湧yong3
 湨ju2
-湩dong4,dong3
-湪tuan4,nuan3
-湬jiu4,jiao3
+湩dong4 dong3
+湪tuan4 nuan3
+湬jiu4 jiao3
 湭qiu2
-湯tang1,shang1
+湯tang1 shang1
 湰long2
 湱huo4
 湲yuan2
 湳nan3
-湴pan2,ban4
+湴pan2 ban4
 湵you3
 湶quan2
 湷zhuang1
 湸liang4
 湹chan2
 湺xian2
-湻zhun1,chun2
-湼nie4,he4
+湻zhun1 chun2
+湼nie4 he4
 湽zi1
 満man3
 溁ying2
@@ -5073,24 +5073,24 @@
 溊bo1
 溋ying2
 溍jin4
-溎yan4,gui4
+溎yan4 gui4
 溑suo3
 溒yuan2
-溓lian3,lian2
+溓lian3 lian2
 溔yao3
 溕meng2
 準zhun3
 溗cheng2
 溙tai4
-溚ta3,da2
+溚ta3 da2
 溛wa1
-溝gou1,gang3
+溝gou1 gang3
 溞sao1
 溠zha1
 溡shi2
 溣lun4
 溤ma3
-溦wei1,mei2
+溦wei1 mei2
 溨zai1
 溩wu4
 溫wen1
@@ -5098,31 +5098,31 @@
 溭ze2
 溮shi1
 溰ai2
-溳yun3,yun2
+溳yun3 yun2
 溵yin1
 溸su4
 溼shi1
 溾ai1
 溿pan4
-滀xu4,chu4
-滃weng3,weng1
+滀xu4 chu4
+滃weng3 weng1
 滄cang1
 滅mie4
 滆ge2
-滈xue4,hao4
+滈xue4 hao4
 滉huang4
-滊xie1,xi4
+滊xie1 xi4
 滌di2
 滍zhi4
-滎ying2,xing2
+滎ying2 xing2
 滐jie2
 滒ge1
 滖sui1
 滘jiao4
 滙hui4
 滛yin2
-滜ze2,gao1
-滝shuang1,long2
+滜ze2 gao1
+滝shuang1 long2
 滣chun2
 滧yao2
 滪yu4
@@ -5138,14 +5138,14 @@
 滵mi4
 滶ao2
 滷lu3
-滸xu3,hu3
+滸xu3 hu3
 滺you1
 滻chan3
 滼fan4
 滽yong1
 滾gun3
-滿men4,man3
-漀qing3,qing1
+滿men4 man3
+漀qing3 qing1
 漁yu2
 漃ji4
 漄ya2
@@ -5156,60 +5156,60 @@
 漋long2
 漌jin3
 漍guo2
-漎song3,cong2
+漎song3 cong2
 漐zhi2
 漑gai4
 漒qiang2
 漖jiao4
 漗cong1
 漘chun2
-漙zhuan1,tuan2
-漚ou4,ou1
+漙zhuan1 tuan2
+漚ou4 ou1
 漛teng2
 漜ye3
 漝xi2
 漞mi4
 漟tang2
-漡tang4,shang1
-漢tan1,han4
+漡tang4 shang1
+漢tan1 han4
 漣lian2
 漥wa1
-漦tai1,chi2
+漦tai1 chi2
 漧gan1
-漨peng2,feng2
+漨peng2 feng2
 漬zi4
 漮kang1
 漰peng1
-漲zhang4,zhang3
-漴zhuang4,chong2
+漲zhang4 zhang3
+漴zhuang4 chong2
 漵xu4
-漷kuo4,huo3
-漸jian4,jian1
+漷kuo4 huo3
+漸jian4 jian1
 漹yan1
-漺shuang3,chuang3
-漻xiao4,liao2
-漼cui3,cui1
+漺shuang3 chuang3
+漻xiao4 liao2
+漼cui3 cui1
 漽ti2
-漿jiang4,jiang1
+漿jiang4 jiang1
 潁ying3
 潂hong2
 潃xiu3
 潄shu4
-潅huan4,guan4
+潅huan4 guan4
 潉kun1
 潊xu4
 潌zhi4
-潎pie1,pi4
-潏shu4,jue2
-潐jiao4,jiao3
-潑po1,bo1
-潒xiang4,dang4
+潎pie1 pi4
+潏shu4 jue2
+潐jiao4 jiao3
+潑po1 bo1
+潒xiang4 dang4
 潓hui4
 潔jie2
 潕wu3
 潖pa2
 潗ji2
-潙wei2,gui1
+潙wei2 gui1
 潚su4
 潛qian2
 潝xi1
@@ -5219,65 +5219,65 @@
 潤run4
 潥su4
 潧zhen1
-潨zong1,cong2
+潨zong1 cong2
 潩yi4
-潪zhi4,zhe4
+潪zhi4 zhe4
 潫wan1
-潬tan1,shan4
-潯yin2,xun2
-潰kui4,hui4
+潬tan1 shan4
+潯yin2 xun2
+潰kui4 hui4
 潱ye1
-潳zha2,tu2
-潵san4,sa3
+潳zha2 tu2
+潵san4 sa3
 潶hei1
 潷bi4
 潹chan2
 潻shu3
-潽pu3,pu1
+潽pu3 pu1
 潾lin2
 潿wei2
 澀se4
 澁se4
-澂deng4,cheng2
+澂deng4 cheng2
 澃jiong3
 澅hua4
 澆jiao1
-澇lao4,lao2
-澊cun2,cun1
+澇lao4 lao2
+澊cun2 cun1
 澋hong4
 澏han2
 澐yun2
-澑liu4,liu1
+澑liu4 liu1
 澒hong4
 澓fu2
-澔hao4,gao3
+澔hao4 gao3
 澕he2
 澖xian2
 澗jian4
 澘shan1
 澙xi4
-澛lu3,lu2
+澛lu3 lu2
 澝ning4
 澞yu2
 澟lin3
-澠sheng2,mian3
+澠sheng2 mian3
 澢dang1
-澣huan4,han4
-澤ze2,shi4
+澣huan4 han4
+澤ze2 shi4
 澥xie4
 澦yu4
-澨shi4,cuo2
-澩xue2,xiao4
+澨shi4 cuo2
+澩xue2 xiao4
 澪ling2
-澫wan4,ou3
+澫wan4 ou3
 澬zi1
 澭yong1
-澮kuai4,hui4
+澮kuai4 hui4
 澯can4
 澰lian4
 澱dian4
 澲ye4
-澴xuan4,huan2
+澴xuan4 huan2
 澵zhen1
 澷man4
 澸dan3
@@ -5289,43 +5289,43 @@
 澿qin2
 濁zhuo2
 濃nong2
-濄wo1,guo1
-濅qin1,jin4
-濆pen1,fen2
+濄wo1 guo1
+濅qin1 jin4
+濆pen1 fen2
 濇se4
-濈sha4,ji2
-濊wei4,huo4
+濈sha4 ji2
+濊wei4 huo4
 濋chu3
 濌ta4
 濍song1
-濎ting4,ding3
+濎ting4 ding3
 濐zhu3
 濓lian2
-濔ni3,mi3
+濔ni3 mi3
 濕shi1
 濖shu4
 濗mi4
 濘ning4
 濙ying2
 濚ying2
-濛meng2,meng1
-濜jin4,jin1
+濛meng2 meng1
+濜jin4 jin1
 濝qi2
-濟ji4,ji3
-濢zui3,cui4
+濟ji4 ji3
+濢zui3 cui4
 濣wo4
 濤tao1
 濥yin3
 濦yin1
 濧dui4
 濨ci2
-濩huo4,hu4
-濪qing4,jing4
-濫lan4,lan3
-濬xun4,jun4
-濭kai4,ai3
+濩huo4 hu4
+濪qing4 jing4
+濫lan4 lan3
+濬xun4 jun4
+濭kai4 ai3
 濰wei2
-濱bin1,bang1
+濱bin1 bang1
 濲gu3
 濳qian2
 濴ying2
@@ -5333,28 +5333,28 @@
 濶kuo4
 濷fei4
 濸cang1
-濺jian4,jian1
-濻wei3,dui4
-濼po1,luo4
+濺jian4 jian1
+濻wei3 dui4
+濼po1 luo4
 濽zan4
 濾lv4
 濿li4
 瀀you1
-瀁yang4,yang3
-瀂lu3,lu2
+瀁yang4 yang3
+瀂lu3 lu2
 瀃si4
 瀄zhi4
-瀅ying4,ying2
-瀆du2,dou4
-瀇wang3,wang1
+瀅ying4 ying2
+瀆du2 dou4
+瀇wang3 wang1
 瀈hui1
 瀉xie4
 瀊pan2
 瀋shen3
 瀌biao1
 瀍chan2
-瀎mo4,mie4
-瀏liu2,liu1
+瀎mo4 mie4
+瀏liu2 liu1
 瀐jian1
 瀒se4
 瀓cheng2
@@ -5366,18 +5366,18 @@
 瀙qin4
 瀜rong2
 瀝li4
-瀞jing4,cheng2
+瀞jing4 cheng2
 瀟xiao1
 瀠ying2
 瀡sui3
-瀢wei3,dui4
-瀤wai1,huai2
+瀢wei3 dui4
+瀤wai1 huai2
 瀥xue4
 瀦zhu1
-瀧shuang1,long2
+瀧shuang1 long2
 瀨lai4
 瀩dui4
-瀪fan4,fan2
+瀪fan4 fan2
 瀫hu2
 瀬lai4
 瀭shu1
@@ -5386,20 +5386,20 @@
 瀰mi2
 瀱ji4
 瀲lian4
-瀴ying3,ying1
+瀴ying3 ying1
 瀶lin2
 瀷yi4
 瀸jian1
 瀺chan2
 瀻dai4
-瀼rang4,rang2
+瀼rang4 rang2
 瀽jian3
 瀾lan2
 瀿fan2
 灁yuan1
-灂zhuo2,jiao4
+灂zhuo2 jiao4
 灃feng1
-灄she4,ni4
+灄she4 ni4
 灅lei3
 灆lan2
 灇cong2
@@ -5411,7 +5411,7 @@
 灎yan4
 灑sa3
 灒zan4
-灓luan4,luan2
+灓luan4 luan2
 灔yan4
 灕li2
 灖mi3
@@ -5423,12 +5423,12 @@
 灜ying2
 灝hao4
 灟zhu2
-灠lan4,lan3
+灠lan4 lan3
 灡lan2
 灢nang3
 灣wan1
 灤luan2
-灥xun2,quan2
+灥xun2 quan2
 灦xian3
 灧yan4
 灨gan4
@@ -5440,13 +5440,13 @@
 灳hui1
 灴hong1
 灷zhuan4
-灹zha4,yu4
+灹zha4 yu4
 灺xie4
 灻chi4
 災zai1
 炁qi4
 炂zhong1
-炃fen2,ben4
+炃fen2 ben4
 炄niu3
 炆wen2
 炇pu1
@@ -5454,8 +5454,8 @@
 炋pi1
 炌kai4
 炍pan4
-炏yan2,kai4
-炐pang4,feng1
+炏yan2 kai4
+炐pang4 feng1
 炑mu4
 炓liao4
 炗guang1
@@ -5467,106 +5467,106 @@
 炡zheng1
 炢zhu2
 炣ke3
-炤zhao4,zhao1
+炤zhao4 zhao1
 炥fu2
 炦ba2
 炧xie4
 炨xie4
 炩ling4
-炪zhuo1,chu4
-炰pao2,fou3
+炪zhuo1 chu4
+炰pao2 fou3
 炲tai2
 炴yang3
 炵tong1
-炶shan3,shan1
-為wei5,wei2
+炶shan3 shan1
+為wei5 wei2
 炾huang3
 炿zhou1
-烄yao4,jiao3
+烄yao4 jiao3
 烅xu4
 烆heng2
 烇quan3
 烉huan4
-烋xiu1,xiao1
+烋xiu1 xiao1
 烌xiu1
 烍xian3
 烎yin2
-烏ya1,wu1
+烏ya1 wu1
 烐zhou1
 烑yao2
 烒shi4
 烓wei1
-烔tong2,dong4
+烔tong2 dong4
 烕mie4
 烖zai1
 烗kai4
 烚xia2
-烜xuan3,hui3
+烜xuan3 hui3
 烝zheng1
 烞po4
-烠hui3,hui2
+烠hui3 hui2
 烡guang1
 烢che4
 烣hui1
 烥ju4
 烮lie4
-烰fu2,fu1
+烰fu2 fu1
 烱jiong3
-烲xie4,che4
+烲xie4 che4
 烳pu3
 烴ting1
 烵zhuo2
 烶ting3
 烸hai3
 烺lang3
-烻yan4,shan1
+烻yan4 shan1
 烼xu4
 烾chi4
 烿rong2
 焀hu2
 焁xi1
 焂shu1
-焃huo4,he4
-焄xun1,hun1
-焅ku4,kao4
-焆jue2,juan1
+焃huo4 he4
+焄xun1 hun1
+焅ku4 kao4
+焆jue2 juan1
 焇xiao1
 焈xi1
 焋zhuang4
-焌qu1,jun4
+焌qu1 jun4
 焍di4
-焎xie4,che4
-焏qi4,ji2
+焎xie4 che4
+焏qi4 ji2
 焑yan1
 焒lv3
 焗ju2
 焛lin4
 焜kun1
 焝hun4
-焞tun1,tui1
+焞tun1 tui1
 焟xi1
 焠cui4
-無wu2,mo2
+無wu2 mo2
 焢hong1
-焣ju4,chao3
+焣ju4 chao3
 焤fu3
-焥wo4,ai4
+焥wo4 ai4
 焧cong1
 焨feng4
 焩ping2
 焪qiong2
 焫ruo4
-焬yi4,xi1
+焬yi4 xi1
 焭qiong2
 焮xin4
 焲yi4
-焳qiao2,jiao1
+焳qiao2 jiao1
 焴yu4
 焵gang4
 焷pi2
 焹gang4
 焺sheng1
-焻gua1,chang4
+焻gua1 chang4
 焼shao1
 焾nian3
 焿geng1
@@ -5576,19 +5576,19 @@
 煃kui3
 煄zhong3
 煆xia1
-煇hui2,hui1
+煇hui2 hui1
 煈feng4
-煉lian4,lan4
+煉lian4 lan4
 煋xing1
 煍jiao3
 煏bi4
 煐ying1
 煑zhu3
-煒wei3,hui1
+煒wei3 hui1
 煓tuan1
-煔shan3,qian2
+煔shan3 qian2
 煕xi1
-煖xuan1,nuan3
+煖xuan1 nuan3
 煗nuan3
 煘chan2
 煙yan1
@@ -5596,55 +5596,55 @@
 煛jiong3
 煝mei4
 煟wei4
-煠zha2,ye4
+煠zha2 ye4
 煡jin4
 煢qiong2
 煣rou2
 煥huan4
-煩fan5,fan2
+煩fan5 fan2
 煪qiu2
 煫sui4
-煬yang4,yang2
+煬yang4 yang2
 煭lie4
 煯jie1
 煰zao4
 煱gua1
-煴yun4,yun1
+煴yun4 yun1
 煵nan3
 煶shi4
 煷liang4
 煹gou4
 煻tang2
 煼chao3
-煾yun1,en1
+煾yun1 en1
 煿bo2
-熀ye4,huang3
+熀ye4 huang3
 熁xie2
 熂xi4
 熃wu4
-熅yun4,yun1
+熅yun4 yun1
 熆he2
-熇xiao1,he4
-熈yi2,xi1
+熇xiao1 he4
+熈yi2 xi1
 熉yun2
 熌shan3
 熍qiong2
 熎yao4
 熐mi4
-熑qian1,lian2
-熒ying2,xing2
+熑qian1 lian2
+熒ying2 xing2
 熓wu3
 熕gong4
 熖yan4
 熗qiang4
 熚bi4
 熛biao1
-熜zong3,cong1
-熝lu4,ao1
+熜zong3 cong1
+熝lu4 ao1
 熞jian1
 熡lou2
-熢peng2,feng1
-熣sui1,cui3
+熢peng2 feng1
+熣sui1 cui3
 熤yi4
 熥tong1
 熦jue2
@@ -5654,8 +5654,8 @@
 熫zhi4
 熭wei4
 熮liu3
-熯ran3,han4
-熰ou4,ou1
+熯ran3 han4
+熰ou4 ou1
 熱re4
 熲jiong3
 熴kun1
@@ -5667,29 +5667,29 @@
 熼yi4
 熽xiao4
 熾chi4
-熿huang3,huang2
-燀dan3,chan3
+熿huang3 huang2
+燀dan3 chan3
 燁ye4
 燂xun2
 燄yan4
 燅xun2
-燆xiao1,qiao1
+燆xiao1 qiao1
 燇jun4
 燈deng1
-燉dun4,dun1
+燉dun4 dun1
 燊shen1
-燋qiao2,jiao1
-燌fen2,ben4
-燍xi1,si1
+燋qiao2 jiao1
+燌fen2 ben4
+燍xi1 si1
 燏yu4
 燐lin2
-燑tong2,jiong3
+燑tong2 jiong3
 燒shao1
-燓fen4,fen2
+燓fen4 fen2
 燖xun2
 燗lan4
 燘mei3
-燙tang5,dang4
+燙tang5 dang4
 燚yi4
 燛jiong3
 燜men4
@@ -5699,48 +5699,48 @@
 燡yi4
 燢xue2
 燣lan2
-燤tai4,lie4
+燤tai4 lie4
 燦can4
 燨xi1
 燩que4
-燪zong3,cong1
-燫qian1,lian2
+燪zong3 cong1
+燫qian1 lian2
 燬hui3
 燭zhu2
 燯ling2
-燰yu4,wei1
+燰yu4 wei1
 燱yi4
 燲xie2
 燳zhao4
 燴hui4
 燶nong2
 燷lan2
-燸ruan3,ru2
-燺xiao1,he4
-燻xun4,xun1
+燸ruan3 ru2
+燺xiao1 he4
+燻xun4 xun1
 燼jin4
 燽chou2
-燾tao1,dao4
-燿yao4,shuo4
+燾tao1 dao4
+燿yao4 shuo4
 爀he4
 爁lan4
 爂biao1
 爃rong2
-爄lie4,li4
+爄lie4 li4
 爅mo4
 爇ruo4
 爈lv4
-爉lie4,la4
+爉lie4 la4
 爊ao1
-爋xun4,xun1
-爌kuang4,kuang3
-爍shuo4,luo4
+爋xun4 xun1
+爌kuang4 kuang3
+爍shuo4 luo4
 爎liao2
 爏li4
 爐lu2
 爑jue2
 爒liao3
-爓yan4,xun2
+爓yan4 xun2
 爔xi1
 爕xie4
 爖long2
@@ -5750,7 +5750,7 @@
 爚yue4
 爛lan4
 爜cong2
-爞tong2,chong2
+爞tong2 chong2
 爟guan4
 爠ju4
 爡che4
@@ -5762,14 +5762,14 @@
 爧ling2
 爩yu4
 爫zhao3
-爭zheng4,zheng1
+爭zheng4 zheng1
 爮pao2
-爯cheng4,cheng1
-爲wei5,wei2
+爯cheng4 cheng1
+爲wei5 wei2
 爴jue2
-爺ye5,ye2
+爺ye5 ye2
 爼zu3
-爾mi3,er3
+爾mi3 er3
 牀chuang2
 牁ke1
 牂zang1
@@ -5783,28 +5783,28 @@
 牎chuang1
 牏yu2
 牐zha2
-牑mian4,bian1
-牓pang1,bang3
+牑mian4 bian1
+牓pang1 bang3
 牔bo2
 牕chuang1
 牗you3
 牘du2
-牚cheng4,cheng1
+牚cheng4 cheng1
 牜niu2
-牞le4,jiu1
-牠tuo2,ta1
+牞le4 jiu1
+牠tuo2 ta1
 牣ren4
 牤mang1
 牥fang1
 牨gang1
 牪yan4
-牫qiu2,ge1
+牫qiu2 ge1
 牬bei4
 牭si4
-牰you4,chou1
+牰you4 chou1
 牱ge1
 牳mu3
-牴di3,di1
+牴di3 di1
 牶quan4
 牷quan2
 牸zi4
@@ -5814,7 +5814,7 @@
 犂li2
 犃pou3
 犅gang1
-犆zhi2,te4
+犆zhi2 te4
 犇ben1
 犈quan2
 犉chun2
@@ -5830,40 +5830,40 @@
 犘ma2
 犙san1
 犚wei4
-犛mao2,li2
+犛mao2 li2
 犜dun1
 犝tong2
 犡li4
 犢du2
 犣lie4
 犤pai2
-犥piao1,pao4
+犥piao1 pao4
 犦bo2
-犧xi1,suo1
+犧xi1 suo1
 犨chou1
 犩wei2
-犪rao2,kui2
+犪rao2 kui2
 犫chou1
 犮ba2
 犱ji3
 犲chai2
 犳zhuo2
-犵he2,ge1
-犺kang4,gang3
-犻pei4,bo2
+犵he2 ge1
+犺kang4 gang3
+犻pei4 bo2
 犼hou3
 犽ya4
 犾yin2
-犿huan1,fan1
+犿huan1 fan1
 狀zhuang4
 狅kuang2
 狆zhong4
 狇mu4
 狉pi1
 狊ju2
-狋yi2,chi2
-狌xing1,sheng1
-狏yi2,tuo2
+狋yi2 chi2
+狌xing1 sheng1
+狏yi2 tuo2
 狑ling2
 狓pi1
 狔ni3
@@ -5875,17 +5875,17 @@
 〇ling2
 狜ku3
 狝xian3
-狟xuan1,huan2
-狢mo4,he2
+狟xuan1 huan2
+狢mo4 he2
 狣zhao4
-狤jie2,ji2
+狤jie2 ji2
 狥xun4
 狦shan1
-狧ta4,shi4
+狧ta4 shi4
 狪tong2
-狫lao2,dong4
-狵zhuo2,mang2
-狶xi1,shi3
+狫lao2 dong4
+狵zhuo2 mang2
+狶xi1 shi3
 狹xia2
 狽bei4
 狾zhi4
@@ -5896,7 +5896,7 @@
 猅pai2
 猆fei1
 猇xiao1
-猈pi2,bai4
+猈pi2 bai4
 猉qi2
 猋biao1
 猌yin4
@@ -5908,26 +5908,26 @@
 猔zong4
 猘zhi4
 猙zheng1
-猚ya2,wei4
+猚ya2 wei4
 猟lie4
 猣zong1
 猤gui4
 猦feng1
 猧wo1
 猨yuan2
-猭chuan4,chuan1
+猭chuan4 chuan1
 猯tuan1
-猰ya4,jia2
-猲xie1,ge2
+猰ya4 jia2
+猲xie1 ge2
 猳jia1
-猵pian4,bian1
-猶you2,yao2
+猵pian4 bian1
+猶you2 yao2
 猺yao2
 猻sun1
-猼po4,bo2
+猼po4 bo2
 猽ming2
 獀sou1
-獁ma4,ma3
+獁ma4 ma3
 獂yuan2
 獃dai1
 獄yu4
@@ -5945,47 +5945,47 @@
 獓ao2
 獔gao3
 獕cui1
-獖fen2,ben4
+獖fen2 ben4
 獘bi4
 獙bi4
 獚huang2
-獛pu2,bu3
+獛pu2 bu3
 獜lin2
 獝xu4
-獞zhuang4,tong2
-獟yao4,xiao1
-獡xi1,que4
+獞zhuang4 tong2
+獟yao4 xiao1
+獡xi1 que4
 獢xiao1
 獤dun1
 獥jiao4
-獦ge4,ge2
-獧xuan1,juan4
+獦ge4 ge2
+獧xuan1 juan4
 獨du2
 獩hui4
-獪kuai4,hua2
+獪kuai4 hua2
 獫xian3
 獮xian3
 獰ning2
 獱bian1
 獲huo4
-獳ru2,nou4
+獳ru2 nou4
 獴meng2
 獵lie4
-獶you1,nao2
-獷jing3,guang3
+獶you1 nao2
+獷jing3 guang3
 獸shou4
 獹lu2
 獺ta3
-獻xian4,suo1
+獻xian4 suo1
 獼mi2
 獽rang2
-獿nao3,nao2
+獿nao3 nao2
 玀luo2
 玁xian3
 玂qi2
 玃jue2
-玅yao1,miao4
-玆zi1,ci2
+玅yao1 miao4
+玆zi1 ci2
 玈lu2
 玊su4
 玌qiu2
@@ -5999,7 +5999,7 @@
 玗yu2
 玘qi3
 玙yu2
-玚yang2,chang4
+玚yang2 chang4
 玜hong2
 玝wu3
 玞fu1
@@ -6009,17 +6009,17 @@
 玤bang4
 玥yue4
 玦jue2
-玧yun3,men2
+玧yun3 men2
 玨jue2
-玪yin2,jian1
+玪yin2 jian1
 玬dan3
 玭pin2
 玱qiang1
 玴yi4
 玶ping2
 玸fu2
-玹xuan4,xuan2
-玼ci3,ci1
+玹xuan4 xuan2
+玼ci3 ci1
 玽gou3
 玾jia3
 玿shao2
@@ -6027,8 +6027,8 @@
 珃ran3
 珄sheng1
 珅shen1
-珆yi2,tai1
-珇zu3,ju4
+珆yi2 tai1
+珇zu3 ju4
 珋liu3
 珌bi4
 珎zhen1
@@ -6045,7 +6045,7 @@
 珝xu3
 珟su4
 珡qin2
-珢yin2,ken4
+珢yin2 ken4
 珣xun2
 珤bao3
 珦xiang4
@@ -6058,8 +6058,8 @@
 珰dang1
 珳wen2
 珴e2
-珵ting3,cheng2
-珶ti2,di4
+珵ting3 cheng2
+珶ti2 di4
 珷wu3
 珸wu2
 珹cheng2
@@ -6069,36 +6069,36 @@
 珽ting3
 現xian4
 珿chu4
-琀han4,han2
-琁xuan2,qiong2
+琀han4 han2
+琁xuan2 qiong2
 琂yan2
 琄xuan4
 琇xiu4
-琈fu2,fu1
+琈fu2 fu1
 琋xi1
 琌ling2
-琍li4,li2
+琍li4 li2
 琎jin1
 琒feng1
 琓wan3
 琔dian4
-琕pin2,bing3
+琕pin2 bing3
 琖zhan3
-琗se4,cui4
+琗se4 cui4
 琘min2
 琙yu4
 琜lai2
 琝min2
-琞wang4,sheng4
-琟yu4,wei2
-琠tian4,tian3
+琞wang4 sheng4
+琟yu4 wei2
+琠tian4 tian3
 琡chu4
 琤cheng1
 琧e4
 琩chang1
 琫beng3
 琭lu4
-琯gun4,guan3
+琯gun4 guan3
 琱diao1
 琲bei4
 琷qiang1
@@ -6108,7 +6108,7 @@
 琻jin1
 琽du3
 琾jie4
-琿hun2,hui1
+琿hun2 hui1
 瑀yu3
 瑂mei2
 瑃chun1
@@ -6126,7 +6126,7 @@
 瑏chuan2
 瑐jian3
 瑑zhuan4
-瑒yang2,chang4
+瑒yang2 chang4
 瑓lian4
 瑔quan2
 瑖duan4
@@ -6141,33 +6141,33 @@
 瑦wu3
 瑧zhen1
 瑨jin4
-瑩ying3,ying1
+瑩ying3 ying1
 瑪ma3
 瑫tao1
 瑬liu2
 瑮li4
 瑯lang2
 瑱tian4
-瑲qiang1,cheng1
+瑲qiang1 cheng1
 瑳cuo1
 瑴jue2
 瑵zhao3
 瑸bin1
-瑹tu1,shu1
+瑹tu1 shu1
 瑺chang2
 瑻kun1
 瑼zhuan1
 瑽cong1
 瑿yi1
-璂qi2,ji1
+璂qi2 ji1
 璄jing3
-璅zao3,suo3
+璅zao3 suo3
 璆qiu2
 璈ao2
-璉lian3,lian2
+璉lian3 lian2
 璊men2
 璌yin2
-璍ye4,hua2
+璍ye4 hua2
 璏wei4
 璑wu2
 璒deng1
@@ -6178,7 +6178,7 @@
 璗dang4
 璘lin2
 璙liao2
-璚qiong2,jue2
+璚qiong2 jue2
 璛su4
 璝gui1
 璟jing3
@@ -6192,23 +6192,23 @@
 璪zao3
 璫dang1
 璬jiao3
-璭gun4,guan3
+璭gun4 guan3
 璮tan3
-璯kuai4,hui4
-環huan4,huan2
+璯kuai4 hui4
+環huan4 huan2
 璱se4
 璲sui4
 璳tian2
 璴chu3
 璵yu2
 璶jin4
-璷lu2,fu1
-璸pian2,bin1
+璷lu2 fu1
+璸pian2 bin1
 璹shu2
 璻zui3
 璼lan2
 璽xi3
-璾zi1,ji4
+璾zi1 ji4
 璿xuan2
 瓀ruan3
 瓁wo4
@@ -6218,7 +6218,7 @@
 瓅li4
 瓆zhi4
 瓇rou2
-瓈li5,li1
+瓈li5 li1
 瓉zan4
 瓊qiong2
 瓋ti4
@@ -6230,25 +6230,25 @@
 瓑li4
 瓓lan4
 瓔ying1
-瓕xi3,mi2
+瓕xi3 mi2
 瓖xiang1
-瓗wei3,qiong2
+瓗wei3 qiong2
 瓘guan4
 瓙dao4
 瓚zan4
-瓛ye4,huan2
+瓛ye4 huan2
 瓝bo2
-瓟pao2,bo2
-瓡zhi2,hu2
+瓟pao2 bo2
+瓡zhi2 hu2
 瓥li4
 瓨xiang2
 瓪ban3
 瓫pen2
 瓬fang3
-瓭dan3,dan1
+瓭dan3 dan1
 瓳hu2
 瓵yi2
-瓹juan4,juan1
+瓹juan4 juan1
 瓺chang2
 瓻chi1
 瓽dang4
@@ -6263,7 +6263,7 @@
 甉xian2
 甊lou3
 甋di4
-甌ou3,ou1
+甌ou3 ou1
 甎zhuan1
 甐lin4
 甒wu3
@@ -6283,11 +6283,11 @@
 甧shen1
 甪lu4
 甮feng4
-甴zha2,you2
+甴zha2 you2
 甶fu2
 甹ping1
 甽quan3
-甿meng2,mang2
+甿meng2 mang2
 畁bi4
 畂jiu4
 畃xun2
@@ -6297,49 +6297,49 @@
 畉fu2
 畊geng1
 畍jie4
-畐fu2,bi4
+畐fu2 bi4
 畒mu3
 畕jiang1
 畖wa1
-畗fu2,da2
+畗fu2 da2
 畘nan2
 畝mu3
 畞mu3
-畟ji4,ce4
+畟ji4 ce4
 畠tian2
 畡gai1
 畢bi4
 畣da1
-畤zhi4,chou2
+畤zhi4 chou2
 畧lve4
-畨pan1,fan1
+畨pan1 fan1
 畫hua4
-畬yu2,she1
+畬yu2 she1
 畭yu2
 畮mu3
 畯jun4
 異yi4
 畱liu2
 畵hua4
-當dang5,dang1
+當dang5 dang1
 畷zhui4
 畺jiang1
 畻cheng2
 畼chang4
-畽tun3,tuan3
+畽tun3 tuan3
 畾lei2
 疀chai1
 疁liu2
-疄lin4,lin2
+疄lin4 lin2
 疅jiang1
 疇chou2
 疈pi4
 疉die2
 疊die2
-疌qie4,jie2
+疌qie4 jie2
 疍dan4
 疎shu1
-疐zhi4,di4
+疐zhi4 di4
 疓nai3
 疕bi3
 疘gang1
@@ -6347,7 +6347,7 @@
 疜xia4
 疞xu1
 疢chen4
-疦xue4,jue2
+疦xue4 jue2
 疧qi2
 疨ya2
 疩cui4
@@ -6355,18 +6355,18 @@
 疭zong4
 疶xue1
 疷zhi1
-疺fa2,bian3
+疺fa2 bian3
 疻zhi3
 疿fei4
 痀ju1
 痁shan1
-痆nie4,ni4
-痋teng2,chong2
-痌tong2,tong1
+痆nie4 ni4
+痋teng2 chong2
+痌tong2 tong1
 痎jie1
-痏you4,wei3
+痏you4 wei3
 痐hui2
-痑tan1,shi3
+痑tan1 shi3
 痓chi4
 痗mei4
 痙jing4
@@ -6379,16 +6379,16 @@
 痥duo2
 痩shou4
 痬yi4
-痭peng2,beng1
+痭peng2 beng1
 痮zhang4
 痯guan3
 痲ma2
-痳ma2,lin4
+痳ma2 lin4
 痵ji4
-痶tian3,dian3
-痷ye4,an1
+痶tian3 dian3
+痷ye4 an1
 痸chi4
-痺pi2,bi4
+痺pi2 bi4
 痻min2
 痽dui1
 痾ke1
@@ -6396,7 +6396,7 @@
 瘄cu4
 瘆shen4
 瘇zhong3
-瘈zhi4,chi4
+瘈zhi4 chi4
 瘉yu4
 瘋feng1
 瘍yang2
@@ -6412,9 +6412,9 @@
 瘝guan1
 瘞yi4
 瘡chuang1
-瘣lei3,hui4
-瘧yao4,nve4
-瘨dian1,chen1
+瘣lei3 hui4
+瘧yao4 nve4
+瘨dian1 chen1
 瘬zhang4
 瘮shen4
 瘯cu4
@@ -6433,13 +6433,13 @@
 癆lao2
 癇xian2
 癈fei4
-癉dan4,dan1
+癉dan4 dan1
 癊yin4
 癋he4
 癎xian2
 癏guan1
-癐wei1,gui4
-癑nong4,nong2
+癐wei1 gui4
+癑nong4 nong2
 癒yu4
 癓wei2
 癕yong1
@@ -6447,17 +6447,17 @@
 癘li4
 癙shu3
 癚dan4
-癛lin3,bing3
-癝lin3,bing3
-癟bie3,bie1
+癛lin3 bing3
+癝lin3 bing3
+癟bie3 bie1
 癠ji4
 癡chi1
-癢yang5,yang3
+癢yang5 yang3
 癤jie1
 癥zheng1
 癧li4
 癨huo4
-癩lai4,la4
+癩lai4 la4
 癬xuan3
 癭ying3
 癮yin3
@@ -6469,9 +6469,9 @@
 癵luan2
 癶bo1
 癹ba2
-發fa5,bo1
+發fa5 bo1
 癿qie2
-皀ji2,bi1
+皀ji2 bi1
 皁zao4
 皃mao4
 皅pa1
@@ -6487,7 +6487,7 @@
 皗chou2
 皘qian4
 皚ai2
-皛xiao3,po4
+皛xiao3 po4
 皜hao4
 皝huang4
 皞hao4
@@ -6500,8 +6500,8 @@
 皦jiao3
 皧ai4
 皨xing1
-皩huang4,huang3
-皪luo4,li4
+皩huang4 huang3
+皪luo4 li4
 皫piao3
 皬he2
 皭jiao4
@@ -6513,10 +6513,10 @@
 皷gu3
 皸jun1
 皹jun1
-皺zhou4,zhou1
+皺zhou4 zhou1
 皻zha1
 皼gu3
-皽zhao1,zhan3
+皽zhao1 zhan3
 皾du2
 盀qi3
 盁ying2
@@ -6524,7 +6524,7 @@
 啊a1
 阿a1
 埃ai1
-挨ai1,ai2
+挨ai1 ai2
 哎ai1
 唉ai1
 哀ai1
@@ -6574,14 +6574,14 @@
 坝ba4
 霸ba4
 罢ba4
-爸ba4,ba5
+爸ba4 ba5
 白bai2
 柏bai3
 百bai3
 摆bai3
 佰bai3
 败bai4
-拜bai4,bai5
+拜bai4 bai5
 稗bai4
 斑ban1
 班ban1
@@ -6630,34 +6630,34 @@
 盠li2
 盡jin4
 盢xu4
-監jian4,jian1
-盤pan5,pan2
+監jian4 jian1
+盤pan5 pan2
 盦an1
 盧lu2
 盨xu3
-盩zhou1,chou2
+盩zhou1 chou2
 盪dang4
 盫an1
-盬gu4,gu3
+盬gu4 gu3
 盭li4
 盰gan4
-盳wang4,mang2
+盳wang4 mang2
 盵qi4
 盶yuan3
-盷xian2,tian2
+盷xian2 tian2
 盺xin1
 盻xi4
 盽feng1
 盿min2
 眀ming2
 眂shi4
-眃yun2,hun4
+眃yun2 hun4
 眅pan1
 眆fang3
-眊mei4,mao4
+眊mei4 mao4
 県xian4
 眎shi4
-眏yang3,yang1
+眏yang3 yang1
 眐zheng1
 眑yao3
 眒shen1
@@ -6665,36 +6665,36 @@
 眔da4
 眕zhen3
 眖kuang4
-眗xu1,ju1
+眗xu1 ju1
 眘shen4
 眛mei4
-眜mo4,mie4
+眜mo4 mie4
 眝zhu4
 眞zhen1
 眡shi4
-眣die2,chou1
+眣die2 chou1
 眤ni4
 眥zi4
 眧chao3
-眪fang3,bing3
-眫pan4,mi3
+眪fang3 bing3
+眫pan4 mi3
 眬long2
 眮tong2
 眱di4
 眲ne4
 眳ming2
-眴xuan4,shun4
+眴xuan4 shun4
 眹zhen4
 眻yang2
-眽mo4,mi4
+眽mo4 mi4
 眾zhong4
 眿mo4
 睂mei2
-睄xiao1,qiao2
+睄xiao1 qiao2
 睅han4
 睆huan3
 睈cheng3
-睉zhuai4,cuo2
+睉zhuai4 cuo2
 睊juan4
 睋e2
 睌man3
@@ -6703,8 +6703,8 @@
 睏kun4
 睒shan3
 睓tian3
-睔huan2,gun4
-睕wan4,wan1
+睔huan2 gun4
+睕wan4 wan1
 睖leng4
 睗shi4
 睘qiong2
@@ -6806,18 +6806,18 @@
 炳bing3
 睝li2
 睞lai4
-睟zui4,sui4
+睟zui4 sui4
 睠juan4
 睤pi4
 睧hun1
 睩lu4
-睪yi4,gao1
+睪yi4 gao1
 睭zhou3
 睮yu2
 睯hun1
 睰ma4
 睱xia4
-睲xing4,xing3
+睲xing4 xing3
 睳hui1
 睴gun4
 睵zai1
@@ -6830,19 +6830,19 @@
 瞁xu4
 瞂fa2
 瞃wo4
-瞆kui4,gui4
-瞇mi3,mi1
+瞆kui4 gui4
+瞇mi3 mi1
 瞈weng3
-瞉kou4,ji4
+瞉kou4 ji4
 瞊dang4
-瞋tian4,chen1
-瞏qiong2,huan2
+瞋tian4 chen1
+瞏qiong2 huan2
 瞐mo4
 瞓fen3
 瞔ze2
 瞕zhang4
 瞖yi4
-瞗dou1,diao1
+瞗dou1 diao1
 瞘kou1
 瞙mo4
 瞚shun4
@@ -6851,19 +6851,19 @@
 瞝chi1
 瞞man2
 瞡gui1
-瞣wan4,huan4
+瞣wan4 huan4
 瞤shun4
 瞦xi1
 瞨pu2
 瞫shen3
 瞭liao4
 瞮che4
-瞯xian2,jian4
+瞯xian2 jian4
 瞱ye4
-瞲xue4,xu4
-瞴wu3,mi2
-瞶kui4,gui4
-瞷xian2,jian4
+瞲xue4 xu4
+瞴wu3 mi2
+瞶kui4 gui4
+瞷xian2 jian4
 瞸ye4
 瞹ai4
 瞺hui4
@@ -6875,27 +6875,27 @@
 矃ning3
 矄xun1
 矅yao4
-矆yue4,huo4
-矇meng3,meng1
+矆yue4 huo4
+矇meng3 meng1
 矈mian2
 矉pin2
 矊mian2
 矋lei3
-矌kuang4,guo1
+矌kuang4 guo1
 矎xuan1
 矏mian2
 矐huo4
 矑lu2
 矒meng2
 矓long2
-矔quan2,guan4
-矕man3,man2
-矖xi3,li2
+矔quan2 guan4
+矕man3 man2
+矖xi3 li2
 矘tang3
 矙kan4
 矚zhu3
-矝qin2,guan1
-矞yu4,jue2
+矝qin2 guan1
+矞yu4 jue2
 矟shuo4
 矠ze2
 矡jue2
@@ -6913,7 +6913,7 @@
 搏bo2
 铂bo2
 箔bo2
-伯bo2,bo5
+伯bo2 bo5
 帛bo2
 舶bo2
 脖bo2
@@ -6922,7 +6922,7 @@
 泊bo2
 驳bo2
 捕bu3
-卜bo5,bu3
+卜bo5 bu3
 哺bu3
 补bu3
 埠bu4
@@ -6997,96 +6997,96 @@
 矦hou2
 矨ying3
 矪zhou1
-矯jiao3,jiao2
+矯jiao3 jiao2
 矰zeng1
 矱yue1
 矲ba4
 矴ding4
-矵qi4,diao1
+矵qi4 diao1
 矷zi3
 矹wu4
 矺zhe2
-矻qia4,ku1
-矼kong4,gang1
+矻qia4 ku1
+矼kong4 gang1
 砃dan1
 砄jue2
 砅li4
 砆fu1
 砇min2
 砈e3
-砊kang4,kang1
+砊kang4 kang1
 砋zhi3
 砎jie4
-砏pin1,fen1
+砏pin1 fen1
 砐e4
 砓zhe2
 砕sui4
 砙wa3
 砛jin1
 砞mo4
-砠zu1,ju1
+砠zu1 ju1
 砡yu4
-砢luo3,ke1
+砢luo3 ke1
 砤tuo2
 砨e4
 砪mu3
-砫zhu4,zhu3
-砮nu3,nu2
+砫zhu4 zhu3
+砮nu3 nu2
 砯ping1
 砱ling2
 砲pao4
 砳le4
-砵bo1,e4
+砵bo1 e4
 砶po4
 砽yong4
 砿kuang4
 硁keng1
 硂quan2
 硃zhu1
-硄kuang1,guang1
+硄kuang1 guang1
 硆e4
 硈qia4
 硉lu4
-硊wei3,gui4
+硊wei3 gui4
 硋ai4
-硍yin3,ken4
-硏yan4,yan2
-硑ping2,peng1
+硍yin3 ken4
+硏yan4 yan2
+硑ping2 peng1
 硓lao3
 硔hong2
 硘hui2
-硙wei4,ai2
+硙wei4 ai2
 硚qiao2
 硛ji4
 硜keng1
-硞que4,ke4
+硞que4 ke4
 硟chan4
 硠lang2
-硡hong2,hong1
+硡hong2 hong1
 硢yu2
 硣xiao1
 硤xia2
-硥mang2,bang4
-硦luo4,long4
-硧yong3,tong2
+硥mang2 bang4
+硦luo4 long4
+硧yong3 tong2
 硨che1
 硩che4
 硯yan4
 硰sha1
 硱kun3
-硲yu4,gu3
+硲yu4 gu3
 硵lu3
-硶chen3,cen2
+硶chen3 cen2
 硸nve4
 硹song1
 硺zhuo2
 硻keng1
-硽yan3,yan1
+硽yan3 yan1
 硾zhui4
 硿kong1
 碀cheng2
 碁qi2
-碂zong4,cong2
+碂zong4 cong2
 碃qing4
 场chang3
 尝chang2
@@ -7184,68 +7184,68 @@
 楚chu3
 碄lin2
 碅jun1
-碆pan2,bo1
+碆pan2 bo1
 碈min2
-碊zhan4,jian1
+碊zhan4 jian1
 碋he4
-碏xi1,que4
+碏xi1 que4
 碐leng2
 碒yin2
 碔wu3
-碕qi2,qi1
-碙nao2,gang1
+碕qi2 qi1
+碙nao2 gang1
 碝ruan3
 碞yan2
 碠ding4
 碢tuo2
 碤ying1
 碦ke4
-碨wei4,wei3
+碨wei4 wei3
 碩shuo4
-碪zhen1,an3
+碪zhen1 an3
 碫duan4
 碬xia2
 碭dang4
-碮ti2,di1
+碮ti2 di1
 碯nao3
 碵tian2
 碶qi4
 碷dun4
 碸feng1
 確que4
-碻que4,qiao1
+碻que4 qiao1
 碼ma3
 碽gong1
-碿xie4,su4
+碿xie4 su4
 磀e2
-磂liu4,liu2
-磃ti2,si1
+磂liu4 liu2
+磃ti2 si1
 磄tang2
-磆ke3,hua2
+磆ke3 hua2
 磇pi1
-磈wei3,kui3
+磈wei3 kui3
 磌tian2
-磍xia2,qia4
+磍xia2 qia4
 磎xi1
 磏lian2
-磑wei4,ai2
+磑wei4 ai2
 磒yun3
-磓dui1,chui2
-磖la2,la1
+磓dui1 chui2
+磖la2 la1
 磗zhuan1
 磘yao2
 磚zhuan1
 磛chan2
 磜qi4
-磝qiao1,ao2
+磝qiao1 ao2
 磞peng1
 磟liu4
 磠lu3
 磡kan4
 磢chuang3
-磣chen5,chen3
-磤yin3,yin1
-磥lei3,lei2
+磣chen5 chen3
+磤yin3 yin1
+磥lei3 lei2
 磦biao1
 磧qi4
 磩qi4
@@ -7261,8 +7261,8 @@
 磶xi4
 磸ding4
 磹dian4
-磻pan2,bo1
-磼za2,she2
+磻pan2 bo1
+磼za2 she2
 磽qiao1
 磾di1
 磿li4
@@ -7273,10 +7273,10 @@
 礆jian3
 礇yu4
 礈zhui4
-礉qiao1,he2
-礊ke4,huo4
+礉qiao1 he2
+礊ke4 huo4
 礋ze2
-礌lei4,lei3
+礌lei4 lei3
 础chu3
 储chu3
 矗chu4
@@ -7374,14 +7374,14 @@
 礍jie2
 礎chu3
 礏ye4
-礐que4,hu2
+礐que4 hu2
 礑dang4
 礒yi3
 礔pi1
 礕pi1
 礗pin1
 礘qi4
-礙yi2,ai4
+礙yi2 ai4
 礚ke1
 礛jian1
 礜yu4
@@ -7391,13 +7391,13 @@
 礡bo2
 礢yang3
 礣ma4
-礥xin2,xian2
+礥xin2 xian2
 礦kuang4
-礧lei4,lei2
+礧lei4 lei2
 礨lei3
 礩zhi4
 礪li4
-礫luo4,li4
+礫luo4 li4
 礬fan2
 礭que4
 礮pao4
@@ -7410,17 +7410,17 @@
 礶guan4
 礷lan2
 礸ca3
-礹yan3,yan2
+礹yan3 yan2
 礽reng2
 礿yue4
 祂ta1
 祃ma4
 祄xie4
 祅yao1
-祇zhi3,chi2
-祊fang1,beng1
+祇zhi3 chi2
+祊fang1 beng1
 祋dui4
-祌zhong4,chong1
+祌zhong4 chong1
 祍ren4
 祎yi1
 祏shi2
@@ -7441,7 +7441,7 @@
 祬zhi1
 祮gao4
 祰gao4
-祱shui4,lei4
+祱shui4 lei4
 祲jin4
 祳shen4
 祴gai1
@@ -7480,7 +7480,7 @@
 惮dan4
 淡dan4
 诞dan4
-弹tan2,dan4
+弹tan2 dan4
 蛋dan4
 当dang1
 挡dang3
@@ -7501,7 +7501,7 @@
 盗dao4
 德de2
 得de2
-的de5,di4
+的de5 di4
 蹬deng1
 灯deng1
 登deng1
@@ -7552,7 +7552,7 @@
 掉diao4
 吊diao4
 钓diao4
-调diao4,diao5
+调diao4 diao5
 跌die1
 爹die1
 碟die2
@@ -7560,8 +7560,8 @@
 迭die2
 谍die2
 叠die2
-禓yang2,shang1
-禔zhi1,ti2
+禓yang2 shang1
+禔zhi1 ti2
 禕yi1
 禖mei2
 禗si1
@@ -7579,19 +7579,19 @@
 禤xuan1
 禥qi2
 禦yu4
-禨ji4,ji1
+禨ji4 ji1
 禩si4
-禪shan4,chan2
+禪shan4 chan2
 禫dan4
 禬gui4
 禭sui4
 禮li3
 禯nong2
-禰ni3,mi2
+禰ni3 mi2
 禱dao3
 禲li4
 禴yue4
-禵zhi1,ti2
+禵zhi1 ti2
 禶zan4
 禷lei4
 禸rou2
@@ -7599,13 +7599,13 @@
 禿tu1
 秂ren2
 秄zi3
-秅na2,cha2
-秇zhi2,yi4
+秅na2 cha2
+秇zhi2 yi4
 秈xian1
 秊nian2
 秌qiu1
 秎fen4
-秏mao4,hao4
+秏mao4 hao4
 秐yun2
 秓zhi1
 秔jing1
@@ -7614,7 +7614,7 @@
 秙ku4
 秚ban4
 秛pi1
-秜ni4,ni2
+秜ni4 ni2
 秝li4
 秞you2
 秠pi1
@@ -7626,9 +7626,9 @@
 秬ju4
 秮huo2
 秱tong2
-秲zhi4,shi4
-秳kuo4,huo2
-秴he2,ge2
+秲zhi4 shi4
+秳kuo4 huo2
+秴he2 ge2
 秵yin1
 秶zi1
 秷zhi4
@@ -7636,24 +7636,24 @@
 秺du4
 秼zhu4
 秾nong2
-秿fu4,bu1
+秿fu4 bu1
 稁gao3
-稄ze4,xun4
+稄ze4 xun4
 稅shui4
 稇kun3
 稈gan3
 稉jing1
 稊ti2
-稌tu2,shu3
+稌tu2 shu3
 稏ya4
 稑lu4
 稒gu4
 稓zuo2
 稖bang4
-稘qi2,ji1
+稘qi2 ji1
 稙zhi2
 稛kun3
-稜ling2,leng2
+稜ling2 leng2
 丁ding1
 盯ding1
 叮ding1
@@ -7671,7 +7671,7 @@
 动dong4
 栋dong4
 侗dong4
-恫tong1,dong4
+恫tong1 dong4
 冻dong4
 洞dong4
 兜dou1
@@ -7719,7 +7719,7 @@
 哆duo1
 多duo1
 夺duo2
-垛duo4,duo3
+垛duo4 duo3
 躲duo3
 朵duo3
 跺duo4
@@ -7749,40 +7749,40 @@
 洱er3
 二er4
 稝peng2
-稟lin3,bing3
-稡zui4,zu2
+稟lin3 bing3
+稡zui4 zu2
 稢yu4
-稤lve4,lve3
+稤lve4 lve3
 稥xiang4
 稦yi1
 稧xi4
 稨bian3
 稩ji4
 稪fu2
-稫pi4,bi4
+稫pi4 bi4
 稬nuo4
-稭jie5,jie1
-種zhong4,zhong3
-稯zong3,zong1
+稭jie5 jie1
+種zhong4 zhong3
+稯zong3 zong1
 稰xu3
-稱cheng4,chen4
+稱cheng4 chen4
 稲dao4
-稴xian2,lian4
-稵zi1,jiu1
+稴xian2 lian4
+稵zi1 jiu1
 稶yu4
 稸xu4
 稺zhi4
-稾kao4,gao3
-穀yu4,gu3
+稾kao4 gao3
+穀yu4 gu3
 穁rong2
 穂sui4
 穄ji4
 穅kang1
 穇shan1
-穈mi2,men2
-穉zhi4,ti2
+穈mi2 men2
+穉zhi4 ti2
 穊ji4
-穋lu4,jiu1
+穋lu4 jiu1
 穌su1
 積ji1
 穎ying3
@@ -7791,12 +7791,12 @@
 穓yi4
 穔huang2
 穕qie4
-穖ji4,ji3
+穖ji4 ji3
 穘xiao1
 穙pu2
 穚jiao1
 穛zhuo1
-穜zhong4,tong2
+穜zhong4 tong2
 穞lv3
 穟sui4
 穠nong2
@@ -7806,20 +7806,20 @@
 穤nuo4
 穥yu4
 穦pin1
-穧zi4,ji4
+穧zi4 ji4
 穨tui2
 穩wen3
 穪cheng1
-穫huo4,hu4
+穫huo4 hu4
 穬kuang4
 穭lv3
-穮pao1,biao1
+穮pao1 biao1
 穯se4
 穱zhuo1
 穲li2
-穳zan4,cuan2
-穵ya4,wa1
-穻yu3,yu1
+穳zan4 cuan2
+穵ya4 wa1
+穻yu3 yu1
 穼shen1
 穽jing3
 穾yao4
@@ -7828,11 +7828,11 @@
 窇bao2
 窉bing3
 窊wa1
-窋zhu2,ku1
-窌pao4,jiao4
+窋zhu2 ku1
+窌pao4 jiao4
 窎diao4
 窏wu1
-窐wa1,gui1
+窐wa1 gui1
 窓chuang1
 窔yao4
 窙xiao1
@@ -7938,7 +7938,7 @@
 窣su1
 窤guan1
 窧zhuo2
-窩wo5,wo1
+窩wo5 wo1
 窪wa1
 窫ya4
 窮qiong2
@@ -7948,23 +7948,23 @@
 窲chao2
 窴tian2
 窵diao4
-窶lou2,ju4
+窶lou2 ju4
 窷liao2
 窸xi1
 窹wu4
-窺kui3,kui1
+窺kui3 kui1
 窻chuang1
-窼zhao1,ke1
+窼zhao1 ke1
 窽kuan3
 窾kuan3
-竀cheng4,cheng1
+竀cheng4 cheng1
 竁cui4
 竂liao2
 竃gui1
-竄cuan4,cuan1
+竄cuan4 cuan1
 竅qiao4
 竆qiong2
-竇du2,dou4
+竇du2 dou4
 竈zao4
 竉long3
 竊qie4
@@ -7979,15 +7979,15 @@
 竔sheng1
 竕fen1
 竗miao4
-竘qu3,kou3
+竘qu3 kou3
 竚zhu4
 竛ling2
-竜neng2,long2
+竜neng2 long2
 竝bing4
 竡bai3
 竢si4
 竤hong2
-竧zhen3,jing4
+竧zhen3 jing4
 竨diao4
 竩yi4
 竪shu4
@@ -8001,33 +8001,33 @@
 竴cun1
 竵wai1
 競jing4
-竷kan4,kan3
+竷kan4 kan3
 竸jing4
-竻le4,jin1
+竻le4 jin1
 竼peng2
 竾chi2
 笀mang2
 笁zhu2
-笅jiao4,jiao3
+笅jiao4 jiao3
 笇suan4
 笉qin3
 笌ya2
 笍zhui4
 笎yuan2
-笐hang4,hang2
-笒jin4,cen2
-笓pi2,bi4
+笐hang4 hang2
+笒jin4 cen2
+笓pi2 bi4
 笖yi3
 笗dong1
 笘shan1
-笚xia2,da1
+笚xia2 da1
 笜zhu2
 笝na4
 笟gu1
 笡qie4
 笢min3
 笣bao1
-笧shan4,ce4
+笧shan4 ce4
 笩fa2
 笭ling2
 浮fu2
@@ -8125,7 +8125,7 @@
 庚geng1
 羹geng1
 笯nu2
-笰fu2,fei4
+笰fu2 fei4
 笲fan2
 笴gan3
 笵fan4
@@ -8152,50 +8152,50 @@
 筟fu1
 筡tu2
 筣li2
-筤lang4,lang2
+筤lang4 lang2
 筥ju3
 筦guan3
 筧jian3
 筨han2
-筩yong3,tong3
+筩yong3 tong3
 筪xia2
-筫zhi4,zhi3
+筫zhi4 zhi3
 筬cheng2
 筭suan4
 筯zhu4
 筰zuo2
 筳ting2
-筴jia1,ce4
-筶gao4,gao3
+筴jia1 ce4
+筶gao4 gao3
 筸gan1
 筺kuang1
 筼yun2
 筽ou1
 筿xiao3
-箁pou2,bu4
+箁pou2 bu4
 箂lai2
 箃zou1
-箄pai2,bei1
-箆pi2,bi4
+箄pai2 bei1
+箆pi2 bi4
 箇ge4
-箈tai2,chi2
-箉guai3,dai4
+箈tai2 chi2
+箉guai3 dai4
 箊yu1
 箋jian1
-箌zhao4,dao4
-箎hu3,chi2
+箌zhao4 dao4
+箎hu3 chi2
 箏zheng1
-箑zha2,sha4
+箑zha2 sha4
 箒zhou3
 箓lu4
-箖lin3,lin2
-箘qun1,jun4
+箖lin3 lin2
+箘qun1 jun4
 箙fu2
 箚zha1
 箛gu1
 箞qian1
 箟jun4
-箠zhui1,chui2
+箠zhui1 chui2
 箣ce4
 箤zu2
 箥bo3
@@ -8204,17 +8204,17 @@
 箰sun3
 箲xian3
 箳ping2
-箵xing3,xing1
+箵xing3 xing1
 箶hu2
-箷yi2,shi1
+箷yi2 shi1
 箹yue1
 箺chun1
 箻lv4
 箼wu1
 箽dong3
-箾shuo4,qiao4
+箾shuo4 qiao4
 箿ji2
-節jie5,jie1
+節jie5 jie1
 篂xing1
 篃mei4
 範fan4
@@ -8312,7 +8312,7 @@
 裹guo3
 过guo4
 哈ha1
-篅duan1,chuan2
+篅duan1 chuan2
 篈feng2
 築zhu4
 篊hong2
@@ -8331,31 +8331,31 @@
 篞nie4
 篟qian4
 篠xiao3
-篢gong1,gan3
-篣peng2,pang2
+篢gong1 gan3
+篣peng2 pang2
 篤du3
 篧zhuo2
 篨chu2
 篩shai1
 篫zhu4
 篬cang1
-篭long3,long2
-篯jian3,jian1
+篭long3 long2
+篯jian3 jian1
 篰bu4
 篲hui4
 篳bi4
-篴zhu2,di2
+篴zhu2 di2
 篵cong1
 篶yan1
-篸zan1,sen1
-篹zhuan4,zuan3
+篸zan1 sen1
+篹zhuan4 zuan3
 篺pi2
 篻piao3
 篽yu4
-篿zhuan1,tuan2
+篿zhuan1 tuan2
 簀ze2
 簁shai1
-簂guo2,gui4
+簂guo2 gui4
 簃yi2
 簄hu4
 簅chan3
@@ -8364,17 +8364,17 @@
 簉zao4
 簊ji1
 簍lou3
-簎ji2,ce4
+簎ji2 ce4
 簐nian3
-簑suo1,sui1
+簑suo1 sui1
 簒cuan4
 簔suo1
 簕le4
 簘xiao1
 簙bo2
 簚mi4
-簛shai1,si1
-簜tang1,dang4
+簛shai1 si1
+簜tang1 dang4
 簝liao2
 簞dan1
 簠fu3
@@ -8383,7 +8383,7 @@
 簣kui4
 簤dai4
 簥jiao1
-簨zhuan4,sun3
+簨zhuan4 sun3
 簩lao2
 簫xiao1
 簬lu4
@@ -8391,7 +8391,7 @@
 簮zan1
 簰pai2
 簲pai2
-簳gan4,gan3
+簳gan4 gan3
 簴ju4
 簵lu4
 簶lu4
@@ -8446,7 +8446,7 @@
 菏he2
 核he2
 禾he2
-和he2,he4
+和he2 he4
 何he2
 合he2
 盒he2
@@ -8494,7 +8494,7 @@
 胡hu2
 蝴hu2
 狐hu2
-糊hu2,hu5
+糊hu2 hu5
 湖hu2
 籃lan2
 籄kui4
@@ -8505,23 +8505,23 @@
 籉tai2
 籊ti4
 籋nie4
-籌tao2,chou2
+籌tao2 chou2
 籐teng2
 籑zhuan4
 籒zhou4
-籓fan1,ban1
-籔shu3,sou3
+籓fan1 ban1
+籔shu3 sou3
 籕zhou4
 籗zhuo2
 籘teng2
 籙lu4
 籚lu2
-籛jian3,jian1
+籛jian3 jian1
 籜tuo4
 籝ying2
 籞yu4
 籟lai4
-籠long5,long2
+籠long5 long2
 籢lian2
 籣lan2
 籤qian1
@@ -8533,8 +8533,8 @@
 籪duan4
 籫zuan3
 籬li2
-籭shi1,shai1
-籮luo5,luo2
+籭shi1 shai1
+籮luo5 luo2
 籯ying2
 籰yue4
 籱zhuo2
@@ -8547,11 +8547,11 @@
 籺he2
 籾ni2
 籿cun4
-粃pi1,bi3
+粃pi1 bi3
 粄ban3
 粅wu4
-粆sha1,chao3
-粇kang1,jing1
+粆sha1 chao3
+粇kang1 jing1
 粈rou2
 粊bi4
 粋cui4
@@ -8561,18 +8561,18 @@
 粔ju4
 粖mo4
 粙zhou4
-粚li2,chi1
+粚li2 chi1
 粛su4
 粠hong2
 粡tong2
-粣se4,ce4
+粣se4 ce4
 粦lin2
 粧zhuang1
 粨bai3
 粩lao1
 粬qu1
 粯xian4
-粰fu2,fu1
+粰fu2 fu1
 粴li3
 粵yue4
 粶lu4
@@ -8588,7 +8588,7 @@
 沪hu4
 户hu4
 花hua1
-哗hua1,hua2
+哗hua1 hua2
 华hua2
 猾hua2
 滑hua2
@@ -8625,7 +8625,7 @@
 凰huang2
 惶huang2
 煌huang2
-晃huang4,huang3
+晃huang4 huang3
 幌huang3
 恍huang3
 谎huang3
@@ -8655,7 +8655,7 @@
 婚hun1
 魂hun2
 浑hun2
-混hun4,hun2
+混hun4 hun2
 豁huo1
 活huo2
 伙huo3
@@ -8674,10 +8674,10 @@
 稽ji1
 积ji1
 箕ji1
-粿hua4,guo3
+粿hua4 guo3
 糂san3
 糃tang2
-糄bian3,bian1
+糄bian3 bian1
 糆mian4
 糉zong4
 糋jian4
@@ -8690,14 +8690,14 @@
 糘jia1
 糚zhuang1
 糛tang2
-糝shen1,san3
+糝shen1 san3
 糞fen4
 糡jiang4
 糢mo2
 糣san3
 糤san3
 糥nuo4
-糦xi1,chi4
+糦xi1 chi4
 糧liang2
 糩kuai4
 糪bo4
@@ -8714,29 +8714,29 @@
 糶tiao4
 糷lan4
 糹jiao3
-糺jiu3,jiu1
+糺jiu3 jiu1
 糼gong1
-糽zheng3,zheng1
+糽zheng3 zheng1
 糾jiu1
 糿you4
-紀ji5,ji3
+紀ji5 ji3
 紁cha4
 紂zhou4
 紃xun2
-約yue1,yao1
-紅hong2,gong1
+約yue1 yao1
+紅hong2 gong1
 紆yu1
-紇he2,ge1
+紇he2 ge1
 紈wan2
 紉ren4
-紋wen4,wen2
+紋wen4 wen2
 紌qiu2
 納na4
 紎zi1
 紐niu3
-紒jie2,ji4
+紒jie2 ji4
 紓shu1
-純zhun3,chun2
+純zhun3 chun2
 紕pi1
 紖zhen4
 紗sha1
@@ -8747,25 +8747,25 @@
 紜yun2
 紝ren4
 紞dan3
-紟jin4,jin1
-紡fang3,bang3
+紟jin4 jin1
+紡fang3 bang3
 紣cui4
 紤jiu3
-紥zha1,za1
+紥zha1 za1
 紦ba1
-紨fu4,fu1
+紨fu4 fu1
 紩zhi4
 紪qi1
 紬chou1
 紭hong2
-紮zha1,za1
-細xi5,xi4
+紮zha1 za1
+細xi5 xi4
 紱fu2
 紲xie4
 紳shen1
-紴bo1,bi4
+紴bo1 bi4
 紵zhu4
-紶qu3,qu1
+紶qu3 qu1
 肌ji1
 饥ji1
 迹ji4
@@ -8800,7 +8800,7 @@
 祭ji4
 剂ji4
 悸ji4
-济ji4,ji3
+济ji4 ji3
 寄ji4
 寂ji4
 计ji4
@@ -8865,16 +8865,16 @@
 紹shao4
 紺gan4
 紻yang3
-紼fu2,fei4
+紼fu2 fei4
 紽tuo2
 紾zhen3
 紿dai4
 絀chu4
 絁shi1
 終zhong1
-絃xuan4,xian2
-組zu3,qu1
-絅jiong3,jiong1
+絃xuan4 xian2
+組zu3 qu1
+絅jiong3 jiong1
 絆ban4
 絇qu2
 絈mo4
@@ -8884,38 +8884,38 @@
 経jing1
 絍ren4
 絎hang2
-絏yi4,xie4
-結jie5,ji4
+絏yi4 xie4
+結jie5 ji4
 絑zhu1
 絒chou2
-絓kua1,gua4
-絔mo4,bai3
+絓kua1 gua4
+絔mo4 bai3
 絕jue2
 絖kuang4
 絗hu2
 絘ci4
-絙huan2,geng1
-絚geng4,geng1
+絙huan2 geng1
+絚geng4 geng1
 絛tao1
-絜xie2,jie2
+絜xie2 jie2
 絝ku4
 絞jiao3
 絟quan2
-絠gai3,ai3
-絡luo4,lao4
-絢xun2,xuan4
-絣bing1,beng1
+絠gai3 ai3
+絡luo4 lao4
+絢xun2 xuan4
+絣bing1 beng1
 絤xian4
 絥fu2
-給ji3,gei3
-絧tong2,dong4
+給ji3 gei3
+絧tong2 dong4
 絨rong2
-絩tiao4,dao4
+絩tiao4 dao4
 絪yin1
 絫lei3
 絬xie4
 絭juan4
-絯hai4,gai1
+絯hai4 gai1
 絰die2
 統tong3
 絲si1
@@ -8924,8 +8924,8 @@
 絶jue2
 絸jian3
 絹juan4
-絺zhi3,chi1
-絻wen4,mian3
+絺zhi3 chi1
+絻wen4 mian3
 絼zhen4
 絽lv3
 絾cheng2
@@ -8934,12 +8934,12 @@
 綁bang3
 綂tong3
 綃xiao1
-綄huan4,huan2
-綅xian1,qin1
-綆geng3,bing3
+綄huan4 huan2
+綅xian1 qin1
+綆geng3 bing3
 綇xiu3
-綈ti4,ti2
-綉xiu4,tou4
+綈ti4 ti2
+綉xiu4 tou4
 綊xie2
 綋hong2
 綌xi4
@@ -8949,12 +8949,12 @@
 綐dui4
 綑kun3
 綒fu1
-經jing5,jing1
+經jing5 jing1
 綔hu4
 綕zhi1
-綖yan2,xian4
+綖yan2 xian4
 綗jiong3
-綘feng4,feng2
+綘feng4 feng2
 健jian4
 舰jian4
 剑jian4
@@ -8990,7 +8990,7 @@
 搅jiao3
 铰jiao3
 矫jiao3
-侥yao2,jiao3
+侥yao2 jiao3
 脚jiao3
 狡jiao3
 角jiao3
@@ -9023,7 +9023,7 @@
 解jie3
 姐jie3
 戒jie4
-藉ji2,jie4
+藉ji2 jie4
 芥jie4
 界jie4
 借jie4
@@ -9050,20 +9050,20 @@
 烬jin4
 浸jin4
 継ji4
-綜zong1,zeng4
-綝shen1,chen1
+綜zong1 zeng4
+綝shen1 chen1
 綞duo3
-綟lie4,li4
-綠lv4,lu4
+綟lie4 li4
+綠lv4 lu4
 綡liang2
-綢tao1,chou2
+綢tao1 chou2
 綣quan3
-綤shao4,chao1
+綤shao4 chao1
 綥qi2
 綧zhun3
 綨qi2
 綩wan3
-綪qing1,qian4
+綪qing1 qian4
 綫xian4
 綬shou4
 維wei2
@@ -9071,24 +9071,24 @@
 綰wan3
 綱gang1
 網wang3
-綳beng4,beng1
-綴zhui4,chuo4
+綳beng4 beng1
+綴zhui4 chuo4
 綵cai3
 綶guo3
-綷zu2,cui4
-綸lun2,guan1
+綷zu2 cui4
+綸lun2 guan1
 綹liu3
 綺qi3
 綻zhan4
 綼bi4
-綽chuo5,chao1
+綽chuo5 chao1
 綾ling2
 綿mian2
 緀qi1
 緁qie4
-緂tian2,tan3
+緂tian2 tan3
 緃zong1
-緄hun4,gun3
+緄hun4 gun3
 緅zou1
 緆xi1
 緇zi1
@@ -9099,9 +9099,9 @@
 緌rui2
 緍min2
 緎yu4
-総zong3,zong1
+総zong3 zong1
 緐fan2
-緑lv4,lu4
+緑lv4 lu4
 緒xu4
 緓ying1
 緔shang4
@@ -9109,36 +9109,36 @@
 緗xiang1
 緘jian1
 緙ke4
-線xian5,xian4
+線xian5 xian4
 緛ruan3
 緜mian2
-緝qi1,ji1
+緝qi1 ji1
 緞duan4
-緟zhong4,chong2
+緟zhong4 chong2
 締di4
-緡min2,mian2
-緢miao2,mao2
-緣yuan4,yuan2
+緡min2 mian2
+緢miao2 mao2
+緣yuan4 yuan2
 緤xie4
 緥bao3
 緦si1
 緧qiu1
-編bian3,bian1
+編bian3 bian1
 緩huan3
-緪geng4,geng1
-緫zong3,cong1
+緪geng4 geng1
+緫zong3 cong1
 緬mian3
 緭wei4
 緮fu4
 緯wei3
-緰xu1,tou2
+緰xu1 tou2
 緱gou1
 緲miao3
 緳xie2
 練lian4
-緵zong4,zong1
-緶pian2,bian4
-緷yun4,gun3
+緵zong4 zong1
+緶pian2 bian4
+緷yun4 gun3
 緸yin1
 緹ti2
 緺gua1
@@ -9237,94 +9237,94 @@
 君jun1
 峻jun4
 緻zhi4
-緼yun4,wen1
+緼yun4 wen1
 緽cheng1
 緾chan2
 緿dai4
 縀duan4
-縁yuan4,yuan2
-縂zong3,zong1
+縁yuan4 yuan2
+縂zong3 zong1
 縃xu1
 縄sheng2
-縆geng4,geng1
+縆geng4 geng1
 縈ying2
 縉jin4
 縊yi4
 縋zhui4
 縌ni4
-縍bang4,bang1
-縎hu2,gu3
+縍bang4 bang1
+縎hu2 gu3
 縏pan2
 縐zhou4
 縑jian1
-縒cuo4,ci1
+縒cuo4 ci1
 縓quan2
 縔shuang3
-縕yun4,wen1
+縕yun4 wen1
 縖xia2
-縗shuai1,cui1
-縘xi4,ji4
+縗shuai1 cui1
+縘xi4 ji4
 縚tao1
 縛fu4
 縜yun2
-縝zhen3,chen1
+縝zhen3 chen1
 縞gao3
 縟ru4
 縠hu2
-縡zeng1,zai4
+縡zeng1 zai4
 縢teng2
-縣xuan2,xian4
+縣xuan2 xian4
 縤su4
 縥zhen3
-縦zong4,zong3
+縦zong4 zong3
 縧tao1
 縩cai4
 縪bi4
-縫feng5,feng2
+縫feng5 feng2
 縬cu4
 縭li2
-縮suo1,su4
-縯yin3,yan3
+縮suo1 su4
+縯yin3 yan3
 縰xi3
-縱zong4,zong3
+縱zong4 zong3
 縲lei2
-縳zhuan4,juan4
+縳zhuan4 juan4
 縴qian4
 縵man4
 縶zhi2
-縷lv5,lv3
-縸mu4,mo4
-縹piao3,piao1
+縷lv5 lv3
+縸mu4 mo4
+縹piao3 piao1
 縺lian2
 縼xuan4
-總zong3,zong1
+總zong3 zong1
 績ji4
-縿xian1,sao1
-繀sui4,cui3
+縿xian1 sao1
+繀sui4 cui3
 繂lv4
-繃beng4,beng1
-繄yi4,yi1
+繃beng4 beng1
+繄yi4 yi1
 繅sao1
-繆mou2,miao4
+繆mou2 miao4
 繈qiang3
 繉hun2
 繊xian1
 繋xi4
-繌zong4,zong1
+繌zong4 zong1
 繎ran2
 繏xuan4
 繐sui4
-繑qiao1,jue1
-繒zeng4,zeng1
+繑qiao1 jue1
+繒zeng4 zeng1
 繓zuo3
-織zhi4,zhi1
+織zhi4 zhi1
 繕shan4
 繖san3
 繗lin2
-繘yu4,jue2
-繙fan2,fan1
+繘yu4 jue2
+繙fan2 fan1
 繚liao2
-繛chuo4,chao1
+繛chuo4 chao1
 繜zun1
 繝jian4
 俊jun4
@@ -9346,7 +9346,7 @@
 勘kan1
 坎kan3
 砍kan3
-看kan4,kan5
+看kan4 kan5
 康kang1
 慷kang1
 糠kang1
@@ -9408,7 +9408,7 @@
 匡kuang1
 筐kuang1
 狂kuang2
-框kuang4,kuang5
+框kuang4 kuang5
 矿kuang4
 眶kuang4
 旷kuang4
@@ -9420,35 +9420,35 @@
 葵kui2
 奎kui2
 魁kui2
-傀kui3,gui1
+傀kui3 gui1
 繞rao4
-繟chan3,chan2
+繟chan3 chan2
 繠rui3
 繡xiu4
-繢hui4,hui2
+繢hui4 hui2
 繣hua4
 繤zuan3
 繥xi1
 繦qiang3
 繨da2
 繩sheng2
-繪hui4,gui4
-繫xi4,ji4
+繪hui4 gui4
+繫xi4 ji4
 繬se4
 繭jian3
 繮jiang1
 繯huan2
-繰zao3,qiao1
+繰zao3 qiao1
 繱cong1
-繲xie4,jie4
+繲xie4 jie4
 繳jiao3
 繴bi4
-繵tan2,chan2
+繵tan2 chan2
 繶yi4
 繸sui4
-繹yi4,shi4
-繺shai3,sha1
-繻xu1,ru2
+繹yi4 shi4
+繺shai3 sha1
+繻xu1 ru2
 繼ji4
 繽bin1
 繾qian3
@@ -9465,20 +9465,20 @@
 纊kuang4
 纋you1
 續xu4
-纍lei4,lei2
-纎xian1,jian1
-纏chan5,chan2
+纍lei4 lei2
+纎xian1 jian1
+纏chan5 chan2
 纐jiao3
 纑lu2
 纒chan2
 纓ying1
-纔shan1,cai2
-纕xiang1,rang3
-纖xian1,jian1
+纔shan1 cai2
+纕xiang1 rang3
+纖xian1 jian1
 纗zui1
 纘zuan3
 纙luo4
-纚xi3,li2
+纚xi3 li2
 纜lan3
 纝lei2
 纞lian4
@@ -9490,9 +9490,9 @@
 绤xi4
 绬ying1
 绹tao2
-缊yun4,wen1
+缊yun4 wen1
 缐xian4
-缞shuai1,cui1
+缞shuai1 cui1
 缷xie4
 缹fou3
 缻fou3
@@ -9513,7 +9513,7 @@
 罎tan2
 罏lu2
 罒si4
-罓wang3,gang1
+罓wang3 gang1
 馈kui4
 愧kui4
 溃kui4
@@ -9562,17 +9562,17 @@
 牢lao2
 老lao3
 佬lao3
-姥lao3,lao5
+姥lao3 lao5
 酪lao4
 烙lao4
 涝lao4
 勒le4
-乐yue4,le4
+乐yue4 le4
 雷lei2
 镭lei2
 蕾lei3
 磊lei3
-累lei2,lei4
+累lei2 lei4
 儡lei3
 垒lei3
 擂lei4
@@ -9616,11 +9616,11 @@
 罞mao2
 罠min2
 罣gua4
-罤ti2,kun1
+罤ti2 kun1
 罥juan4
 罦fu2
 罧shen1
-罫guai3,gua4
+罫guai3 gua4
 罬zhuo2
 罭yu4
 罯an3
@@ -9628,7 +9628,7 @@
 罳si1
 罵ma4
 罶liu3
-罷pi2,ba1
+罷pi2 ba1
 罸fa2
 罺chao2
 罻wei4
@@ -9639,34 +9639,34 @@
 羂juan4
 羃mi4
 羄zhao4
-羅luo5,luo1
+羅luo5 luo1
 羆pi2
 羇ji1
 羈ji1
 羉luan2
 羋mi3
 羍da2
-羏yang2,xiang2
+羏yang2 xiang2
 羐you3
 羑you3
 羒fen2
 羓ba1
 羕yang4
 羖gu3
-羗you3,qiang1
+羗you3 qiang1
 羘zang1
-羙mei3,gao1
-羛yi4,xi1
+羙mei3 gao1
+羛yi4 xi1
 羜zhu4
 羠yi2
 羢rong2
 羣qun2
 羥qiang3
 羦huan2
-羨yan2,xian4
-義yi4,yi2
-羫qiang1,kong4
-羬xian2,qian2
+羨yan2 xian4
+義yi4 yi2
+羫qiang1 kong4
+羬xian2 qian2
 羭yu2
 羮geng1
 羱yuan2
@@ -9676,7 +9676,7 @@
 羶shan1
 羷lian3
 羻qiang4
-羾hong2,gong4
+羾hong2 gong4
 翀chong1
 翂fen1
 翃hong2
@@ -9686,21 +9686,21 @@
 翈xia2
 翉ben3
 翋la1
-翍pi1,bi4
-翏lu4,liu4
+翍pi1 bi4
+翏lu4 liu4
 翐zhi4
-翑yu4,qu2
+翑yu4 qu2
 習xi2
 翓xie2
 翖xi1
 翗ke2
 翙hui4
 翚hui1
-翛xiao1,shu1
+翛xiao1 shu1
 翜sha4
 翝hong2
 翞jiang1
-翢zhou1,dao4
+翢zhou1 dao4
 翣sha4
 痢li4
 立li4
@@ -9744,7 +9744,7 @@
 寥liao2
 辽liao2
 潦liao2
-了le5,liao3
+了le5 liao3
 撂liao4
 镣liao4
 廖liao4
@@ -9803,13 +9803,13 @@
 翫wan4
 翬hui1
 翭hou2
-翯he4,hao4
+翯he4 hao4
 翲piao1
 翴lian2
-翵qu2,hou2
+翵qu2 hou2
 翶ao2
 翷lin2
-翹qiao4,qiao2
+翹qiao4 qiao2
 翺ao2
 翽hui4
 翾xuan1
@@ -9819,18 +9819,18 @@
 耈gou3
 耉gou3
 耊die2
-耎ruan3,nuo4
-耏nai4,er2
-耑zhuan1,duan1
+耎ruan3 nuo4
+耏nai4 er2
+耑zhuan1 duan1
 耓ting1
 耚pi1
-耛yi2,chi2
-耝qu4,chu2
+耛yi2 chi2
+耝qu4 chu2
 耞jia1
 耟ju4
 耡chu2
-耤jie4,ji2
-耫zha2,ze2
+耤jie4 ji2
+耫zha2 ze2
 耬lou2
 耭ji1
 耮lao4
@@ -9847,11 +9847,11 @@
 聅che4
 聇zheng1
 聈you3
-聉wa4,tui3
+聉wa4 tui3
 聎tiao1
-聏nv4,er2
+聏nv4 er2
 聐ya4
-聑zhe2,tie1
+聑zhe2 tie1
 聓xu4
 聕hao4
 聖sheng4
@@ -9860,7 +9860,7 @@
 聛bi3
 聜di3
 聝guo2
-聞wen4,wen2
+聞wen4 wen2
 聟xu4
 聠ping1
 聡cong1
@@ -9875,7 +9875,7 @@
 聮lian2
 聯lian2
 聰cong1
-聲sheng5,sheng1
+聲sheng5 sheng1
 聳song3
 聴ting1
 聵kui4
@@ -9884,9 +9884,9 @@
 聸dan1
 聹ning2
 聺qie2
-聻ni3,jian4
+聻ni3 jian4
 聼ting1
-聽ting5,ting1
+聽ting5 ting1
 隆long2
 垄long3
 拢long3
@@ -9924,7 +9924,7 @@
 旅lv3
 履lv3
 屡lv3
-缕lv3,lv5
+缕lv3 lv5
 虑lv4
 氯lv4
 律lv4
@@ -9972,7 +9972,7 @@
 麦mai4
 卖mai4
 迈mai4
-脉mo4,mai4
+脉mo4 mai4
 瞒man2
 馒man2
 蛮man2
@@ -9989,39 +9989,39 @@
 肊yi4
 肍qiu2
 肎ken3
-肐qi4,ge1
-肑di2,bo2
+肐qi4 ge1
+肑di2 bo2
 肒huan4
 肔chi3
 肕ren4
 肗ru3
 肙yuan4
 肞cha1
-肣han4,han2
-肦fen2,ban1
+肣han4 han2
+肦fen2 ban1
 肧pei1
-肨pang1,feng1
+肨pang1 feng1
 肬you2
 肰ran2
 肳wen3
 肵qi2
 肶pi2
-肸xi1,bi4
+肸xi1 bi4
 肹xi1
 肻ken3
 胅die2
-胇fei3,bi4
+胇fei3 bi4
 胈ba2
 胉bo2
 胊qu2
 胋tian2
 胏zi3
-胐ku1,fei3
+胐ku1 fei3
 胑zhi1
 胒ni4
-胓ping2,peng1
-胔zi4,ci2
-胕fu3,fu1
+胓ping2 peng1
+胔zi4 ci2
+胕fu3 fu1
 胘xian2
 胟mu3
 胠qu1
@@ -10029,49 +10029,49 @@
 胣chi3
 胦yang1
 胮pang1
-胵zhi4,chi1
+胵zhi4 chi1
 胷xiong1
 胹er2
 胻heng2
 胾zi4
-胿kui4,gui1
-脀zheng1,cheng2
-脁tiao4,tiao3
+胿kui4 gui1
+脀zheng1 cheng2
+脁tiao4 tiao3
 脃cui4
 脄mei2
 脅xie2
-脇xie2,xi1
-脈mo4,mai4
-脋xie2,xi1
-脕wen4,wan4
+脇xie2 xi1
+脈mo4 mai4
+脋xie2 xi1
+脕wen4 wan4
 脗wen3
 脙xiu1
 脛jing4
 脜you3
 脝heng1
-脟luan2,lie4
-脠shan1,chan1
+脟luan2 lie4
+脠shan1 chan1
 脡ting3
 脢mei2
 脣chun2
 脤shen4
-脥qian3,jia2
-脧zui1,juan1
-脨ji2,cu4
-脩you3,xiao1
-脪xin4,chi1
+脥qian3 jia2
+脧zui1 juan1
+脨ji2 cu4
+脩you3 xiao1
+脪xin4 chi1
 脫tuo1
 脭cheng2
-脮tui3,nei3
+脮tui3 nei3
 脰dou4
 脴pi3
 脷li4
-脹zhang4,chang2
-脺sui4,cui4
+脹zhang4 chang2
+脺sui4 cui4
 脻jie1
-脼liang3,lang3
+脼liang3 lang3
 脽shui2
-脿biao4,biao1
+脿biao4 biao1
 谩man4
 芒mang2
 茫mang2
@@ -10168,22 +10168,22 @@
 摸mo1
 腀lun2
 腁pian2
-腂lei3,guo4
-腃quan2,juan4
-腄hou2,chui2
+腂lei3 guo4
+腃quan2 juan4
+腄hou2 chui2
 腅dan4
 腇nei3
-腍ren4,dian4
+腍ren4 dian4
 腎shen4
-腏zhui4,chuo4
+腏zhui4 chuo4
 腒ju1
 腖dong4
 腗pi2
-腘huo4,guo2
+腘huo4 guo2
 腛wo4
 腜mei2
-腝ruan3,nen4
-腞zhuan4,dun4
+腝ruan3 nen4
+腞zhuan4 dun4
 腟chi4
 腡luo2
 腢ou3
@@ -10194,14 +10194,14 @@
 腪yun4
 腫zhong3
 腬rou2
-腯tu2,dun4
+腯tu2 dun4
 腲wei3
-腳jue2,jiao3
+腳jue2 jiao3
 腵jia1
 腶duan4
 腷bi4
 腸chang2
-膁xian4,qian3
+膁xian4 qian3
 膃wa4
 膄shou4
 膅tang2
@@ -10215,49 +10215,49 @@
 膐lv3
 膒ou1
 膓chang2
-膔lu4,biao1
-膕huo4,guo2
+膔lu4 biao1
+膕huo4 guo2
 膖pang1
 膙jiang3
-膚lu2,fu1
-膞zhuan3,chuan2
+膚lu2 fu1
+膞zhuan3 chuan2
 膟lu4
 膠jiao1
 膡ying4
-膢lv2,lou2
+膢lv2 lou2
 膥cun1
-膧tong2,chuang2
+膧tong2 chuang2
 膩ni4
-膫liao3,liao2
+膫liao3 liao2
 膬cui4
-膭kui4,gui1
+膭kui4 gui1
 膮xiao1
-膯tun2,teng1
-膰pan2,fan2
+膯tun2 teng1
+膰pan2 fan2
 膱zhi2
 膲jiao1
-膴wu3,hu1
+膴wu3 hu1
 膵cui4
 膶yin2
 膷xiang1
-膸wei3,sui3
+膸wei3 sui3
 膹fen4
 膼zhua1
 膽dan3
 膾kuai4
 膿nong2
-臄jue2,ju1
+臄jue2 ju1
 臅chu4
 臇juan3
-臈la4,ge2
+臈la4 ge2
 臉lian3
 臋tun2
 臍qi2
 臎cui4
 臏bin4
 臐xun1
-臑ru2,nao4
-臒yue4,wo4
+臑ru2 nao4
+臒yue4 wo4
 摹mo2
 蘑mo2
 模mo2
@@ -10265,7 +10265,7 @@
 磨mo2
 摩mo2
 魔mo2
-抹mo4,mo3
+抹mo4 mo3
 末mo4
 莫mo4
 墨mo4
@@ -10301,7 +10301,7 @@
 纳na4
 氖nai3
 乃nai3
-奶nai3,nai5
+奶nai3 nai5
 耐nai4
 奈nai4
 南nan2
@@ -10336,7 +10336,7 @@
 撵nian3
 捻nian3
 念nian4
-娘niang2,niang5
+娘niang2 niang5
 酿niang4
 鸟niao3
 尿niao4
@@ -10365,41 +10365,41 @@
 臞qu2
 臟zang4
 臠luan2
-臡ni2,luan2
+臡ni2 luan2
 臢za1
-臤xian2,qian1
-臥wo5,wo4
-臦jiong3,guang4
+臤xian2 qian1
+臥wo5 wo4
+臦jiong3 guang4
 臨lin2
-臩jiong3,guang3
+臩jiong3 guang3
 臫jiao3
 臮ji4
 臯gao1
-臰xiu4,chou4
-臱mian2,bian1
+臰xiu4 chou4
+臱mian2 bian1
 臲nie4
 臵ge2
 臶jian4
-臷zhi2,die2
-臸zhi1,jin4
+臷zhi2 die2
+臸zhi1 jin4
 臹xiu1
-臺tai5,tai2
+臺tai5 tai2
 臽xian4
 臿cha1
-舃xi4,que4
-與yu4,yu2
-興xing5,xing1
-舉ju5,ju3
+舃xi4 que4
+與yu4 yu2
+興xing5 xing1
+舉ju5 ju3
 舊jiu4
-舋xin4,wen4
+舋xin4 wen4
 舎she4
 舏jiu3
-舑tan1,ran2
+舑tan1 ran2
 舓shi4
 舕tan4
 舖pu4
 舘guan3
-舙qi4,hua4
+舙qi4 hua4
 舚tian4
 舝xia2
 舠dao1
@@ -10407,12 +10407,12 @@
 舥pa1
 舦tai4
 舧fan2
-舩fan2,chuan2
+舩fan2 chuan2
 舮lu2
 舲ling2
 舺xia2
-舼qiong2,hong2
-舽pang2,feng2
+舼qiong2 hong2
+舽pang2 feng2
 舿kua1
 艀fu2
 艁zao4
@@ -10422,12 +10422,12 @@
 艆lang2
 艈yu4
 艊bo2
-艌qian4,nian4
+艌qian4 nian4
 艍ju1
 艎huang2
 艐zong1
 艑bian4
-艒mu4,mo4
+艒mu4 mo4
 艓die2
 艔dao4
 艕bang4
@@ -10436,7 +10436,7 @@
 艙cang1
 艛lou2
 艜dai4
-艞yao4,tiao4
+艞yao4 tiao4
 艠deng1
 艡dang1
 艢qiang2
@@ -10444,7 +10444,7 @@
 艤yi3
 艥ji2
 艦jian4
-艧wo4,huo4
+艧wo4 huo4
 艩qi2
 拧ning3
 泞ning4
@@ -10549,48 +10549,48 @@
 艶yan4
 艷yan4
 艸cao3
-艻le4,ji2
-艼ting1,ding3
+艻le4 ji2
+艼ting1 ding3
 芀tiao2
 芁jiao1
 芃peng2
 芅yi4
 芆cha1
 芇mian2
-芉gan3,gan1
+芉gan3 gan1
 芌yu4
-芐xia4,hu4
-芓zi4,zi1
+芐xia4 hu4
+芓zi4 zi1
 芔hui4
 芕sui1
 芖zhi4
-芚tun2,chun1
+芚tun2 chun1
 芛wei3
 芞qi4
 芠wen2
 芢ren2
-芣fu2,fou3
-芧zhu4,xu4
+芣fu2 fou3
+芧zhu4 xu4
 芲hua1
 芵jue2
 芶gou3
 芺ao3
-芻zou1,chu2
+芻zou1 chu2
 芼mao4
 苀hang2
-苂yin2,chan2
+苂yin2 chan2
 苃you3
 苅yi4
 苉pi3
-苐ti2,di4
+苐ti2 di4
 苖di2
-苙li4,ji1
+苙li4 ji1
 苚yong4
 苝bei4
 苢yi3
-苧zhu4,ning2
+苧zhu4 ning2
 苨ni3
-苩pa1,bo2
+苩pa1 bo2
 苪bing3
 苭yao3
 苮xian1
@@ -10600,37 +10600,37 @@
 苵die2
 苸hu1
 苺mei2
-苼sheng1,rui2
-苽gua1,gu1
-苾bie2,bi4
+苼sheng1 rui2
+苽gua1 gu1
+苾bie2 bi4
 苿wei4
-茀fu2,bo2
+茀fu2 bo2
 茊zi1
 茋zhi3
 茍ji4
 茐cong1
 茒yuan4
 茓xue2
-茖luo4,ge2
+茖luo4 ge2
 茘li4
 茙rong2
-茝zhi3,chai3
+茝zhi3 chai3
 茞chen2
 茟yu4
-茠xiu1,hao1
+茠xiu1 hao1
 茡zi4
 茢lie4
 茣wu2
-茤ji4,duo1
-茥gui4,gui1
+茤ji4 duo1
+茥gui4 gui1
 茦ci4
 茩gou4
 茪guang1
-茮niao3,jiao1
+茮niao3 jiao1
 茰yu2
-茲zi1,ci2
-茷pei4,fa2
-茻mu3,mang3
+茲zi1 ci2
+茷pei4 fa2
+茻mu3 mang3
 茽zhong4
 啤pi2
 脾pi2
@@ -10731,32 +10731,32 @@
 荁huan2
 荂fu1
 荄gai1
-荅ta4,da2
+荅ta4 da2
 荈chuan3
 荊jing1
 荋er2
 荌an4
 荍qiao2
-荎qi2,chi2
+荎qi2 chi2
 荓ping2
-荕qian2,jin1
-荖lao3,cha1
+荕qian2 jin1
+荖lao3 cha1
 荗shu4
 荙da2
 荝ce4
 荢zi4
 荰du4
-荱wei4,wei3
+荱wei4 wei3
 荲li2
 荳dou4
 荴fu1
 荵ren3
 荶yin2
-荹pu2,bu4
-荺yun3,yun2
+荹pu2 bu4
+荺yun3 yun2
 荾sui1
 荿cheng2
-莀nong2,chen2
+莀nong2 chen2
 莁wu2
 莂bie2
 莃xi1
@@ -10769,8 +10769,8 @@
 莍qiu2
 莏suo1
 莐chen2
-莑peng2,feng1
-莔xi2,meng2
+莑peng2 feng1
+莔xi2 meng2
 莕xing4
 莖jing1
 莗che1
@@ -10781,27 +10781,27 @@
 莡cuo4
 莢jia2
 莣wang2
-莤you2,su4
+莤you2 su4
 莥niu3
-莦xiao1,shao1
+莦xiao1 shao1
 莧xian4
-莬wen4,wan3
+莬wen4 wan3
 莭jie2
 莮nan2
 莯mu4
-莵tu4,tu2
+莵tu4 tu2
 莾mang3
 莿ci4
 菂di4
 菃qu2
 菄dong1
-菆zou1,cuan2
+菆zou1 cuan2
 菈la1
 菉lu4
 菋wei4
-菍ren3,nie4
+菍ren3 nie4
 菎kun1
-菑zi1,zai1
+菑zi1 zai1
 菒gao3
 菓guo3
 菕lun2
@@ -10815,10 +10815,10 @@
 菤juan3
 菦qin2
 菧di3
-菨sha4,jie1
+菨sha4 jie1
 菫jin3
-菬zhao3,qiao2
-菭zhi1,tai2
+菬zhao3 qiao2
+菭zhi1 tai2
 恰qia4
 洽qia4
 牵qian1
@@ -10866,7 +10866,7 @@
 峭qiao4
 俏qiao4
 窍qiao4
-切qie4,qie1
+切qie4 qie1
 茄qie2
 且qie3
 怯qie4
@@ -10914,32 +10914,32 @@
 驱qu1
 渠qu2
 菮geng1
-華hua4,hua1
-菳qin2,qin1
-菴yan3,an1
+華hua4 hua1
+菳qin2 qin1
+菴yan3 an1
 菵wang3
 菶beng3
 菷zhou3
 菺jian1
 菻lin3
 菼tan3
-菾tian4,tian2
-菿dao4,dao3
+菾tian4 tian2
+菿dao4 dao3
 萀hu3
 萂he2
 萅chun1
 萇chang2
 萈huan2
-萉fei4,fei2
+萉fei4 fei2
 萊lai2
 萐sha4
-萒yan3,juan4
+萒yan3 juan4
 萓yi2
-萔tiao2,shao2
-萕qi2,ci2
-萖guan3,guan1
+萔tiao2 shao2
+萕qi2 ci2
+萖guan3 guan1
 萗ce4
-萚ze2,tuo4
+萚ze2 tuo4
 萛jiu1
 萞bi4
 萟yi4
@@ -10951,60 +10951,60 @@
 萪ke1
 萫xiang4
 萬wan4
-萭yu3,ju3
-萮yu3,yu2
-萯fu4,bei4
+萭yu3 ju3
+萮yu3 yu2
+萯fu4 bei4
 萰lian4
 萲xuan1
-萳nan3,nan2
+萳nan3 nan2
 萴ce4
 萵wo1
 萶chun3
-萷xiao1,shao1
-萹bian3,bian1
-萺mu4,mao4
+萷xiao1 shao1
+萹bian3 bian1
+萺mu4 mao4
 萻an1
 萾ying2
-萿kuo4,huo2
+萿kuo4 huo2
 葀kuo4
 葁jiang1
-葂wan3,mian3
+葂wan3 mian3
 葃zuo4
 葄zuo4
-葅zu1,ju4
+葅zu1 ju4
 葇rou2
 葈xi3
 葉ye4
-葊yan3,an1
+葊yan3 an1
 葋qu2
 葌jian1
 葍fu2
 葎lv4
 葏jian1
-葐pen2,fen2
+葐pen2 fen2
 葒hong2
 葓hong2
 葔hou2
 葕yan4
 葖tu1
 葘zi1
-葝qing2,jing4
+葝qing2 jing4
 葞mi3
 葟huang2
 葠shen1
 葢gai4
 葤zhou4
-葥qian2,jian4
+葥qian2 jian4
 葦wei3
 葧bo2
 葨wei1
 葪ji4
 葮duan4
 葯yao4
-葰sui1,jun4
+葰sui1 jun4
 葲quan2
-葴zhen1,qian2
-葷xun1,hun1
+葴zhen1 qian2
+葷xun1 hun1
 葹shi1
 葻lan2
 葼zong1
@@ -11013,7 +11013,7 @@
 龋qu3
 趣qu4
 去qu4
-圈quan1,quan5
+圈quan1 quan5
 颧quan2
 权quan2
 醛quan2
@@ -11041,7 +11041,7 @@
 瓤rang2
 壤rang3
 攘rang3
-嚷rang1,rang5,rang3
+嚷rang1 rang5 rang3
 让rang4
 饶rao2
 扰rao3
@@ -11102,7 +11102,7 @@
 赛sai4
 三san1
 叁san1
-葽yao3,yao1
+葽yao3 yao1
 葾yuan1
 葿mei2
 蒀yun1
@@ -11110,30 +11110,30 @@
 蒃zhuan4
 蒄guan1
 蒆xue1
-蒍wei3,hua1
+蒍wei3 hua1
 蒏yong3
 蒐sou1
 蒑yin1
 蒒shi1
 蒓chun2
-蒔shi4,shi2
+蒔shi4 shi2
 蒕yun1
 蒖zhen1
-蒘ru2,na2
+蒘ru2 na2
 蒚li4
 蒛que1
-蒝yuan2,huan2
+蒝yuan2 huan2
 蒞li4
 蒟ju3
 蒠xi1
 蒢chu2
-蒣xu2,shu2
+蒣xu2 shu2
 蒤tu2
 蒥liu2
-蒦wo4,huo4
+蒦wo4 huo4
 蒧dian3
 蒨qian4
-蒩zu1,ju4
+蒩zu1 ju4
 蒪po4
 蒫cuo2
 蒬yuan1
@@ -11142,25 +11142,25 @@
 蒰pan2
 蒱pu2
 蒳na4
-蒵xi4,xi2
+蒵xi4 xi2
 蒶fen2
 蒷yun2
 蒻ruo4
 蒼cang1
 蒾mi2
 蓀sun1
-蓂ming2,mi4
-蓃sou3,sou1
+蓂ming2 mi4
+蓃sou3 sou1
 蓅liu2
 蓆xi2
 蓇gu1
 蓈lang2
-蓋ge3,gai4
+蓋ge3 gai4
 蓌cuo4
 蓎tang2
 蓏luo3
 蓒xuan1
-蓔zhuo2,yao3
+蓔zhuo2 yao3
 蓕gui4
 蓗zong3
 蓘gun3
@@ -11170,18 +11170,18 @@
 蓡shen1
 蓢lang3
 蓤ling2
-蓧you2,diao4
-蓨xiu1,tiao2
+蓧you2 diao4
+蓨xiu1 tiao2
 蓩mao3
 蓪tong1
-蓫zhu2,chu4
+蓫zhu2 chu4
 蓭an1
 蓮lian2
-蓯zong3,cong1
+蓯zong3 cong1
 蓱ping2
-蓲xu1,ou1
+蓲xu1 ou1
 蓳jin3
-蓴tuan2,chun2
+蓴tuan2 chun2
 蓵jie2
 蓶wei2
 蓷tui1
@@ -11287,40 +11287,40 @@
 牲sheng1
 升sheng1
 绳sheng2
-蔃qiang2,jiang4
+蔃qiang2 jiang4
 蔄man4
 蔅yan2
 蔆ling2
-蔇xi4,ji4
-蔈piao3,biao1
+蔇xi4 ji4
+蔈piao3 biao1
 蔉gun3
 蔊han3
 蔋di2
-蔍lu4,cu1
+蔍lu4 cu1
 蔎she4
 蔏shang1
 蔐di2
 蔒hun1
 蔔bo5
-蔕di4,dai4
-蔖cuo2,cu2
+蔕di4 dai4
+蔖cuo2 cu2
 蔘shen1
 蔙xuan4
 蔛hu2
 蔜ao2
 蔝mi3
-蔞lv3,lou2
+蔞lv3 lou2
 蔠zhong1
-蔢po2,bo4
+蔢po2 bo4
 蔣jiang3
 蔤mi4
-蔥chuang1,cong1
+蔥chuang1 cong1
 蔦niao3
 蔧hui4
-蔨jun4,juan4
+蔨jun4 juan4
 蔩yin2
-蔪shan1,jian1
-蔭yin4,yin1
+蔪shan1 jian1
+蔭yin4 yin1
 蔮guo2
 蔯chen2
 蔰hu4
@@ -11328,11 +11328,11 @@
 蔲kou4
 蔳qian4
 蔴ma2
-蔵zang1,cang2
+蔵zang1 cang2
 蔾li2
 蔿wei3
 蕀ji2
-蕁xun2,qian2
+蕁xun2 qian2
 蕂sheng4
 蕄meng2
 蕅ou3
@@ -11342,35 +11342,35 @@
 蕌lei3
 蕍yu2
 蕎qiao2
-蕏zhu1,chu2
-蕐hua2,hua1
+蕏zhu1 chu2
+蕐hua2 hua1
 蕑jian1
 蕒mai3
 蕓yun2
 蕔bao1
 蕕you2
 蕗lu4
-蕘yao2,rao2
+蕘yao2 rao2
 蕚e4
 蕛ti2
 蕜fei3
 蕝jue2
-蕟fei4,fa4
+蕟fei4 fa4
 蕠ru2
-蕡fen2,fei4
-蕢kui4,kuai4
+蕡fen2 fei4
+蕢kui4 kuai4
 蕣shun4
 蕥ya3
 蕦xu1
 蕧fu4
-蕩tang1,dang4
-蕪wu3,wu2
+蕩tang1 dang4
+蕪wu3 wu2
 蕫dong3
 蕬si1
 蕭xiao1
 蕮xi4
-蕯sa4,long2
-蕰yun4,wen1
+蕯sa4 long2
+蕰yun4 wen1
 蕱shao1
 蕳jian1
 蕵sun1
@@ -11380,7 +11380,7 @@
 蕼si4
 蕽nong2
 蕿xuan1
-薀yun4,wen1
+薀yun4 wen1
 薁yu4
 省sheng3
 盛sheng4
@@ -11476,15 +11476,15 @@
 庶shu4
 数shu4
 漱shu4
-薂xiao4,xi2
+薂xiao4 xi2
 薃hao4
 薆ai4
 薈hui4
 薉hui4
 薊ji4
-薋zi1,ci2
+薋zi1 ci2
 薌xiang1
-薍wan4,luan4
+薍wan4 luan4
 薎mie4
 薐leng2
 薑jiang1
@@ -11495,30 +11495,30 @@
 薖ke1
 薗yuan2
 薘da2
-薙zhi4,ti4
+薙zhi4 ti4
 薚tang1
 薝zhan1
 薞sun1
-薟xian1,lian3
+薟xian1 lian3
 薠fan2
 薡ding3
 薢xie4
 薣gu3
-薥zhu2,shu3
+薥zhu2 shu3
 薦jian4
-薧kao3,hao1
+薧kao3 hao1
 薩sa4
 薫xun1
 薬yao4
 薭bai4
 薱dui4
 薲pin2
-薳yuan3,wei3
+薳yuan3 wei3
 薴ning2
-薵zhou4,chou2
-薶wo1,mai2
+薵zhou4 chou2
+薶wo1 mai2
 薸piao2
-薺qi2,ci2
+薺qi2 ci2
 薻zao3
 薼chen2
 薽zhen1
@@ -11526,21 +11526,21 @@
 薿ni3
 藀ying2
 藂cong2
-藃xiao1,hao4
+藃xiao1 hao4
 藄qi2
 藅fa2
 藆jian3
-藇yu3,xu4
+藇yu3 xu4
 藈kui2
 藊bian3
-藋diao4,di2
+藋diao4 di2
 藌mi4
-藍lan5,lan2
+藍lan5 lan2
 藎jin4
 藑qiong2
 藒qie4
 藔liao2
-藖xian2,qian1
+藖xian2 qian1
 藗su4
 藘lv2
 藙yi4
@@ -11553,25 +11553,25 @@
 藡di2
 藢zhi3
 藣bei1
-藥yao5,shuo4
+藥yao5 shuo4
 藦mo4
 藧huan4
-藨pao1,biao1
+藨pao1 biao1
 藪sou3
 藫tan2
 藬tui1
 藭qiong2
 藮qiao2
 藯wei4
-藰liu3,liu2
-藱hui4,hui2
+藰liu3 liu2
+藱hui4 hui2
 藲ou1
-藳gao4,gao3
-藴yun4,wen1
+藳gao4 gao3
+藴yun4 wen1
 藵bao3
 藶li4
-藷zhu1,shu3
-藸zhu1,chu2
+藷zhu1 shu3
+藸zhu1 chu2
 恕shu4
 刷shua1
 耍shua3
@@ -11584,7 +11584,7 @@
 霜shuang1
 双shuang1
 爽shuang3
-谁shei2,shui2
+谁shei2 shui2
 水shui3
 睡shui4
 税shui4
@@ -11622,7 +11622,7 @@
 诵song4
 搜sou1
 艘sou1
-擞sou4,sou3
+擞sou4 sou3
 嗽sou4
 苏su1
 酥su1
@@ -11671,52 +11671,52 @@
 藼xuan1
 藽qin4
 藾lai4
-蘀ze2,tuo4
-蘁wu4,e4
+蘀ze2 tuo4
+蘁wu4 e4
 蘂rui3
 蘃rui3
-蘄qi2,ji1
-蘆lu5,lu2
+蘄qi2 ji1
+蘆lu5 lu2
 蘇su1
 蘈tui2
 蘉mang2
-蘊yun4,wen1
-蘋ping2,pin2
+蘊yun4 wen1
+蘋ping2 pin2
 蘌yu3
 蘍xun1
 蘎ji4
-蘏jiong3,jiong1
+蘏jiong3 jiong1
 蘐xuan1
 蘒qiu1
 蘓su1
 蘔jiong3
 蘕peng2
-蘗bo4,bi4
-蘘xiang1,rang2
+蘗bo4 bi4
+蘘xiang1 rang2
 蘙yi4
 蘚xian3
 蘛yu2
 蘜ju2
-蘝xian1,lian3
-蘞xian1,lian3
+蘝xian1 lian3
+蘞xian1 lian3
 蘟yin3
 蘠qiang2
 蘡ying1
-蘢long3,long2
+蘢long3 long2
 蘤hua1
 蘥yue4
 蘦ling2
 蘨yao2
 蘪mei2
-蘫lan4,han4
-蘬kui1,hui3
+蘫lan4 han4
+蘬kui1 hui3
 蘭lan2
 蘮ji4
-蘯tang1,dang4
+蘯tang1 dang4
 蘱lei4
 蘲lei2
-蘳hui1,hua4
-蘴song1,feng1
+蘳hui1 hua4
+蘴song1 feng1
 蘵zhi1
 蘶wei4
 蘷kui2
@@ -11738,18 +11738,18 @@
 虊luan2
 虋men2
 虌bie1
-虒ti2,si1
+虒ti2 si1
 虓xiao1
-處chu5,chu3
-虖hu2,hu1
+處chu5 chu3
+虖hu2 hu1
 虗xu1
 虘cuo2
 虙fu2
 虛xu1
 虜lu3
 虝hu3
-號hao5,hao2
-虠jiao1,hao2
+號hao5 hao2
+虠jiao1 hao2
 虡ju4
 虣bao4
 虤yan2
@@ -11790,7 +11790,7 @@
 探tan4
 叹tan4
 炭tan4
-汤shang1,tang1
+汤shang1 tang1
 塘tang2
 搪tang2
 堂tang2
@@ -11853,17 +11853,17 @@
 厅ting1
 听ting1
 烃ting1
-虭diao1,dao1
+虭diao1 dao1
 虯qiu2
-虰ding1,cheng1
+虰ding1 cheng1
 虳jue2
 虴zhe2
 虵she2
 虶yu1
-虷han2,gan1
+虷han2 gan1
 虸zi3
 蚃xiang3
-蚄fang1,bang4
+蚄fang1 bang4
 蚅e4
 蚆ba1
 蚇chi3
@@ -11874,11 +11874,11 @@
 蚐jun1
 蚑qi2
 蚒tong2
-蚔zhi3,qi2
-蚖yuan2,wan2
-蚗que1,jue2
-蚘you2,hui2
-蚙qin2,qian2
+蚔zhi3 qi2
+蚖yuan2 wan2
+蚗que1 jue2
+蚘you2 hui2
+蚙qin2 qian2
 蚚qi2
 蚛zhong4
 蚞mu4
@@ -11886,20 +11886,20 @@
 蚠fen2
 蚡fen2
 蚢hang2
-蚥fu4,fu3
+蚥fu4 fu3
 蚦ran2
 蚫bao4
 蚭ni2
-蚮te4,dai4
+蚮te4 dai4
 蚲ping2
-蚳chi2,chi1
+蚳chi2 chi1
 蚷ju4
 蚸li4
 蚹fu4
 蚻zha2
-蚼qu2,gou3
+蚼qu2 gou3
 蚽pi2
-蚾pi2,bo3
+蚾pi2 bo3
 蚿xian2
 蛁diao1
 蛂bie2
@@ -11907,18 +11907,18 @@
 蛅zhan1
 蛈tie3
 蛌gu3
-蛒luo4,ge2
+蛒luo4 ge2
 蛓ci4
-蛕hui3,hui2
-蛖mang2,bang4
+蛕hui3 hui2
+蛖mang2 bang4
 蛗fu4
 蛚lie4
 蛜yi1
 蛝xian2
 蛠li4
-蛡yi4,xu3
+蛡yi4 xu3
 蛢ping2
-蛣qie4,jie2
+蛣qie4 jie2
 蛥she2
 蛦yi2
 蛧wang3
@@ -11936,10 +11936,10 @@
 蛽bei4
 蛿han4
 蜁xuan2
-蜄zhen4,shen4
-蜅pu2,fu3
-蜆xian4,xian3
-蜋liang2,lang2
+蜄zhen4 shen4
+蜅pu2 fu3
+蜆xian4 xian3
+蜋liang2 lang2
 蜌bi4
 蜎yuan1
 蜏you3
@@ -12046,7 +12046,7 @@
 蜝qi2
 蜟yu4
 蜠jun4
-蜤xi1,si1
+蜤xi1 si1
 蜧li4
 蜨die2
 蜪tao2
@@ -12054,84 +12054,84 @@
 蜬han2
 蜭han4
 蜯bang4
-蜰fei4,fei2
-蜲wei3,wei1
-蜳tun1,dun1
-蜵yun1,yuan1
+蜰fei4 fei2
+蜲wei3 wei1
+蜳tun1 dun1
+蜵yun1 yuan1
 蜸qian3
 蜹rui4
 蜺ni2
-蜼wei4,wei3
+蜼wei4 wei3
 蜽liang3
 蝀dong1
 蝁e4
 蝂ban3
-蝃zhuo1,di4
+蝃zhuo1 di4
 蝄wang3
 蝅can2
 蝆yang2
 蝊ding4
 蝋la4
-蝍jie2,ji2
+蝍jie2 ji2
 蝏ting2
 蝐mao4
-蝑xu1,xie4
+蝑xu1 xie4
 蝒mian2
 蝔jie1
 蝕shi2
 蝖xuan1
 蝘yan3
-蝚rou2,nao2
+蝚rou2 nao2
 蝛wei1
 蝜fu4
-蝝yuan2,yuan1
+蝝yuan2 yuan1
 蝞mei4
-蝟wei5,wei4
+蝟wei5 wei4
 蝡ruan3
 蝢xie2
-蝦xia1,ha2
+蝦xia1 ha2
 蝧ying1
 蝨shi1
-蝩zhong1,chong2
+蝩zhong1 chong2
 蝪tang1
 蝫zhu1
 蝬zong1
-蝭ti2,chi2
+蝭ti2 chi2
 蝯yuan2
 蝱meng2
 蝲la4
-蝳du2,dai4
+蝳du2 dai4
 蝵qiu1
-蝷xi2,li4
-蝸wo1,luo2
-蝹yun1,ao3
-蝺yu3,qu3
+蝷xi2 li4
+蝸wo1 luo2
+蝹yun1 ao3
+蝺yu3 qu3
 螀jiang1
 螁tui4
 螄si1
 螆ci4
-螇xi1,qi1
+螇xi1 qi1
 螉weng1
 螊lian2
-螌pan2,ban1
+螌pan2 ban1
 螎rong2
 螏ji2
 螐wu1
 螑xiu4
 螒han4
-螔yi2,si1
-螕pi2,bi1
+螔yi2 si1
+螕pi2 bi1
 螖hua2
 螘yi3
 螙du4
-螛xia2,he2
+螛xia2 he2
 螜hu2
-螝hui3,gui1
-螞ma4,ma1
+螝hui3 gui1
+螞ma4 ma1
 螠yi4
 螡wen2
 螢ying2
-螣teng2,te4
+螣teng2 te4
 螤zhong1
 巍wei1
 微wei1
@@ -12142,7 +12142,7 @@
 围wei2
 唯wei2
 惟wei2
-为wei2,wei4
+为wei2 wei4
 潍wei2
 维wei2
 苇wei3
@@ -12181,7 +12181,7 @@
 挝wo1
 蜗wo1
 涡wo1
-窝wo1,wo5
+窝wo1 wo5
 我wo3
 斡wo4
 卧wo4
@@ -12231,27 +12231,27 @@
 螦sao1
 螩tiao2
 螪shang1
-螮di4,dai4
+螮di4 dai4
 螰lu4
 螱wei4
-螲zhi4,die2
+螲zhi4 die2
 螴chen2
-螶qu2,ju4
+螶qu2 ju4
 螷pi2
 螸yu2
-螹jian4,chan2
+螹jian4 chan2
 螻lou2
 螼qin3
-螾yin3,yin2
+螾yin3 yin2
 螿jiang1
 蟁wen2
 蟂xiao1
-蟃wan4,man4
+蟃wan4 man4
 蟄zhe2
 蟅zhe4
 蟇ma2
-蟈yu4,guo1
-蟉liu2,liao4
+蟈yu4 guo1
+蟉liu2 liao4
 蟌cong1
 蟍li2
 蟎man3
@@ -12264,45 +12264,45 @@
 蟘te4
 蟙zhi2
 蟚peng2
-蟜qiao2,jiao3
+蟜qiao2 jiao3
 蟝qu2
-蟞bie2,bie1
+蟞bie2 bie1
 蟟liao2
 蟡gui3
 蟢xi3
 蟣ji3
 蟤zhuan1
-蟦fei2,ben1
-蟧liao2,lao2
+蟦fei2 ben1
+蟧liao2 lao2
 蟨jue2
 蟩jue2
-蟫yin2,xun2
-蟬ti2,chan2
+蟫yin2 xun2
+蟬ti2 chan2
 蟭jiao1
-蟯rao4,nao2
+蟯rao4 nao2
 蟰xiao1
-蟱wu2,mou2
-蟲zhong4,chong2
+蟱wu2 mou2
+蟲zhong4 chong2
 蟳xun2
 蟴si1
 蟶cheng1
 蟷dang1
 蟸li3
-蟺shan4,dan4
+蟺shan4 dan4
 蟻yi3
 蟼jing3
 蟽da2
-蟿qi4,ji4
-蠀ji2,ci1
+蟿qi4 ji4
+蠀ji2 ci1
 蠁xiang3
 蠂she4
 蠄qin2
-蠅ying5,ying2
+蠅ying5 ying2
 蠆chai4
 蠇li4
 蠈zei2
 蠉xuan1
-蠋zhu2,shu2
+蠋zhu2 shu2
 蠌ze2
 蠍xie1
 蠎mang3
@@ -12319,7 +12319,7 @@
 蠝lei3
 蠞jie2
 蠟la4
-蠠min3,mian2
+蠠min3 mian2
 蠣li4
 稀xi1
 息xi1
@@ -12420,15 +12420,15 @@
 蠦lu2
 蠧du4
 蠨xiao1
-蠩zhu1,chu2
+蠩zhu1 chu2
 蠪long2
 蠫li2
 蠬long2
 蠭feng1
 蠮ye1
 蠯pi2
-蠰shang4,nang2
-蠱ye3,gu3
+蠰shang4 nang2
+蠱ye3 gu3
 蠳ying1
 蠴shu3
 蠵xi1
@@ -12438,7 +12438,7 @@
 蠺can2
 蠻man2
 蠽jie2
-蠾zhu2,shu2
+蠾zhu2 shu2
 蠿zhuo1
 衁huang1
 衂nv4
@@ -12446,22 +12446,22 @@
 衆zhong4
 衇mai4
 衈er3
-衉kai1,ka1
+衉kai1 ka1
 衊mie4
 衋xi4
-衎kan4,kan3
+衎kan4 kan3
 衏yuan4
 衐qu2
 衑ling2
 衒xuan4
 術shu4
-衕tong4,dong4
-衖xiang4,long4
+衕tong4 dong4
+衖xiang4 long4
 衘xian2
 衚hu2
 衛wei4
 衜dao4
-衝chong4,chong1
+衝chong4 chong1
 衞wei4
 衟dao4
 衠zhun1
@@ -12469,35 +12469,35 @@
 衧yu2
 衪yi2
 衭fu1
-衯pen2,fen1
+衯pen2 fen1
 衱jie2
 衳zhong1
 衴dan3
 衵yi4
 衶zhong4
 衸jie4
-衹zhi1,ti3
+衹zhi1 ti3
 衺xie2
 衻ran2
 衼zhi1
 袀jun1
 袃chai4
-袆yi1,hui1
+袆yi1 hui1
 袇ran2
-袉tuo3,tuo2
-袊ling3,ling2
-袌pao2,bao4
+袉tuo3 tuo2
+袊ling3 ling2
+袌pao2 bao4
 袎yao4
 袏zuo4
 袐bi4
 袑shao4
-袓ju4,jie1
-袔ke4,he4
+袓ju4 jie1
+袔ke4 he4
 袕xue2
 袗zhen3
-袘yi4,yi2
+袘yi4 yi2
 袙pa4
-袚fu2,bo1
+袚fu2 bo1
 袛di1
 袝fu4
 袞gun3
@@ -12506,10 +12506,10 @@
 袡ran2
 袣yi4
 袥tuo1
-袦na4,jue2
-袧gou4,gou1
+袦na4 jue2
+袧gou4 gou1
 袨xuan4
-袩zhe2,chan1
+袩zhe2 chan1
 袪qu1
 小xiao3
 孝xiao4
@@ -12551,7 +12551,7 @@
 衅xin4
 星xing1
 腥xing1
-猩xing1,xing5
+猩xing1 xing5
 惺xing1
 兴xing4
 刑xing2
@@ -12606,12 +12606,12 @@
 旋xuan2
 玄xuan2
 袬yu4
-袯bo2,bo1
-袳qi3,chi3
+袯bo2 bo1
+袳qi3 chi3
 袴ku4
 袵ren4
 袶jiang4
-袹mo4,bo2
+袹mo4 bo2
 袺jie2
 袻er2
 袽ru2
@@ -12624,68 +12624,68 @@
 裋shu4
 裌jia2
 裍kun3
-裏li5,li3
+裏li5 li3
 裐juan1
 裑shen1
-裓jie1,ge2
+裓jie1 ge2
 裖zhen3
 裗liu2
 裚ji4
 裛yi4
-補bu5,bu3
+補bu5 bu3
 裝zhuang1
 裞shui4
 裠qun2
 裡li3
 裦bao1
-裧chan4,chan1
+裧chan4 chan1
 裩kun1
 裪tao2
 裫yuan4
 裬ling2
 裭chi3
 裮chang1
-裯dao1,chou2
+裯dao1 chou2
 裲liang3
-裵pei2,fei2
+裵pei2 fei2
 裶fei1
-裷yuan1,gun3
-裺yan3,an1
+裷yuan1 gun3
+裺yan3 an1
 裻du2
 製zhi4
-裿yi3,qi3
-褀qi2,ji4
+裿yi3 qi3
+褀qi2 ji4
 褁guo3
 褃ken4
 褅ti4
-褆ti2,shi4
-複fu4,fu2
-褈chong2,chong1
+褆ti2 shi4
+複fu4 fu2
+褈chong2 chong1
 褉xie4
 褋die2
 褌kun1
-褍tuan1,duan1
-褎you4,xiu4
+褍tuan1 duan1
+褎you4 xiu4
 褏xiu4
-褑yuan4,yuan2
+褑yuan4 yuan2
 褔fu4
-褕yu2,tou2
+褕yu2 tou2
 褖tuan4
 褗yan3
-褘yi1,hui1
-褞yun3,wen1
+褘yi1 hui1
+褞yun3 wen1
 褟ta1
 褠gou1
 褢huai2
 褣rong2
-褤yuan4,yuan2
+褤yuan4 yuan2
 褦nai4
 褧jiong3
-褨suo3,cha2
-褩pan2,ban1
+褨suo3 cha2
+褩pan2 ban1
 褬sang3
 褭niao3
-褮ying4,ying1
+褮ying4 ying1
 褯jie4
 褱huai2
 褲ku4
@@ -12729,7 +12729,7 @@
 衙ya2
 涯ya2
 雅ya3
-哑ya1,ya3
+哑ya1 ya3
 亚ya4
 讶ya4
 焉yan1
@@ -12795,84 +12795,84 @@
 褾biao3
 褿cao2
 襀ji4
-襂shan1,sen1
-襃pou2,bao1
+襂shan1 sen1
+襃pou2 bao1
 襅bi4
-襆pu2,fu2
+襆pu2 fu2
 襇jian3
-襈zhuan4,juan4
+襈zhuan4 juan4
 襉jian3
-襊cuo1,cui4
+襊cuo1 cui4
 襋ji2
-襌dan1,chan2
+襌dan1 chan2
 襍za2
-襎fan2,bo4
-襏fei4,bo1
+襎fan2 bo4
+襏fei4 bo1
 襐xiang4
-襑xun2,xin2
+襑xun2 xin2
 襒bie2
 襓rao2
 襔jian3
 襕lan2
 襖ao3
-襗ze2,yi4
-襘hui4,gui4
+襗ze2 yi4
+襘hui4 gui4
 襚sui4
 襛nong2
-襜dan1,chan1
-襝lian3,chan1
+襜dan1 chan1
+襝lian3 chan1
 襠dang1
-襡shu3,du2
-襢zhan4,tan3
+襡shu3 du2
+襢zhan4 tan3
 襣bi4
 襤lan2
-襥pu2,fu2
+襥pu2 fu2
 襧zhi3
-襩shu3,du2
+襩shu3 du2
 襪wa4
 襫shi4
-襬bei1,bai3
+襬bei1 bai3
 襭xie2
 襮bo2
-襯chen5,chen4
+襯chen5 chen4
 襰lai4
-襱long4,long2
+襱long4 long2
 襲xi2
-襳xian1,shan1
+襳xian1 shan1
 襴lan2
 襵zhe2
 襶dai4
 襷ju3
-襸zan4,cuan2
+襸zan4 cuan2
 襹shi1
 襺jian3
 襼yi4
 襽lan2
 襾ya4
 覀xi1
-覂feng3,ban3
+覂feng3 ban3
 覄fu4
 覅fiao4
 覇ba4
 覈he2
 覉ji1
 覊ji1
-見xian4,jian4
-覌guan4,guan1
+見xian4 jian4
+覌guan4 guan1
 覍bian4
 覎yan4
-規gui4,gui1
-覐jue2,jiao4
+規gui4 gui1
+覐jue2 jiao4
 覑pian3
 覒mao4
 覓mi4
 覔mi4
-覕pie1,mie4
+覕pie1 mie4
 視shi4
 覗si4
-覘dan1,chan1
+覘dan1 chan1
 覙zhen3
-覚jue2,jiao4
+覚jue2 jiao4
 覛mi4
 覜tiao4
 覝lian2
@@ -12982,93 +12982,93 @@
 覧lan3
 覨e4
 覩du3
-親qing4,qin1
+親qing4 qin1
 覫pang3
 覬ji4
 覭ming2
 覮ying2
 覯gou4
 覰qu4
-覱zhan4,zhan1
+覱zhan4 zhan1
 覲jin4
-観guan4,guan1
+観guan4 guan1
 覴deng1
-覵jian4,bian3
-覶luo2,luan3
-覷qu4,qu1
+覵jian4 bian3
+覶luo2 luan3
+覷qu4 qu1
 覸jian1
 覹wei2
-覺jue2,jiao4
+覺jue2 jiao4
 覻qu4
 覼luo2
 覽lan3
 覾shen3
-覿ji2,di2
-觀guan4,guan1
+覿ji2 di2
+觀guan4 guan1
 觃yan4
 觍tian3
 觓qiu2
 觔jin1
-觕chu4,cu1
+觕chu4 cu1
 觗zhi4
 觘chao4
 觙ji2
 觛dan4
-觝zhi3,di3
-觟xie4,hua4
+觝zhi3 di3
+觟xie4 hua4
 觠quan2
 觡ge2
 觢shi4
 觤gui3
-觧jie4,jie3
+觧jie4 jie3
 觨hun4
 觩qiu2
 觪xing1
 觬ni2
-觭qi3,ji1
+觭qi3 ji1
 觮lu4
-觰zha3,zha1
+觰zha3 zha1
 觱bi4
 觲xing1
 觴shang1
 觵gong1
 觶zhi4
-觷xue2,hu4
+觷xue2 hu4
 觸chu4
-觹xi1,wei2
+觹xi1 wei2
 觺yi2
 觻lu4
 觼jue2
-觽xi1,wei2
+觽xi1 wei2
 觾yan4
-觿xi1,wei2
+觿xi1 wei2
 訁yan2
 訂ding4
 訃fu4
 訄qiu2
 訅qiu2
 訆jiao4
-計ji5,ji4
+計ji5 ji4
 訉fan4
 訊xun4
 訋diao4
 訌hong4
-訍chai4,cha1
+訍chai4 cha1
 討tao3
-訏xu3,xu1
-訐jie2,ji4
-訑yi2,dan4
+訏xu3 xu1
+訐jie2 ji4
+訑yi2 dan4
 訒ren4
-訓xun5,xun4
+訓xun5 xun4
 訔yin2
 訕shan4
 訖qi4
 託tuo1
-記ji5,ji4
+記ji5 ji4
 訙xun4
 訚yin2
 訛e2
-訜fen1,bin1
+訜fen1 bin1
 訝ya4
 印yin4
 英ying1
@@ -13117,7 +13117,7 @@
 油you2
 游you5
 酉you3
-有you3,you4
+有you3 you4
 友you3
 右you4
 佑you4
@@ -13168,9 +13168,9 @@
 訟song4
 訠shen3
 訡yin2
-訢xin1,xi1
+訢xin1 xi1
 訣jue2
-訤xiao2,na2
+訤xiao2 na2
 訥ne4
 訦chen2
 訧you2
@@ -13178,32 +13178,32 @@
 訩xiong1
 訪fang3
 訫xin4
-訬miao3,chao1
+訬miao3 chao1
 設she4
 訮yan2
-訯sa4,sa3
-許xu3,hu3
+訯sa4 sa3
+許xu3 hu3
 訲yi4
 訴su4
-訵chi4,chi1
+訵chi4 chi1
 訶he1
 訷shen1
-訸he4,he2
+訸he4 he2
 訹xu4
 診zhen3
 註zhu4
 証zheng4
 訽gou4
-訿zi3,zi1
-詀zhan4,che4
+訿zi3 zi1
+詀zhan4 che4
 詁gu3
 詂fu4
 詃jian3
 詄die2
 詅ling2
-詆ti4,di3
+詆ti4 di3
 詇yang4
-詉nu4,na2
+詉nu4 na2
 詊pan4
 詋zhou4
 詌gan4
@@ -13211,14 +13211,14 @@
 詎ju4
 詏yao4
 詐zha4
-詑tuo2,duo4
-詒yi2,dai4
+詑tuo2 duo4
+詒yi2 dai4
 詓qu3
 詔zhao4
 評ping2
 詖bi4
-詘qu1,chu4
-詙bo2,ba2
+詘qu1 chu4
+詙bo2 ba2
 詚da2
 詛zu3
 詜tao1
@@ -13230,33 +13230,33 @@
 詢xun2
 詣yi4
 詤huang3
-詥he2,ge2
+詥he2 ge2
 試shi4
-詧qie4,cha2
+詧qie4 cha2
 詨xiao4
 詩shi1
 詪hen3
-詫du4,cha4
-詬hou4,gou4
+詫du4 cha4
+詬hou4 gou4
 詭gui3
 詮quan2
 詯hui4
 詰jie2
-話hua5,hua4
+話hua5 hua4
 該gai1
 詳xiang2
 詴wei1
 詵shen1
-詶zhou4,chou2
-詷tong2,dong4
+詶zhou4 chou2
+詷tong2 dong4
 詸mi2
 詺ming4
-詻lve4,e4
+詻lve4 e4
 詼hui1
 詽yan2
 詾xiong1
 詿gua4
-誀chi3,er4
+誀chi3 er4
 浴yu4
 寓yu4
 裕yu4
@@ -13329,7 +13329,7 @@
 枣zao3
 早zao3
 澡zao3
-蚤zao5,zao3
+蚤zao5 zao3
 躁zao4
 噪zao4
 造zao4
@@ -13347,13 +13347,13 @@
 曾ceng2
 赠zeng4
 扎zha1
-喳cha1,zha1
+喳cha1 zha1
 渣zha1
 札zha2
 轧ya4
 誁bing4
-誂tiao3,diao4
-誃yi2,chi2
+誂tiao3 diao4
+誃yi2 chi2
 誄lei3
 誅zhu1
 誆kuang1
@@ -13363,10 +13363,10 @@
 誌zhi4
 認ren4
 誎cu4
-誏lang4,lang3
-誐e3,e2
+誏lang4 lang3
+誐e3 e2
 誑kuang2
-誒xi1,ea1
+誒xi1 ea1
 誔ting3
 誕dan4
 誖bei4
@@ -13377,9 +13377,9 @@
 誛qin1
 誜shua4
 誝an1
-語yu4,yu3
+語yu4 yu3
 誟xiao4
-誠cheng5,cheng2
+誠cheng5 cheng2
 誡jie4
 誢xian4
 誣wu1
@@ -13389,11 +13389,11 @@
 誧bu1
 誨hui4
 誩jing4
-說yue4,shui4
+說yue4 shui4
 誫zhen4
-説yue4,shui4
+説yue4 shui4
 誯chang4
-誰shui2,shei2
+誰shui2 shei2
 誱jie2
 課ke4
 誳qu1
@@ -13403,18 +13403,18 @@
 誷wang3
 誸xian2
 誹fei3
-誺lai4,chi1
+誺lai4 chi1
 誻ta4
 誼yi4
-誽ni4,na2
+誽ni4 na2
 誾yin2
-調tiao4,diao4
+調tiao4 diao4
 諀pi3
 諁zhuo2
 諂chan3
 諃chen1
 諄zhun1
-諅ji4,ji1
+諅ji4 ji1
 諆qi1
 談tan2
 諈zhui4
@@ -13423,28 +13423,28 @@
 請qing3
 諌dong3
 諍zheng4
-諎zuo4,ze2
-諏zhou1,zou1
+諎zuo4 ze2
+諏zhou1 zou1
 諐qian1
 諑zhuo2
 諒liang4
 諓jian4
-諔ji2,chu4
-諕xia4,hao2
-論lun4,lun2
+諔ji2 chu4
+諕xia4 hao2
+論lun4 lun2
 諗shen3
 諘biao3
 諙hua4
 諚pian2
 諛yu2
-諜xie4,die2
+諜xie4 die2
 諝xu1
 諞pian3
-諟shi4,di4
+諟shi4 di4
 諠xuan1
 諡shi4
 諢hun4
-諣hua4,gua1
+諣hua4 gua1
 铡zha2
 闸zha2
 眨zha3
@@ -13534,14 +13534,14 @@
 征zheng1
 狰zheng1
 争zheng1
-怔zheng4,zheng1
+怔zheng4 zheng1
 整zheng3
 拯zheng3
 正zheng4
 政zheng4
 諤e4
 諥zhong4
-諦ti2,di4
+諦ti2 di4
 諧xie2
 諨fu2
 諩pu3
@@ -13551,11 +13551,11 @@
 諭yu4
 諮zi1
 諯zhuan1
-諰xi3,shai1
+諰xi3 shai1
 諱hui4
 諲yin1
 諴xian2
-諵nan4,nan2
+諵nan4 nan2
 諶chen2
 諷feng3
 諸zhu1
@@ -13571,21 +13571,21 @@
 謂wei4
 謃xing1
 謄teng2
-謅zhou1,chou1
+謅zhou1 chou1
 謆shan4
-謈po2,pao2
+謈po2 pao2
 謊huang3
 謋huo4
 謌ge1
-謍ying2,ying1
-謎mi2,mei4
+謍ying2 ying1
+謎mi2 mei4
 謏xiao3
 謐mi4
-謑xia4,xi3
+謑xia4 xi3
 謒qiang1
-謓zhen4,chen1
+謓zhen4 chen1
 謔xue4
-謕ti2,si1
+謕ti2 si1
 謖su4
 謗bang4
 謘chi2
@@ -13594,13 +13594,13 @@
 講jiang3
 謜yuan2
 謝xie4
-謞xiao1,he4
+謞xiao1 he4
 謟tao1
 謠yao2
 謡yao2
 謢lu1
-謣yu2,xu1
-謤piao1,biao1
+謣yu2 xu1
+謤piao1 biao1
 謥cong1
 謧li2
 謨mo2
@@ -13610,26 +13610,26 @@
 謬miu4
 謭jian3
 謮ze2
-謯zu3,jie1
+謯zu3 jie1
 謰lian2
 謱lou2
-謲zao4,can4
+謲zao4 can4
 謳ou1
 謴gun4
-謵xi2,che4
-謶zhuo2,shu4
-謷ao4,ao2
+謵xi2 che4
+謶zhuo2 shu4
+謷ao4 ao2
 謸ao4
 謹jin3
 謺zhe2
-謻yi2,chi2
-謼xiao1,hu1
+謻yi2 chi2
+謼xiao1 hu1
 謽jiang4
-謾man4,man2
-謿zhao1,chao2
-譀xian4,han4
-譁wa2,hua2
-譂dan4,chan3
+謾man4 man2
+謿zhao1 chao2
+譀xian4 han4
+譁wa2 hua2
+譂dan4 chan3
 譃xu1
 譄zeng1
 譅se4
@@ -13640,7 +13640,7 @@
 芝zhi1
 枝zhi1
 支zhi1
-吱zi1,zhi1
+吱zi1 zhi1
 蜘zhi1
 知zhi1
 肢zhi1
@@ -13686,9 +13686,9 @@
 钟zhong1
 衷zhong1
 终zhong1
-种zhong3,zhong4
+种zhong3 zhong4
 肿zhong3
-重chong2,zhong4
+重chong2 zhong4
 仲zhong4
 众zhong4
 舟zhou1
@@ -13731,7 +13731,7 @@
 譇zha1
 譈dui4
 證zheng4
-譊xiao1,nao2
+譊xiao1 nao2
 譋lan2
 譌e2
 譍ying4
@@ -13742,11 +13742,11 @@
 譒bo4
 譓hui4
 譔zhuan4
-譕wu2,mo2
+譕wu2 mo2
 譖zen4
 譗zha2
-識zhi4,shi2
-譙qiao4,qiao2
+識zhi4 shi2
+譙qiao4 qiao2
 譚tan2
 譛zen4
 譜pu3
@@ -13754,17 +13754,17 @@
 譞xuan1
 譟zao4
 譠tan2
-譡dang4,dang3
+譡dang4 dang3
 譢sui4
 譣xian1
 譤ji1
 譥jiao4
-譧zhan4,lian2
+譧zhan4 lian2
 譩yi1
 譪ai3
 譫zhan1
 譭hui3
-譮hui4,hua4
+譮hui4 hua4
 譯yi4
 議yi4
 譱shan4
@@ -13774,15 +13774,15 @@
 譵dui4
 譶ta4
 護hu4
-譸zhou1,chou2
+譸zhou1 chou2
 譹hao2
-譺yi2,ai4
+譺yi2 ai4
 譻ying1
-譼jian4,jian1
+譼jian4 jian1
 譽yu4
 譾jian3
 譿hui4
-讀du2,dou4
+讀du2 dou4
 讁zhe2
 讂juan4
 讃zan4
@@ -13791,7 +13791,7 @@
 讆wei4
 讇chan3
 讈li4
-讉yi2,tui1
+讉yi2 tui1
 變bian4
 讋zhe2
 讌yan4
@@ -13804,20 +13804,20 @@
 讓rang4
 讔yin3
 讕lan2
-讖chen4,chan4
+讖chen4 chan4
 讗xie2
 讘nie4
-讙huan4,huan1
+讙huan4 huan1
 讚zan4
 讛yi4
-讜dang4,dang3
+讜dang4 dang3
 讞yan4
 讟du2
 讬tuo1
 讱ren4
 讻xiong1
 诐bi4
-诪zhou1,chou2
+诪zhou1 chou2
 谉shen3
 谞xu1
 住zhu4
@@ -13915,17 +13915,17 @@
 谻ji2
 谼hong2
 谽han1
-谾long2,hong1
-谿xi1,ji1
+谾long2 hong1
+谿xi1 ji1
 豀xi1
 豂liao2
-豃han3,gan3
+豃han3 gan3
 豄du2
-豅long4,long2
+豅long4 long2
 豈qi3
-豊li3,feng1
+豊li3 feng1
 豋deng1
-豍bian3,bi1
+豍bian3 bi1
 豎shu4
 豏xian4
 豐feng1
@@ -13944,17 +13944,17 @@
 豟e4
 豠chu2
 豣jian1
-豤kun1,ken3
+豤kun1 ken3
 豥gai1
 豦ju4
-豧fu4,fu1
+豧fu4 fu1
 豨xi1
-豩huan1,bin1
+豩huan1 bin1
 豬zhu1
 豭jia1
 豮fen2
 豯xi1
-豰hu4,bo2
+豰hu4 bo2
 豱wen1
 豲huan2
 豴di2
@@ -13966,44 +13966,44 @@
 豽na4
 豾pi1
 豿gou3
-貀na4,duo4
+貀na4 duo4
 貁you4
 貃mo4
 貄si4
-貆huan2,huan1
-貇kun1,ken3
-貈mo4,he2
+貆huan2 huan1
+貇kun1 ken3
+貈mo4 he2
 貋an4
-貍mai2,li2
+貍mai2 li2
 貎ni2
 貏bi3
 貐yu3
 貑jia1
-貒tuan4,tuan1
-貓mao2,mao1
+貒tuan4 tuan1
+貓mao2 mao1
 貕xi1
 貖yi4
-貗yu2,ju4
+貗yu2 ju4
 貙chu1
 貚tan2
 貛huan1
 貜jue2
 貝bei4
 貞zhen1
-貟yun4,yuan2
+貟yun4 yuan2
 負fu4
 財cai2
 貢gong4
 貣te4
-貤yi4,yi2
+貤yi4 yi2
 貥hang2
 貦wan2
 貧pin2
 貨huo4
 販fan4
 貪tan1
-貫wan1,guan4
-責zhai4,ze2
+貫wan1 guan4
+責zhai4 ze2
 貭zhi4
 亍chu4
 丌ji1
@@ -14041,7 +14041,7 @@
 芈mi3
 孛bei4
 啬se4
-嘏jia3,gu3
+嘏jia3 gu3
 仄ze4
 厍she4
 厝cuo4
@@ -14107,25 +14107,25 @@
 貳er4
 貴gui4
 貵pian3
-貶fa2,bian3
+貶fa2 bian3
 買mai3
-貸te4,dai4
+貸te4 dai4
 貹sheng4
 貺kuang4
-費fu2,fei4
+費fu2 fei4
 貼tie1
 貽yi2
 貾chi2
 貿mao4
 賀he4
-賁bi4,ben1
+賁bi4 ben1
 賂lu4
 賃lin4
 賄hui4
 賅gai1
 賆pian2
 資zi1
-賈jia3,gu3
+賈jia3 gu3
 賉xu4
 賊zei2
 賋jiao3
@@ -14151,12 +14151,12 @@
 賟tian3
 賠pei2
 賡geng1
-賢xian4,xian2
-賣mai5,mai4
+賢xian4 xian2
+賣mai5 mai4
 賤jian4
 賥sui4
 賦fu4
-賧tan4,dan3
+賧tan4 dan3
 賨cong2
 賩cong2
 質zhi4
@@ -14164,7 +14164,7 @@
 賬zhang4
 賭du3
 賮jin4
-賯xiong1,min2
+賯xiong1 min2
 賰chun3
 賱yun3
 賲bao3
@@ -14173,8 +14173,8 @@
 賵feng4
 賷ji1
 賸sheng4
-賹yi4,ai4
-賺zhuan4,zuan4
+賹yi4 ai4
+賺zhuan4 zuan4
 賻fu4
 購gou4
 賽sai4
@@ -14184,10 +14184,10 @@
 贁bai4
 贂chen3
 贃wan4
-贄zhi4,zhi2
+贄zhi4 zhi2
 贅zhui4
 贆biao1
-贇yun1,bin1
+贇yun1 bin1
 贈zeng4
 贉dan4
 贊zan4
@@ -14199,7 +14199,7 @@
 伲ni4
 伽ga1
 佶ji2
-佴nai4,er4
+佴nai4 er4
 侑you4
 侉kua3
 侃kan3
@@ -14230,7 +14230,7 @@
 俾bi3
 倜ti4
 倌guan1
-倥kong3,kong1
+倥kong3 kong1
 倨ju4
 偾fen4
 偃yan3
@@ -14272,7 +14272,7 @@
 凫fu2
 夙su4
 兕si4
-亠wen2,tou2
+亠wen2 tou2
 兖yan3
 亳bo2
 衮gun3
@@ -14291,7 +14291,7 @@
 贎wan4
 贏ying2
 贐jin4
-贑gong4,gan4
+贑gong4 gan4
 贒xian2
 贓zang1
 贔bi4
@@ -14301,15 +14301,15 @@
 贘shang3
 贙xuan4
 贚long4
-贛gong4,gan4
+贛gong4 gan4
 贜zang1
-贠yun4,yuan2
+贠yun4 yuan2
 赑bi4
 赒zhou1
 赗feng4
-赟yun1,bin1
+赟yun1 bin1
 赥xi1
-赨xiong2,tong2
+赨xiong2 tong2
 赩xi4
 赪cheng1
 赬cheng1
@@ -14319,71 +14319,71 @@
 赲li4
 赸shan4
 赹qiong2
-赺yin3,qin3
+赺yin3 qin3
 赻xian3
 赼zi1
-赽jue2,gui4
+赽jue2 gui4
 赾qin3
-赿di4,chi2
+赿di4 chi2
 趀ci1
-趂zhen1,chen4
-趃tu2,die2
+趂zhen1 chen4
+趃tu2 die2
 趆di1
 趇xi4
 趈zhan1
-趉jue2,ju2
-趌jie2,ji2
-趍qu1,chi2
+趉jue2 ju2
+趌jie2 ji2
+趍qu1 chi2
 趎chu2
-趏huo2,gua1
-趐xue4,chi4
-趒tiao4,tiao2
+趏huo2 gua1
+趐xue4 chi4
+趒tiao4 tiao2
 趓duo3
 趕gan3
 趖suo1
 趗cu4
 趘xi2
-趙zhao4,diao4
+趙zhao4 diao4
 趚su4
 趛yin3
 趜ju2
 趝jian4
-趞que4,ji2
-趠chuo4,chao4
-趡wei3,cui3
+趞que4 ji2
+趠chuo4 chao4
+趡wei3 cui3
 趢lu4
 趤dang4
-趥qiu1,cu4
+趥qiu1 cu4
 趦zi1
 趧ti2
-趨qu1,cu4
+趨qu1 cu4
 趩chi4
-趪huang2,guang1
-趫qiao2,chao3
+趪huang2 guang1
+趫qiao2 chao3
 趬qiao1
 趭jiao4
 趮zao4
-趯yue4,ti4
+趯yue4 ti4
 趰er3
 趲zan3
-趶wu1,ku4
+趶wu1 ku4
 趷ke1
-趹jue2,gui4
+趹jue2 gui4
 趻chen3
-趽pang2,fang1
+趽pang2 fang1
 跀yue4
-跁pa2,ba4
-跂qi4,qi2
-跅tuo4,chi4
+跁pa2 ba4
+跂qi4 qi2
+跅tuo4 chi4
 跇yi4
-跈nian3,jian4
+跈nian3 jian4
 跉ling2
 跊mei4
 跍ku1
-跐ci3,ci1
+跐ci3 ci1
 跒qia3
 跓zhu4
-跔qu3,ju1
+跔qu3 ju1
 凇song1
 冖tu1
 冢zhong3
@@ -14415,7 +14415,7 @@
 诮qiao4
 诰gao4
 诳kuang2
-诶xi1,ea1
+诶xi1 ea1
 诹zou1
 诼zhuo2
 诿wei3
@@ -14454,9 +14454,9 @@
 阡qian1
 阱jing3
 阪ban3
-阽yan2,dian4
+阽yan2 dian4
 阼zuo4
-陂bei1,po1
+陂bei1 po1
 陉jing4
 陔gai1
 陟zhi4
@@ -14478,102 +14478,102 @@
 邳pi1
 邶bei4
 邺ye4
-跕zhan4,die2
-跘pan2,ban4
-跙qu1,ju4
+跕zhan4 die2
+跘pan2 ban4
+跙qu1 ju4
 跜ni2
 跠yi2
 跡ji4
-跢duo4,dai4
+跢duo4 dai4
 跥duo4
-跦zhu1,chu2
+跦zhu1 chu2
 跧quan2
-跩zhuai3,shi4
+跩zhuai3 shi4
 跭xiang2
-跮die2,chi4
-跰pian2,beng4
+跮die2 chi4
+跰pian2 beng4
 跱zhi4
-跲jie2,jia2
+跲jie2 jia2
 跴cai3
-跶da5,da2
+跶da5 da2
 跼ju2
-跾shu1,chou1
-跿tu2,duo2
-踀chu4,cu4
+跾shu1 chou1
+跿tu2 duo2
+踀chu4 cu4
 踁jing4
 踂nie4
 踃xiao1
 踄bu4
-踆zun1,cun1
+踆zun1 cun1
 踇mu3
 踈shu1
 踋jiao3
 踍qiao1
 踎mou2
-踐jian5,jian4
-踑qi2,ji1
-踒wo1,wei1
-踓wei3,cu4
+踐jian5 jian4
+踑qi2 ji1
+踒wo1 wei1
+踓wei3 cu4
 踕jie2
-踖qi4,ji2
+踖qi4 ji2
 踗nie4
 踘ju1
 踙nie4
 踚lun2
 踛lu4
-踜leng4,leng2
-踠wo4,wan3
+踜leng4 leng2
+踠wo4 wan3
 踡quan2
-踤zu2,cu4
+踤zu2 cu4
 踥qie4
-踦qi1,ji1
-踧di2,cu4
+踦qi1 ji1
+踧di2 cu4
 踨zong1
 踫peng4
 踭zheng1
-踰yu2,yao2
+踰yu2 yao2
 踲dun4
-踳chun3,chuan3
+踳chun3 chuan3
 踴yong3
-踶di4,chi2
+踶di4 chi2
 踷zha3
 踸chen3
-踻tuo2,gua1
-踼tang3,tang2
-踾fu2,bi4
+踻tuo2 gua1
+踼tang3 tang2
+踾fu2 bi4
 踿zu2
 蹃nuo4
-蹅zha1,cha3
+蹅zha1 cha3
 蹆tui3
-蹌qiang4,qiang1
+蹌qiang4 qiang1
 蹍zhan3
 蹎dian1
-蹏ti2,di4
+蹏ti2 di4
 蹐ji2
-蹓liu4,liu1
-蹔zan4,can2
+蹓liu4 liu1
+蹔zan4 can2
 蹕bi4
 蹖chong1
 蹗lu4
 蹘liao2
 蹚tang1
-蹛die1,dai4
+蹛die1 dai4
 蹜su4
 蹝xi3
 蹞kui3
 蹟ji4
 蹠zhi2
-蹡qiang4,qiang1
-蹢zhi2,di2
+蹡qiang4 qiang1
+蹢zhi2 di2
 蹣pan2
 蹤zong1
 蹥lian2
 蹧zao1
-蹨ran3,nian3
+蹨ran3 nian3
 蹪tui2
 蹫ju2
 蹮xian1
-蹱zhong1,chong4
+蹱zhong1 chong4
 邸di3
 邰tai2
 郏jia2
@@ -14613,7 +14613,7 @@
 叟sou3
 燮xie4
 矍jue2
-廴yin4,yin3
+廴yin4 yin3
 凵qian3
 凼dang4
 鬯chang4
@@ -14671,13 +14671,13 @@
 蹳bo1
 蹵cu4
 蹷jue2
-蹸lin4,lin2
+蹸lin4 lin2
 蹺qiao1
-蹻qiao1,jiao3
+蹻qiao1 jiao3
 蹽liao1
 蹾dun1
-躀guan4,guan3
-躂da5,da2
+躀guan4 guan3
+躂da5 da2
 躃bi4
 躄bi4
 躆ju4
@@ -14686,30 +14686,30 @@
 躊chou2
 躋ji1
 躌wu3
-躍yue4,ti4
+躍yue4 ti4
 躎nian3
 躑zhi2
-躒yue4,li4
-躓zhi4,zhi1
+躒yue4 li4
+躓zhi4 zhi1
 躕chu2
 躖duan4
 躗wei4
-躘long3,long2
+躘long3 long2
 躙lin4
 躚xian1
 躛wei4
 躝lan2
 躟rang2
-躠xie4,sa3
+躠xie4 sa3
 躡nie4
 躢ta4
 躣qu2
-躤qi4,ji2
+躤qi4 ji2
 躥cuan1
-躦zuan1,cuo2
+躦zuan1 cuo2
 躧xi3
 躨kui2
-躩qi4,jue2
+躩qi4 jue2
 躪lin4
 躭dan1
 躰ti3
@@ -14722,32 +14722,32 @@
 躹ju2
 躻kong1
 躼lao4
-躽yan4,yan3
+躽yan4 yan3
 躿kang1
 軀qu1
-軁lv3,lou2
+軁lv3 lou2
 軂lao4
-軃tuo3,duo3
+軃tuo3 duo3
 軄zhi2
 軆ti3
 軇dao4
 軉yu4
-車ju1,che1
-軋zha2,ga2
+車ju1 che1
+軋zha2 ga2
 軌gui3
 軍jun1
 軏yue4
-軐xin4,xian4
+軐xin4 xian4
 軑dai4
-軒xuan1,xian4
+軒xuan1 xian4
 軓fan4
 軔ren4
 軕shan1
 軖kuang2
 軗shu1
 軘tun2
-軙qi2,chen2
-軚tai5,dai4
+軙qi2 chen2
+軚tai5 dai4
 軛e4
 軜na4
 軝qi2
@@ -14827,10 +14827,10 @@
 苠min2
 苕tiao2
 茜qian4
-荑yi2,ti2
-荛yao2,rao2
+荑yi2 ti2
+荛yao2 rao2
 荜bi4
-茈zi3,ci2
+茈zi3 ci2
 莒ju3
 茼tong2
 茴hui2
@@ -14850,12 +14850,12 @@
 茳jiang1
 荦luo4
 荥ying2
-軥qu2,gou1
+軥qu2 gou1
 軦kuang4
-軧di3,chi2
-軨ling3,ling2
+軧di3 chi2
+軨ling3 ling2
 軩dai4
-軪ao4,ao1
+軪ao4 ao1
 軫zhen3
 軬fan4
 軭kuang1
@@ -14866,13 +14866,13 @@
 軲gu1
 軳pao2
 軴zhu4
-軵rong3,fu4
+軵rong3 fu4
 軶e4
 軷ba2
-軸zhou4,zhou2
+軸zhou4 zhou2
 軹zhi3
-軺yao2,diao1
-軻ke3,ke1
+軺yao2 diao1
+軻ke3 ke1
 軼yi4
 軽qing1
 軾shi4
@@ -14883,25 +14883,25 @@
 較jiao4
 輄guang1
 輅lu4
-輆kai4,kai3
+輆kai4 kai3
 輇quan2
 輈zhou1
-載zai4,zai3
+載zai4 zai3
 輊zhi4
 輋she1
 輌liang4
 輍yu4
 輎shao1
 輏you2
-輐wan4,huan3
-輑yin3,qun1
+輐wan4 huan3
+輑yin3 qun1
 輒zhe2
 輓wan3
 輔fu3
 輕qing1
 輖zhou1
-輗yi4,ni2
-輘ling2,leng2
+輗yi4 ni2
+輘ling2 leng2
 輙zhe2
 輚zhan4
 輛liang4
@@ -14909,7 +14909,7 @@
 輝hui1
 輞wang3
 輟chuo4
-輠hua4,guo3
+輠hua4 guo3
 輡kan3
 輢yi3
 輣peng2
@@ -14926,27 +14926,27 @@
 輮rou2
 輯ji2
 輰yang2
-輱xian2,kan4
+輱xian2 kan4
 輲chuan2
 輳cou4
-輴shun3,chun1
-輵ya4,ge2
+輴shun3 chun1
+輵ya4 ge2
 輶you2
 輷hong1
 輸shu1
-輹fu4,bu2
+輹fu4 bu2
 輺zi1
 輻fu2
-輼yun1,wen1
+輼yun1 wen1
 輽ben4
-輾zhan3,nian3
+輾zhan3 nian3
 輿yu2
-轀yun1,wen1
-轁tao1,kan3
-轂gu3,gu1
+轀yun1 wen1
+轁tao1 kan3
+轂gu3 gu1
 轃zhen1
-轄xia2,he2
-荨xun2,qian2
+轄xia2 he2
+荨xun2 qian2
 茛gen4
 荩jin4
 荬mai3
@@ -14988,20 +14988,20 @@
 萑huan2
 萆bi4
 菔fu2
-菟tu4,tu2
+菟tu4 tu2
 萏dan4
 萃cui4
 菸yan1
-菹zu1,ju4
+菹zu1 ju4
 菪dang4
 菅jian1
-菀yu4,wan3
+菀yu4 wan3
 萦ying2
 菰gu1
 菡han4
 葜qia1
-葑feng4,feng1
-葚shen4,ren4
+葑feng4 feng1
+葚shen4 ren4
 葙xiang1
 葳wei1
 蒇chan3
@@ -15041,24 +15041,24 @@
 蔟cu4
 蔺lin4
 轅yuan2
-轆lu5,lu4
-轇xiao3,jiao1
+轆lu5 lu4
+轇xiao3 jiao1
 轈chao2
-轉zhuan4,zhuai3
+轉zhuan4 zhuai3
 轊wei4
-轋xuan1,hun2
+轋xuan1 hun2
 轍zhe2
 轎jiao4
 轏zhan4
 轐bu2
-轑lao3,lao2
+轑lao3 lao2
 轒fen2
 轓fan1
 轔lin2
 轕ge2
 轖se4
 轗kan3
-轘huan4,huan2
+轘huan4 huan2
 轙yi3
 轚ji2
 轛zhui4
@@ -15070,53 +15070,53 @@
 轡pei4
 轢li4
 轣li4
-轤lu5,lu2
+轤lu5 lu2
 轥lin4
 轪dai4
 辀zhou1
 辌liang2
-辒yun1,wen1
+辒yun1 wen1
 辝ci2
 辠zui4
 辡bian4
 辢la4
 辤ci2
-辥yi4,xue1
+辥yi4 xue1
 辦ban4
 辧bian4
 辪xue1
 辬ban1
 辭ci2
 辮bian4
-辯pian2,bian4
+辯pian2 bian4
 農nong2
 辳nong2
 辴zhen3
-辵zou3,chuo4
+辵zou3 chuo4
 辸reng2
 辻shi2
 込yu1
-辿chan2,chan1
+辿chan2 chan1
 迀gan1
 迃yu1
-迆yi3,tuo2
+迆yi3 tuo2
 迉qi1
 迊za1
-迋wang4,guang4
+迋wang4 guang4
 迌tu4
 迍zhun1
-迏ti4,da2
-迒xiang2,hang2
-迖ti4,da2
+迏ti4 da2
+迒xiang2 hang2
+迖ti4 da2
 迗e2
 迚da2
 迠che4
-迡ni4,chi2
-迣zhi4,chi4
-迧zhen4,chen2
-迬zhu4,wang3
+迡ni4 chi2
+迣zhi4 chi4
+迧zhen4 chen2
+迬zhu4 wang3
 迯tao2
-迱yi2,tuo2
+迱yi2 tuo2
 迴hui2
 迵dong4
 迶you4
@@ -15127,11 +15127,11 @@
 迿xun4
 逇dun4
 逈jiong3
-逌you2,you1
-逎qiu2,qiu1
+逌you2 you1
+逎qiu2 qiu1
 逓di4
 逕jing4
-逘yi3,si4
+逘yi3 si4
 蕖qu2
 蔻kou4
 蓿xu5
@@ -15173,7 +15173,7 @@
 耷da1
 奕yi4
 奚xi1
-奘zhuang3,zang4
+奘zhuang3 zang4
 匏pao2
 尢you2
 尥liao4
@@ -15200,11 +15200,11 @@
 掴guo2
 捭bai3
 掬ju1
-掊pou3,pou2
+掊pou3 pou2
 捩lie4
 掮qian2
 掼guan4
-揲she2,die2
+揲she2 die2
 揸zha1
 揠ya4
 揿qin4
@@ -15226,25 +15226,25 @@
 撄ying1
 摭zhi2
 撖han4
-這zhei4,zhe4
-逜wu4,wu3
+這zhei4 zhe4
+逜wu4 wu3
 連lian2
 逥hui2
-逨lai4,lai2
-逩ben4,ben1
+逨lai4 lai2
+逩ben4 ben1
 逪cuo4
-逫zhu2,jue2
-逬peng1,beng4
+逫zhu2 jue2
+逬peng1 beng4
 逰you2
 週zhou1
 進jin4
 逳yu4
 逴chuo1
 逷ti4
-逹ta4,da2
+逹ta4 da2
 逺yuan3
 逽nuo4
-逿tang2,dang4
+逿tang2 dang4
 遀sui2
 遃yan3
 遅chi2
@@ -15254,16 +15254,16 @@
 遊you2
 運yun4
 遌e4
-過guo5,guo1
-達ta4,da2
+過guo5 guo1
+達ta4 da2
 違wei2
 遙yao2
 遚chou4
 遜xun4
 遝ta4
-遞shi4,di4
+遞shi4 di4
 遟chi2
-遠yuan4,yuan3
+遠yuan4 yuan3
 遡su4
 遤ma3
 遦guan4
@@ -15272,26 +15272,26 @@
 遫chi4
 遬su4
 遯dun4
-遰shi4,di4
+遰shi4 di4
 遱lou2
-遲zhi4,chi2
+遲zhi4 chi2
 遳cuo1
 遶rao4
 遷qian1
-選xuan4,suan4
+選xuan4 suan4
 遹yu4
-遺yi2,wei4
+遺yi2 wei4
 遻e4
 遼liao2
 遾shi4
 邁mai4
-還xuan2,hai2
-邅zhan4,zhan1
+還xuan2 hai2
+邅zhan4 zhan1
 邆teng2
 邇er3
 邉bian1
-邊bian5,bian1
-邌li2,chi2
+邊bian5 bian1
+邌li2 chi2
 邍yuan2
 邎you2
 邏luo2
@@ -15300,10 +15300,10 @@
 邔qi3
 邖shan1
 邘yu2
-邚ru2,fu2
+邚ru2 fu2
 邜xi1
 邞fu1
-邟kang4,hang2
+邟kang4 hang2
 邠bin1
 邤xin1
 邥shen3
@@ -15312,7 +15312,7 @@
 邩huo3
 邫bang1
 邭ju4
-邲bian4,bi4
+邲bian4 bi4
 邷wa3
 邼kuang1
 邽gui1
@@ -15328,7 +15328,7 @@
 擗pi3
 擤xing3
 擢zhuo2
-攉huo4,huo1
+攉huo4 huo1
 攥zuan4
 攮nang3
 弋yi4
@@ -15339,7 +15339,7 @@
 叱chi4
 叽ji1
 叩kou4
-叨dao1,dao5
+叨dao1 dao5
 叻le4
 吒zha1
 吖a1
@@ -15358,7 +15358,7 @@
 咂za1
 咔ka1
 呷ga1
-呱gu1,gua1
+呱gu1 gua1
 呤ling4
 咚dong1
 咛ning2
@@ -15377,17 +15377,17 @@
 哔bi4
 呲ci1
 咣guang1
-哕yue5,hui4
+哕yue5 hui4
 咻xiu1
 咿yi1
 哌pai4
 哙kuai4
 哚duo3
-哜jie1,ji4
+哜jie1 ji4
 咩mie1
 咪mi1
 咤zha4
-哝nong2,nong5
+哝nong2 nong5
 哏gen2
 哞mou1
 唛mai4
@@ -15407,13 +15407,13 @@
 喵miao1
 啉lin2
 啭zhuan4
-啁zhou1,zhao1
+啁zhou1 zhao1
 啕tao2
 唿hu1
 啐cui4
 唼sha4
-郂hai2,gai1
-郃xia2,he2
+郂hai2 gai1
+郃xia2 he2
 郆ji2
 郈hou4
 郋xi2
@@ -15425,24 +15425,24 @@
 郖dou4
 郘lv3
 郙fu3
-郚yu2,wu2
+郚yu2 wu2
 郞lang2
 郟jia2
 郠geng3
 郣bo2
 郤xi4
-郥qu4,ju2
+郥qu4 ju2
 郩xiao2
 郪qi1
 郬qing1
 郮zhou1
-郰zou1,ju3
+郰zou1 ju3
 郱ping2
 郲lai2
 郳ni2
 郵you2
-郶pou3,bu4
-郷xiang4,xiang1
+郶pou3 bu4
+郷xiang4 xiang1
 郹ju2
 郺yong1
 郻qiao1
@@ -15453,18 +15453,18 @@
 鄃shu1
 鄅yu3
 鄆yun4
-鄇hou4,hou2
+鄇hou4 hou2
 鄈kui2
-鄉xiang4,xiang1
-鄊xiang4,xiang1
+鄉xiang4 xiang1
+鄊xiang4 xiang1
 鄋sou1
 鄌tang2
 鄍ming2
 鄎xi1
 鄏ru3
 鄐chu4
-鄑zi1,jin4
-鄒zou1,ju4
+鄑zi1 jin4
+鄒zou1 ju4
 鄓ye4
 鄔wu1
 鄕xiang1
@@ -15473,12 +15473,12 @@
 鄘yong1
 鄚mao4
 鄛chao2
-鄜lu4,fu1
+鄜lu4 fu1
 鄝liao3
 鄟zhuan1
 鄠hu4
-鄡qiao2,qiao1
-鄤wan4,man4
+鄡qiao2 qiao1
+鄤wan4 man4
 鄥qiao1
 鄦xu3
 鄧deng4
@@ -15490,7 +15490,7 @@
 鄭zheng4
 鄮mao4
 鄰lin2
-鄲duo1,dan1
+鄲duo1 dan1
 鄳meng2
 鄴ye4
 鄶kuai4
@@ -15498,14 +15498,14 @@
 鄸meng2
 鄺kuang4
 鄻lian3
-鄼zan4,cuo2
+鄼zan4 cuo2
 鄽chan2
 鄾you1
 鄿qi2
 酀yan4
 酁chan2
-酂zan4,cuo2
-酄quan1,huan1
+酂zan4 cuo2
+酄quan1 huan1
 唷yo1
 啖dan4
 啵bo5
@@ -15546,7 +15546,7 @@
 嗥hao2
 嗲dia3
 嗳ai4
-嗌yi4,ai4
+嗌yi4 ai4
 嗍suo1
 嗨hei1
 嗵tong1
@@ -15597,91 +15597,91 @@
 帙zhi4
 帔pei4
 帑tang3
-帱dao4,chou2
+帱dao4 chou2
 帻ze2
 帼guo2
 酅xi1
-酇zan4,cuo2
+酇zan4 cuo2
 酈li4
 酑yu2
-酓yin3,yan3
+酓yin3 yan3
 酔zui4
 酕mao2
-酖zhen4,dan1
+酖zhen4 dan1
 酘dou4
 酙zhen1
 酜fu3
 酟tian1
 酠qia3
-酦po1,fa1
+酦po1 fa1
 酧chou2
-酨zui4,zai4
+酨zui4 zai4
 酫chuo4
 酭you4
 酳yin4
 酺pu2
-酻zui4,fu2
+酻zui4 fu2
 酼hai3
-醀zhui4,wei2
+醀zhui4 wei2
 醁lu4
 醂lan3
-醃yan1,ang1
+醃yan1 ang1
 醄tao2
 醆zhan3
-醈tan2,dan4
+醈tan2 dan4
 醊zhui4
-醎xian2,jian3
+醎xian2 jian3
 醏du1
 醓tan3
-醔qiu2,chou1
+醔qiu2 chou1
 醕chun2
 醖yun4
 醘ke1
 醙sou1
 醜chou3
-醝cuo3,cuo1
+醝cuo3 cuo1
 醞yun4
 醟yong4
 醠ang4
 醡zha4
 醤jiang4
 醥piao3
-醦chen3,chan3
-醧yu4,ou1
+醦chen3 chan3
+醧yu4 ou1
 醨li2
 醩zao1
-醫yi3,yi1
+醫yi3 yi1
 醬jiang4
 醰tan2
-醱po1,fa1
+醱po1 fa1
 醲nong2
-醳yi4,shi4
-醶yan4,lian3
-醷yi4,ai4
-醸niang4,niang2
+醳yi4 shi4
+醶yan4 lian3
+醷yi4 ai4
+醸niang4 niang2
 醹ru2
-醻shou4,chou2
+醻shou4 chou2
 醼yan4
 醽ling2
 醾mi2
 醿mi2
-釀niang4,niang2
+釀niang4 niang2
 釁xin4
 釂jiao4
-釃shi1,shai1
+釃shi1 shai1
 釄mi2
 釅yan4
-釆bian4,bian3
+釆bian4 bian3
 釋shi4
-釐xi1,li2
+釐xi1 li2
 釒jin1
-釓qiu2,ga2
+釓qiu2 ga2
 釔yi3
-釕liao4,liao3
+釕liao4 liao3
 釖dao1
 釗zhao1
-釘ding5,ding1
-釙po4,po1
+釘ding5 ding1
+釙po4 po1
 釚qiu2
 釛ba1
 針zhen1
@@ -15691,7 +15691,7 @@
 釡fu3
 釢nai3
 釣diao4
-釤shan4,shan1
+釤shan4 shan1
 釥qiao3
 帷wei2
 幄wo4
@@ -15753,7 +15753,7 @@
 嶷yi2
 巅dian1
 彳chi4
-彷pang2,fang3
+彷pang2 fang3
 徂cu2
 徇xun4
 徉yang2
@@ -15764,7 +15764,7 @@
 徨huang2
 徭yao2
 徵zhi3
-徼jiao4,jiao3
+徼jiao4 jiao3
 衢qu2
 彡san1
 犭fan3
@@ -15788,40 +15788,40 @@
 猃xian3
 狺yin2
 釦kou4
-釧chuan4,chuan1
+釧chuan4 chuan1
 釨zi3
-釩fan3,fan2
+釩fan3 fan2
 釪yu2
-釫wu1,hua2
-釬han4,gan1
+釫wu1 hua2
+釬han4 gan1
 釭gang1
 釮qi2
 釯mang2
-釰ri4,jian4
+釰ri4 jian4
 釱di4
 釲si4
 釳xi4
 釴yi4
-釵chai1,cha1
-釶yi2,shi1
+釵chai1 cha1
+釶yi2 shi1
 釷tu3
 釸xi1
 釹nv3
 釺qian1
 釼jian4
 釽pi1
-釾ye2,ya2
-釿yin3,jin1
-鈀pa2,ba1
+釾ye2 ya2
+釿yin3 jin1
+鈀pa2 ba1
 鈁fang1
-鈂qin2,chen2
-鈃xing2,jian1
-鈅yue4,yao4
-鈆zhong1,qian1
-鈇fu3,fu1
-鈈pi1,bu4
-鈉rui4,na4
-鈊xin1,qin4
+鈂qin2 chen2
+鈃xing2 jian1
+鈅yue4 yao4
+鈆zhong1 qian1
+鈇fu3 fu1
+鈈pi1 bu4
+鈉rui4 na4
+鈊xin1 qin4
 鈋e2
 鈌jue2
 鈍dun4
@@ -15829,9 +15829,9 @@
 鈏yin3
 鈐qian2
 鈑ban3
-鈒xi4,sa4
+鈒xi4 sa4
 鈓ren2
-鈔miao3,chao1
+鈔miao3 chao1
 鈕niu3
 鈖fen1
 鈗yun3
@@ -15855,31 +15855,31 @@
 鈪e4
 鈫qin2
 鈭zi1
-鈮ni3,ni2
+鈮ni3 ni2
 鈯tu2
 鈰shi4
-鈱min3,min2
-鈲pi4,gu1
+鈱min3 min2
+鈲pi4 gu1
 鈳ke1
 鈴ling2
 鈵bing3
-鈶si4,ci2
-鈷gu4,gu3
+鈶si4 ci2
+鈷gu4 gu3
 鈸bo2
-鈹pi2,pi1
+鈹pi2 pi1
 鈺yu4
 鈻si4
 鈼zuo2
 鈽bu1
 鈾you2
-鈿tian2,dian4
+鈿tian2 dian4
 鉀jia3
-鉁zhen4,zhen1
+鉁zhen4 zhen1
 鉂shi3
 鉃shi4
 鉄tie3
 鉅ju4
-狻suan1,jun4
+狻suan1 jun4
 猗yi1
 猓guo3
 猡luo2
@@ -15904,7 +15904,7 @@
 夥huo3
 飧sun1
 夤yin2
-夂zhi3,dong1
+夂zhi3 dong1
 饣shi2
 饧tang2
 饨tun2
@@ -15914,10 +15914,10 @@
 饬chi4
 饴yi2
 饷xiang3
-饽bo1,bo5
+饽bo1 bo5
 馀yu2
 馄hun2
-馇zha5,cha1
+馇zha5 cha1
 馊sou1
 馍mo2
 馐xiu1
@@ -15973,16 +15973,16 @@
 恻ce4
 恺kai3
 恂xun2
-鉆zuan1,chan1
-鉇yi2,shi1
-鉈tuo2,ta1
+鉆zuan1 chan1
+鉇yi2 shi1
+鉈tuo2 ta1
 鉉xuan4
 鉊zhao1
-鉋pao2,bao2
+鉋pao2 bao2
 鉌he2
-鉍se4,bi4
+鉍se4 bi4
 鉎sheng1
-鉏zu1,chu2
+鉏zu1 chu2
 鉐shi2
 鉑bo2
 鉒zhu4
@@ -15994,7 +15994,7 @@
 鉘fu2
 鉙zhai3
 鉚mao3
-鉛yan2,qian1
+鉛yan2 qian1
 鉜fu2
 鉝li4
 鉞yue4
@@ -16003,11 +16003,11 @@
 鉡ban4
 鉢bo1
 鉣jie2
-鉤gou4,gou1
-鉥xu4,shu4
+鉤gou4 gou1
+鉥xu4 shu4
 鉦zheng1
 鉧mu3
-鉨xi3,ni3
+鉨xi3 ni3
 鉩xi3
 鉪di4
 鉫jia1
@@ -16019,43 +16019,43 @@
 鉱kuang4
 鉲ka3
 鉳bei3
-鉵zhuo2,tong2
+鉵zhuo2 tong2
 鉶xing2
 鉷hong2
 鉸jiao3
 鉹chi3
-鉺er4,er3
-鉻luo4,ge4
-鉼ping2,bing3
+鉺er4 er3
+鉻luo4 ge4
+鉼ping2 bing3
 鉽shi2
-鉾mou2,mao2
-鉿jia1,ha1
+鉾mou2 mao2
+鉿jia1 ha1
 銀yin2
 銁jun1
 銂zhou1
 銃chong4
-銄xiang3,jiong1
+銄xiang3 jiong1
 銅tong2
 銆mo4
 銇lei4
 銈ji1
-銉yu4,si4
-銊xu4,hui4
-銋ren3,ren2
+銉yu4 si4
+銊xu4 hui4
+銋ren3 ren2
 銍zhi4
 銏shan1
-銐li4,chi4
-銑xian3,xi3
+銐li4 chi4
+銑xian3 xi3
 銒jian1
 銓quan2
 銔pi1
-銕yi2,tie3
+銕yi2 tie3
 銖zhu1
-銗xiang4,hou2
+銗xiang4 hou2
 銘ming2
 銙kua3
-銚yao2,diao4
-銛xian1,gua1
+銚yao2 diao4
+銛xian1 gua1
 銜xian2
 銝xiu1
 銞jun1
@@ -16094,7 +16094,7 @@
 愀qiao3
 愎bi4
 愫su4
-慊qie4,qian4
+慊qie4 qian4
 慵yong1
 憬jing3
 憔qiao2
@@ -16120,7 +16120,7 @@
 阋xi4
 阌wen2
 阍hun1
-阏yan1,e4
+阏yan1 e4
 阒qu4
 阕que4
 阖he2
@@ -16172,46 +16172,46 @@
 銱diao4
 銲han4
 銳rui4
-銴zhi4,shi4
+銴zhi4 shi4
 銵keng1
 銶qiu2
 銷xiao1
-銸zhe2,nie4
-銹you4,xiu4
+銸zhe2 nie4
+銹you4 xiu4
 銺zang4
 銻ti1
 銼cuo4
 銽gua1
-銾hong4,gong3
-銿zhong1,yong1
-鋀tou4,dou4
+銾hong4 gong3
+銿zhong1 yong1
+鋀tou4 dou4
 鋁lv3
 鋂mei2
 鋃lang2
-鋄wan4,jian3
+鋄wan4 jian3
 鋅xin1
 鋆yun2
 鋇bei4
 鋉su4
 鋊yu4
 鋋chan2
-鋌ting3,ding4
+鋌ting3 ding4
 鋍bo2
 鋎han4
 鋏jia2
 鋐hong2
-鋑juan1,cuan1
+鋑juan1 cuan1
 鋒feng1
 鋓chan1
 鋔wan3
 鋕zhi4
 鋖si1
-鋗xuan1,juan1
-鋘wu2,hua2
-鋙yu3,wu2
+鋗xuan1 juan1
+鋘wu2 hua2
+鋙yu3 wu2
 鋚tiao2
 鋛kuang4
-鋜zhuo2,chuo4
+鋜zhuo2 chuo4
 鋝lve4
 鋞xing2
 鋟qin3
@@ -16219,13 +16219,13 @@
 鋡han2
 鋢lve4
 鋣ye2
-鋤ju3,chu2
-鋥zeng4,zeng1
-鋦ju2,ju1
+鋤ju3 chu2
+鋥zeng4 zeng1
+鋦ju2 ju1
 鋧xian4
-鋨tie3,e2
+鋨tie3 e2
 鋩mang2
-鋪pu4,pu1
+鋪pu4 pu1
 鋫li2
 鋬pan4
 鋭rui4
@@ -16237,16 +16237,16 @@
 鋴zhen4
 鋵tu1
 鋶liu3
-鋷zui4,nie4
+鋷zui4 nie4
 鋸ju4
 鋹chang3
-鋺yuan3,wan3
-鋻jian4,jian1
-鋼gang4,gang1
+鋺yuan3 wan3
+鋻jian4 jian1
+鋼gang4 gang1
 鋽diao4
 鋾tao2
 鋿chang2
-錀lun2,fen1
+錀lun2 fen1
 錁ke4
 錂ling2
 錃pi1
@@ -16292,7 +16292,7 @@
 渎du2
 涿zhuo1
 淠pei4
-渑sheng2,mian3
+渑sheng2 mian3
 淦gan4
 淝fei2
 淙cong2
@@ -16350,32 +16350,32 @@
 潼tong2
 潺chan2
 濑lai4
-錊zui4,zu1
-錋peng2,beng4
+錊zui4 zu1
+錋peng2 beng4
 錌an4
 錍pi1
-錎xian4,qian4
-錏ya4,ya1
+錎xian4 qian4
+錏ya4 ya1
 錐zhui1
-錑li4,lei4
-錒ke1,a1
+錑li4 lei4
+錒ke1 a1
 錓kong1
 錔ta4
-錕kun1,gun3
+錕kun1 gun3
 錖du2
-錗wei4,nei4
+錗wei4 nei4
 錘chui2
 錙zi1
 錚zheng1
 錛ben1
 錜nie4
 錝zong4
-錞dui4,chun2
-錟xian1,tan2
+錞dui4 chun2
+錟xian1 tan2
 錠ding4
-錡yi3,qi2
-錢qian5,qian2
-錣zhui4,chuo4
+錡yi3 qi2
+錢qian5 qian2
+錣zhui4 chuo4
 錤ji1
 錥yu4
 錦jin3
@@ -16384,10 +16384,10 @@
 錩chang1
 錪tian3
 錫xi1
-錬lian4,jian1
-錭tao2,diao1
+錬lian4 jian1
+錭tao2 diao1
 錮gu4
-錯cuo4,cu4
+錯cuo4 cu4
 錰shu4
 錱zhen1
 録lu4
@@ -16399,7 +16399,7 @@
 錸lai2
 錹ken3
 錼nai4
-錽wan4,jian3
+錽wan4 jian3
 錿hu3
 鍀de2
 鍁xian1
@@ -16409,21 +16409,21 @@
 鍅fa3
 鍆men2
 鍇kai3
-鍈ying1,yang1
-鍉di1,chi2
-鍊lian4,jian4
-鍋guo3,guo1
+鍈ying1 yang1
+鍉di1 chi2
+鍊lian4 jian4
+鍋guo3 guo1
 鍌xian3
 鍍du4
 鍎tu2
 鍏wei2
-鍐zong1,wan3
+鍐zong1 wan3
 鍑fu4
 鍒rou2
 鍓ji2
 鍔e4
 鍕jun1
-鍖zhen1,chen3
+鍖zhen1 chen3
 鍗ti2
 鍘zha2
 鍙hu4
@@ -16467,7 +16467,7 @@
 宓mi4
 宥you4
 宸chen2
-甯ning4,ning2
+甯ning4 ning2
 骞qian1
 搴qian1
 寤wu4
@@ -16531,7 +16531,7 @@
 艴fu2
 弼bi4
 鬻yu4
-屮che4,cao3
+屮che4 cao3
 妁shuo4
 妃fei1
 妍yan2
@@ -16543,7 +16543,7 @@
 鍮tou1
 鍯zong3
 鍰huan2
-鍱ye4,xie2
+鍱ye4 xie2
 鍲min2
 鍳jian4
 鍴duan1
@@ -16552,9 +16552,9 @@
 鍷kui2
 鍸hu2
 鍹xuan1
-鍺zhe3,du3
+鍺zhe3 du3
 鍻jie2
-鍼zhen1,qian2
+鍼zhen1 qian2
 鍽bian1
 鍾zhong1
 鍿zi1
@@ -16566,45 +16566,45 @@
 鎅gai3
 鎆jian3
 鎇mei2
-鎈suo3,cha1
-鎉ta4,da2
-鎊pang1,bang4
+鎈suo3 cha1
+鎉ta4 da2
+鎊pang1 bang4
 鎋xia2
 鎌lian2
-鎍suo3,se4
+鎍suo3 se4
 鎎kai4
-鎐zu2,yao2
-鎑ye4,ta4
+鎐zu2 yao2
+鎑ye4 ta4
 鎒nou4
 鎓weng1
 鎔rong2
 鎕tang2
 鎖suo3
-鎗qiang1,cheng1
-鎘li4,ge2
+鎗qiang1 cheng1
+鎘li4 ge2
 鎙shuo4
-鎚dui1,chui2
+鎚dui1 chui2
 鎛bo2
 鎜pan2
-鎝sa4,da1
-鎞pi1,bi1
+鎝sa4 da1
+鎞pi1 bi1
 鎟sang3
-鎠gang4,gang1
+鎠gang4 gang1
 鎡zi1
 鎢wu1
 鎣ying2
 鎤huang4
 鎥tiao2
-鎦liu4,liu2
+鎦liu4 liu2
 鎧kai3
 鎨sun3
 鎩sha1
 鎪sou1
-鎫wan4,jian3
-鎬hao4,gao3
-鎭zhen4,zhen1
-鎮zhen4,zhen1
-鎯luo3,lang2
+鎫wan4 jian3
+鎬hao4 gao3
+鎭zhen4 zhen1
+鎮zhen4 zhen1
+鎯luo3 lang2
 鎰yi4
 鎱yuan2
 鎲tang3
@@ -16624,13 +16624,13 @@
 鏀lu3
 鏁suo3
 鏂ou1
-鏃zu2,chuo4
+鏃zu2 chuo4
 鏄tuan2
-鏅xiu4,xiu1
+鏅xiu4 xiu1
 鏆guan4
 鏇xuan4
-鏈lian4,lian2
-鏉shou4,sou1
+鏈lian4 lian2
+鏉shou4 sou1
 鏋man3
 鏌mo4
 鏍luo2
@@ -16687,7 +16687,7 @@
 嬗shan4
 嬖bi4
 嬲niao3
-嬷mo2,mo5
+嬷mo2 mo5
 孀shuang1
 尕ga3
 尜ga2
@@ -16697,13 +16697,13 @@
 孑jie2
 孓jue2
 孢bao1
-驵zu4,zang3
+驵zu4 zang3
 驷si4
 驸fu4
 驺zou1
 驿yi4
 驽nu2
-骀tai2,dai4
+骀tai2 dai4
 骁xiao1
 骅hua2
 骈pian2
@@ -16725,13 +16725,13 @@
 纟jiao3
 纡yu1
 纣zhou4
-纥he2,ge1
+纥he2 ge1
 纨wan2
 纩kuang4
 鏎bi4
 鏏wei4
 鏐liu2
-鏑di2,di1
+鏑di2 di1
 鏒san3
 鏓zong3
 鏔yi2
@@ -16741,7 +16741,7 @@
 鏙cui1
 鏚qi1
 鏛chang2
-鏜tang2,tang1
+鏜tang2 tang1
 鏝man4
 鏞yong1
 鏟chan3
@@ -16754,7 +16754,7 @@
 鏦cong1
 鏧long2
 鏨zan4
-鏩zan4,jian4
+鏩zan4 jian4
 鏪cao2
 鏫li2
 鏬xia4
@@ -16769,18 +16769,18 @@
 鏵hua2
 鏶ji2
 鏷pu2
-鏸sui4,hui4
-鏹qiang3,qiang1
+鏸sui4 hui4
+鏹qiang3 qiang1
 鏺po1
 鏻lin2
 鏼se4
 鏽xiu4
-鏾xian4,sa4
+鏾xian4 sa4
 鏿cheng1
 鐀kui4
 鐁si1
-鐂liu4,liu2
-鐃nao4,nao2
+鐂liu4 liu2
+鐃nao4 nao2
 鐄huang2
 鐅pie3
 鐆sui4
@@ -16788,34 +16788,34 @@
 鐈qiao2
 鐉quan1
 鐊yang2
-鐋tang4,tang1
+鐋tang4 tang1
 鐌xiang4
-鐍yu4,jue2
+鐍yu4 jue2
 鐎jiao1
 鐏zun1
 鐐liao4
 鐑qie4
 鐒lao2
-鐓dun1,dui4
-鐔xin2,tan2
+鐓dun1 dui4
+鐔xin2 tan2
 鐕zan1
-鐖qi2,ji1
-鐗jian3,jian1
-鐘zhong5,zhong1
-鐙deng4,deng1
+鐖qi2 ji1
+鐗jian3 jian1
+鐘zhong5 zhong1
+鐙deng4 deng1
 鐚ya1
 鐛ying3
-鐜dun1,dui1
+鐜dun1 dui1
 鐝jue2
 鐞nou4
-鐟zan1,ti4
+鐟zan1 ti4
 鐠pu3
-鐡tie3,die2
+鐡tie3 die2
 鐣cheng1
 鐤ding3
 鐥shan4
 鐦kai1
-鐧jian4,jian1
+鐧jian4 jian1
 鐨fei4
 鐩sui4
 鐪lu3
@@ -16856,10 +16856,10 @@
 缈miao3
 缋hui4
 缌si1
-缏pian2,bian4
+缏pian2 bian4
 缑gou1
 缒zhui4
-缗min2,mian2
+缗min2 mian2
 缙jin4
 缜zhen3
 缛ru4
@@ -16875,10 +16875,10 @@
 缫sao1
 缬xie2
 缭liao2
-缯zeng4,zeng1
+缯zeng4 zeng1
 缰jiang1
 缱qian3
-缲zao3,qiao1
+缲zao3 qiao1
 缳huan2
 缵zuan3
 幺yao1
@@ -16889,7 +16889,7 @@
 玎ding1
 玑ji1
 玮wei3
-玢fen1,bin1
+玢fen1 bin1
 玟min2
 珏jue2
 珂ke1
@@ -16918,19 +16918,19 @@
 琮cong2
 琬wan3
 鐯zhuo1
-鐰sao4,qiao1
-鐱qian1,jian4
+鐰sao4 qiao1
+鐱qian1 jian4
 鐲zhuo2
 鐳lei2
-鐴bi4,bei4
-鐵tie5,tie3
-鐶xuan4,huan2
-鐷ye4,xie2
+鐴bi4 bei4
+鐵tie5 tie3
+鐶xuan4 huan2
+鐷ye4 xie2
 鐸duo2
-鐹guo3,guo1
-鐺tang1,cheng1
-鐻qu2,ju4
-鐼fen2,ben1
+鐹guo3 guo1
+鐺tang1 cheng1
+鐻qu2 ju4
+鐼fen2 ben1
 鐽da2
 鐿yi4
 鑀ai4
@@ -16941,7 +16941,7 @@
 鑅heng2
 鑆zhui4
 鑇ji1
-鑈nie4,ni3
+鑈nie4 ni3
 鑉he2
 鑊huo4
 鑋qing1
@@ -16949,17 +16949,17 @@
 鑍ying1
 鑎kui4
 鑏ning2
-鑐xu1,ru2
+鑐xu1 ru2
 鑑jian4
 鑒jian4
 鑓qian3
 鑔cha3
 鑕zhi4
-鑖mie4,mi4
+鑖mie4 mi4
 鑗li2
-鑘lei3,lei2
+鑘lei3 lei2
 鑙ji1
-鑚zuan4,zuan1
+鑚zuan4 zuan1
 鑛kuang4
 鑜shang3
 鑝peng2
@@ -16979,39 +16979,39 @@
 鑬jian4
 鑭lan2
 鑮bo2
-鑯qian1,jian1
-鑰yue4,yao4
+鑯qian1 jian1
+鑰yue4 yao4
 鑱chan2
-鑲xiang1,rang2
+鑲xiang1 rang2
 鑳jian4
 鑴xi1
 鑵guan4
 鑶cang2
 鑷nie4
 鑸lei3
-鑹cuan4,cuan1
+鑹cuan4 cuan1
 鑺qu2
 鑻pan4
 鑼luo2
-鑽zuan4,zuan1
+鑽zuan4 zuan1
 鑾luan2
-鑿zuo4,zao2
+鑿zuo4 zao2
 钀nie4
 钁jue2
 钂tang3
 钃zhu2
 钄lan2
-钑xi4,sa4
+钑xi4 sa4
 钖yang2
-钘xing2,jian1
-铇pao2,bao2
+钘xing2 jian1
+铇pao2 bao2
 铏xing2
 铓mang2
-铔ya4,ya1
+铔ya4 ya1
 铚zhi4
-铦xian1,gua1
-铻yu3,wu2
-锜yi3,qi2
+铦xian1 gua1
+铻yu3 wu2
+锜yi3 qi2
 锠chang1
 琛chen1
 琚ju1
@@ -17071,7 +17071,7 @@
 柝tuo4
 栀zhi1
 柃ling2
-枸ju3,gou1
+枸ju3 gou1
 柢di3
 栎li4
 柁tuo2
@@ -17084,8 +17084,8 @@
 桢zhen1
 桄guang4
 桤qi1
-梃ting4,ting3
-栝kuo4,gua1
+梃ting4 ting3
+栝kuo4 gua1
 桕jiu4
 桦hua4
 桁heng2
@@ -17108,7 +17108,7 @@
 椠qian4
 棹zhao4
 锧zhi4
-锳ying1,yang1
+锳ying1 yang1
 锽huang2
 镃zi1
 镈bo2
@@ -17116,40 +17116,40 @@
 镕rong2
 镚beng4
 镠liu2
-镮xuan4,huan2
+镮xuan4 huan2
 镴la4
 镵chan2
-長zhang3,chang2
-镸zhang3,chang2
+長zhang3 chang2
+镸zhang3 chang2
 镹jiu3
 镺ao3
 镻die2
 镼jue2
-镽liao3,liao2
+镽liao3 liao2
 镾mi2
 門men2
 閁ma4
 閂shuan1
-閃shan5,shan3
-閄shan3,huo4
+閃shan5 shan3
+閄shan3 huo4
 閅men2
 閆yan2
 閇bi4
-閈han4,bi4
+閈han4 bi4
 閉bi4
 開kai1
-閌kang4,kang1
+閌kang4 kang1
 閍beng1
 閎hong2
 閏run4
 閐san4
 閑xian2
-閒xian2,jian1
-間jian4,jian1
+閒xian2 jian1
+間jian4 jian1
 閔min3
 閖shui3
 閗dou4
-閘zha2,ya1
+閘zha2 ya1
 閙nao4
 閚zhan1
 閛peng1
@@ -17157,19 +17157,19 @@
 閞bian4
 閟bi4
 閠run4
-閡he2,ai4
-関wan1,guan1
+閡he2 ai4
+関wan1 guan1
 閣ge2
-閤he2,ge1
+閤he2 ge1
 閥fa2
 閦chu4
-閧xiang4,hong4
+閧xiang4 hong4
 閨gui1
 閩min3
 閫kun3
-閬lang4,lang2
+閬lang4 lang2
 閭lv2
-閮ting3,ting2
+閮ting3 ting2
 閯sha4
 閰ju2
 閱yue4
@@ -17177,24 +17177,24 @@
 閳chan3
 閴qu4
 閵lin4
-閶tang1,chang1
+閶tang1 chang1
 閷sha1
 閸kun3
 閹yan1
 閺wen2
-閻yan3,yan2
-閼yu4,e4
+閻yan3 yan2
+閼yu4 e4
 閽hun1
 閾yu4
 閿wen2
-闀xiang4,hong4
+闀xiang4 hong4
 闁bao1
-闂xiang4,hong4
+闂xiang4 hong4
 闃qu4
 闄yao3
 闅wen2
 闆ban3
-闇an4,an1
+闇an4 an1
 闈wei2
 闉yin1
 闊kuo4
@@ -17207,7 +17207,7 @@
 棣di4
 椐ju1
 楱cou4
-椹zhen1,shen4
+椹zhen1 shen4
 楠nan2
 楂zha1
 楝lian4
@@ -17260,7 +17260,7 @@
 檑lei2
 檐yan2
 檩lin3
-檗nie4,bo4
+檗nie4 bo4
 檫cha2
 猷you2
 獒ao2
@@ -17279,7 +17279,7 @@
 轭e4
 轱gu1
 轲ke1
-轳lu5,lu2
+轳lu5 lu2
 轵zhi3
 轶yi4
 轸zhen3
@@ -17294,54 +17294,54 @@
 辇nian3
 辋wang3
 闌lan2
-闍she2,du1
+闍she2 du1
 闎quan2
 闐tian2
 闑mie4
 闒ta4
 闓kai3
 闔he2
-闕que4,que1
-闖chuang3,chen4
-闗wan1,guan1
+闕que4 que1
+闖chuang3 chen4
+闗wan1 guan1
 闘dou4
 闙qi3
 闚kui1
-闛tang2,chang1
-關wan1,guan1
+闛tang2 chang1
+關wan1 guan1
 闝piao2
-闞kan4,han3
-闟xi4,se4
+闞kan4 han3
+闟xi4 se4
 闠hui4
 闡chan3
-闢pi4,pi1
-闣tang1,dang4
+闢pi4 pi1
+闣tang1 dang4
 闤huan2
 闥ta4
 闦wen2
 闧ta1
-闬han4,bi4
+闬han4 bi4
 闿kai3
-阇she2,du1
+阇she2 du1
 阓hui4
 阘ta4
 阛huan2
 阞le4
 阠xin4
 阣yi4
-阤zhi4,tuo2
+阤zhi4 tuo2
 阥yin1
 阦yang2
 阧dou3
-阨e4,ai4
+阨e4 ai4
 阩sheng1
 阫pei2
-阬keng1,gang1
+阬keng1 gang1
 阭yun3
 阯zhi3
 阰pi2
 阷cheng1
-阸e4,ai4
+阸e4 ai4
 阹qu1
 阺di3
 阾ling2
@@ -17349,47 +17349,47 @@
 陃bing3
 陊duo4
 陎shu1
-陏sui2,duo4
+陏sui2 duo4
 陑er2
 陒gui3
 陓yu1
 陖jun4
 陗qiao4
-陘xing2,jing4
+陘xing2 jing4
 陙chun2
-陚wu3,fu4
+陚wu3 fu4
 陜xia2
 陝shan3
 陞sheng1
-陠pu1,bu1
+陠pu1 bu1
 陣zhen4
 陦dao3
 陫fei3
-陭yi4,yi3
+陭yi4 yi3
 陮dui4
-陯lun4,lun2
+陯lun4 lun2
 陰yin1
 陱ju1
-陳zhen4,chen2
-陸lu4,liu4
+陳zhen4 chen2
+陸lu4 liu4
 陹sheng1
 陻yin1
-陼zhu3,du3
+陼zhu3 du3
 陽yang2
-陾reng2,er2
+陾reng2 er2
 陿xia2
 隀chong2
-隁yan4,yan3
+隁yan4 yan3
 隂yin1
-隃yu2,shu4
+隃yu2 shu4
 隄di1
 隇wei1
 隉nie4
-隊zhui4,dui4
+隊zhui4 dui4
 辍chuo4
 辎zi1
 辏cou4
-辘lu4,lu5
+辘lu4 lu5
 辚lin2
 軎wei4
 戋jian1
@@ -17418,7 +17418,7 @@
 昃ze4
 昕xin1
 昀yun2
-炅jiong3,gui4
+炅jiong3 gui4
 曷he2
 昝zan3
 昴mao3
@@ -17455,7 +17455,7 @@
 赉lai4
 赇qiu2
 赍ji1
-赕tan4,dan3
+赕tan4 dan3
 赙fu4
 觇chan1
 觊ji4
@@ -17482,9 +17482,9 @@
 掰bai1
 隌an3
 階jie1
-隑gai1,ai2
+隑gai1 ai2
 隒yan3
-隓hui1,duo4
+隓hui1 duo4
 隕yun3
 隖wu4
 隚tang2
@@ -17492,7 +17492,7 @@
 隝dao3
 隞ao2
 隟xi4
-隠yin4,yin3
+隠yin4 yin3
 隡sa4
 隢rao3
 隣lin2
@@ -17501,63 +17501,63 @@
 隦pi2
 隨sui2
 隩yu4
-險xian3,jian3
+險xian3 jian3
 隫fen2
 隬ni3
 隭er2
 隮ji1
 隯dao3
-隱yin4,yin3
+隱yin4 yin3
 隴long3
 隵xi1
 隷li4
 隸li4
-隺que4,he4
+隺que4 he4
 隻zhi1
 隿yi4
 雂qin2
-雃qian1,jie4
+雃qian1 jie4
 雈huan2
 雊gou4
-雋jun4,juan4
+雋jun4 juan4
 雐hu1
 雑za2
 雓yu2
 雔chou2
 雖sui1
 雗han4
-雘wo4,huo4
+雘wo4 huo4
 雙shuang1
-雚huan2,guan4
-雛ju2,chu2
+雚huan2 guan4
+雛ju2 chu2
 雜za2
 雝yong1
 雞ji1
-雟xi1,gui1
+雟xi1 gui1
 雡liu4
 離li2
-難nan5,nan2
+難nan5 nan2
 雤xue2
 雥za2
 雦ji2
 雧ji2
 雫na3
 雬fou3
-雭xi2,se4
+雭xi2 se4
 雮mu4
 雰fen1
 雱pang1
 雲yun2
 雴chi4
 雵yang1
-雺wu4,meng2
+雺wu4 meng2
 電dian4
 雼dang4
-雽hu4,hu1
+雽hu4 hu1
 雿diao4
 霂mu4
 霃chen2
-霅zha2,sha4
+霅zha2 sha4
 霊ling2
 霋qi1
 霌zhou1
@@ -17568,8 +17568,8 @@
 霕tun2
 霗ling2
 霘dong4
-霙ying1,yang1
-霚wu4,meng2
+霙ying1 yang1
+霚wu4 meng2
 霛ling2
 霝ling2
 霟hong2
@@ -17583,7 +17583,7 @@
 毵san1
 毹shu1
 氅chang3
-氇lu5,lu1
+氇lu5 lu1
 氆pu3
 氍qu2
 氕pie1
@@ -17689,17 +17689,17 @@
 霺wei2
 霼xi4
 霽ji4
-霿wu4,mao4
+霿wu4 mao4
 靀meng2
-靁lei4,lei2
+靁lei4 lei2
 靂li4
-靃sui3,huo4
+靃sui3 huo4
 靄ai3
 靅fei4
 靆dai4
-靇long2,ling2
-靈ling5,ling2
-靉yi3,ai4
+靇long2 ling2
+靈ling5 ling2
+靉yi3 ai4
 靊feng1
 靋li4
 靌bao3
@@ -17708,19 +17708,19 @@
 靔tian1
 靕zhen1
 靗cheng1
-靘qing4,jing4
-靚liang4,jing4
-靜jing5,jing4
+靘qing4 jing4
+靚liang4 jing4
+靜jing5 jing4
 靝tian1
 靟fei1
 靣mian4
 靤bao4
-靦tian3,mian3
+靦tian3 mian3
 靧hui4
-靨ye4,yan3
+靨ye4 yan3
 靪ding1
 靫cha2
-靬qian2,jian1
+靬qian2 jian1
 靭ren4
 靮di2
 靯du4
@@ -17737,26 +17737,26 @@
 靾yi4
 靿yao4
 鞀tao2
-鞁bi4,bei4
+鞁bi4 bei4
 鞂jie1
 鞃hong2
 鞄pao2
 鞇yin1
-鞈sa3,ge2
+鞈sa3 ge2
 鞉tao2
-鞊jie2,ji2
+鞊jie2 ji2
 鞌an1
 鞎hen2
 鞏gong3
 鞓ting1
-鞕ying4,bian1
+鞕ying4 bian1
 鞖sui1
 鞗tiao2
-鞙xuan4,juan1
+鞙xuan4 juan1
 鞚kong4
 鞛beng3
 鞜ta4
-鞝zhang3,shang4
+鞝zhang3 shang4
 臁lian2
 膦lin4
 欤yu2
@@ -17796,7 +17796,7 @@
 炫xuan4
 炱tai2
 烨ye4
-烊yang4,yang2
+烊yang4 yang2
 焐wu4
 焓han2
 焖men4
@@ -17851,37 +17851,37 @@
 禳rang2
 忑te4
 忐tan3
-鞞bing3,bi4
+鞞bing3 bi4
 鞟kuo4
 鞡la5
-鞢zha2,die2
+鞢zha2 die2
 鞤bang1
 鞥eng1
 鞦qiu1
 鞧qiu1
-鞨she2,he2
+鞨she2 he2
 鞩qiao4
-鞪mu4,mou2
-鞬jian4,jian1
+鞪mu4 mou2
+鞬jian4 jian1
 鞮di1
 鞰yun4
-鞱tao4,tao1
+鞱tao4 tao1
 鞳ta4
 鞵xie2
 鞶pan2
 鞷ge2
-鞸bing3,bi4
+鞸bing3 bi4
 鞹kuo4
 鞺tang1
 鞻lou2
-鞼hui4,gui4
+鞼hui4 gui4
 鞽qiao2
 鞾xue1
 鞿ji1
 韀jian1
 韁jiang1
 韂chan4
-韃ta4,da2
+韃ta4 da2
 韄hu4
 韅xian3
 韆qian1
@@ -17892,11 +17892,11 @@
 韋wei2
 韌ren4
 韍fu2
-韎wa4,mei4
-韏quan4,juan4
+韎wa4 mei4
+韏quan4 juan4
 韐ge2
 韑wei3
-韒shao1,qiao4
+韒shao1 qiao4
 韓han2
 韔chang4
 韕kuo4
@@ -17904,14 +17904,14 @@
 韘she4
 韙wei3
 韚ge2
-韛fu2,bai4
+韛fu2 bai4
 韜tao1
-韝gou1,bei4
-韞yun4,wen1
+韝gou1 bei4
+韞yun4 wen1
 韟gao1
 韠bi4
-韡xue1,wei3
-韢sui4,hui4
+韡xue1 wei3
+韢sui4 hui4
 韣du2
 韤wa4
 韥du2
@@ -17924,7 +17924,7 @@
 韴za2
 韷le4
 韸peng2
-韹ying1,huang2
+韹ying1 huang2
 韺ying1
 韻yun4
 韼peng2
@@ -17932,13 +17932,13 @@
 韾yin1
 響xiang3
 頀hu4
-頁ye4,xie2
+頁ye4 xie2
 頂ding3
 頃qing3
 頄kui2
-項xiang5,xiang4
+項xiang5 xiang4
 順shun4
-頇han1,an4
+頇han1 an4
 須xu1
 頉yi2
 頊xu1
@@ -17961,9 +17961,9 @@
 憝dui4
 懋mao4
 懑men4
-戆zhuang4,gang4
+戆zhuang4 gang4
 聿yu4
-沓da2,ta4
+沓da2 ta4
 泶xue2
 淼miao3
 矶ji1
@@ -18028,7 +18028,7 @@
 眈dan1
 眚sheng3
 眢yuan1
-眙yi2,chi4
+眙yi2 chi4
 眭sui1
 眦zi4
 眵chi1
@@ -18039,36 +18039,36 @@
 睃suo1
 睚ya2
 睨ni4
-頏hang2,gang1
+頏hang2 gang1
 預yu4
-頑wan2,kun1
-頒fen2,ban1
-頓dun4,du2
+頑wan2 kun1
+頒fen2 ban1
+頓dun4 du2
 頔di2
-頕dian4,dan1
+頕dian4 dan1
 頖pan4
 頗po1
 領ling3
 頙che4
 頚jing4
 頛lei4
-頜he2,ge2
+頜he2 ge2
 頝qiao1
-頞e4,an4
+頞e4 an4
 頟e2
 頠wei3
-頡xie2,jie2
+頡xie2 jie2
 頢kuo4
 頣shen3
 頤yi2
 頥yi2
-頦ke2,ke1
-頨yu3,bian4
+頦ke2 ke1
+頨yu3 bian4
 頪lei4
-頫tiao4,fu3
+頫tiao4 fu3
 頬jia2
-頭tou5,tou2
-頮pou1,hui4
+頭tou5 tou2
+頮pou1 hui4
 頯kui2
 頰jia2
 頱luo1
@@ -18078,7 +18078,7 @@
 頵yun1
 頶hu2
 頷han4
-頸jing3,geng3
+頸jing3 geng3
 頹tui2
 頺tui2
 頻pin2
@@ -18087,14 +18087,14 @@
 頾zi1
 頿zi1
 顀chui2
-顁ding4,ding3
-顂lai4,lai2
-顃tan2,shan3
+顁ding4 ding3
+顂lai4 lai2
+顃tan2 shan3
 顄han4
 顅qian1
 顆ke1
-顇zu2,cui4
-顈xian4,jiong3
+顇zu2 cui4
+顈xian4 jiong3
 顉qin1
 顊yi2
 顋sai1
@@ -18102,23 +18102,23 @@
 額e2
 顎e4
 顏yan2
-顐wen4,hun2
-顑yan4,kan3
-顒yu2,yong2
+顐wen4 hun2
+顑yan4 kan3
+顒yu2 yong2
 顓zhuan1
 顔yan2
 顖xin4
 顗yi3
 願yuan4
 顙sang3
-顚tian2,dian1
-顛tian2,dian1
+顚tian2 dian1
+顛tian2 dian1
 顜jiang3
-顝kui1,kua3
+顝kui1 kua3
 類lei4
 顟lao2
 顠piao3
-顡zhuai4,wai4
+顡zhuai4 wai4
 顢man1
 顣cu4
 顤yao2
@@ -18126,9 +18126,9 @@
 顦qiao2
 顧gu4
 顨xun4
-顩yan3,qin4
+顩yan3 qin4
 顪hui4
-顫zhan4,chan4
+顫zhan4 chan4
 顬ru2
 顭meng2
 顮bin1
@@ -18229,28 +18229,28 @@
 顯xian3
 顰pin2
 顱lu2
-顲lin3,lan3
+顲lin3 lan3
 顳nie4
 顴quan2
 颋ting3
 颎jiong3
 颒hui4
 颕ying3
-颙yu2,yong2
+颙yu2 yong2
 颣lei4
-風feng3,feng1
-颩diu1,diao1
+風feng3 feng1
+颩diu1 diao1
 颫fu2
 颬xia1
 颭zhan3
-颮pao2,biao1
+颮pao2 biao1
 颯sa4
-颰fu2,ba2
+颰fu2 ba2
 颱tai2
 颲lie4
-颳ji3,gua1
+颳ji3 gua1
 颴xuan4
-颵xiao1,shao1
+颵xiao1 shao1
 颶ju4
 颷biao1
 颸si1
@@ -18259,11 +18259,11 @@
 颻yao2
 颼sou1
 颽kai3
-颾sou1,sao1
+颾sou1 sao1
 颿fan1
 飀liu2
 飁xi2
-飂liu4,liao2
+飂liu4 liao2
 飃piao1
 飄piao1
 飅liu2
@@ -18273,7 +18273,7 @@
 飉liao2
 飊biao1
 飋se4
-飌feng3,feng1
+飌feng3 feng1
 飍xiu1
 飏yang2
 飐zhan3
@@ -18293,15 +18293,15 @@
 飩tun2
 飪ren4
 飫yu4
-飬yang3,juan4
-飭shi4,chi4
-飮yin4,yin3
+飬yang3 juan4
+飭shi4 chi4
+飮yin4 yin3
 飯fan4
 飰fan4
-飱sun1,can1
-飲yin4,yin3
-飴yi2,si4
-飵zuo4,ze2
+飱sun1 can1
+飲yin4 yin3
+飴yi2 si4
+飵zuo4 ze2
 飶bi4
 飷jie3
 飸tao1
@@ -18314,10 +18314,10 @@
 飿duo4
 餀hai4
 餁ren4
-餂tian3,tian2
+餂tian3 tian2
 餃jiao3
-餄jia2,he2
-餅bing5,bing3
+餄jia2 he2
+餅bing5 bing3
 餆yao2
 餇tong2
 铩sha1
@@ -18332,7 +18332,7 @@
 铼lai2
 铽te4
 铿keng1
-锃zeng4,zeng1
+锃zeng4 zeng1
 锂li3
 锆gao4
 锇e2
@@ -18355,7 +18355,7 @@
 锪huo1
 锫pei2
 锩juan3
-锬xian1,tan2
+锬xian1 tan2
 锱zi1
 锲qie4
 锴kai3
@@ -18373,7 +18373,7 @@
 镉ge2
 镌juan1
 镎na2
-镏liu4,liu2
+镏liu4 liu2
 镒yi4
 镓jia1
 镔bin1
@@ -18385,15 +18385,15 @@
 镞zu2
 镟xuan4
 镝di2
-镡xin2,chan2
+镡xin2 chan2
 镢jue2
 镤pu2
 镥lu3
-镦dun1,dui4
+镦dun1 dui4
 镧lan2
 镨pu3
 镩cuan1
-镪qiang3,qiang1
+镪qiang3 qiang1
 镫deng4
 镬huo4
 镯zhuo2
@@ -18420,17 +18420,17 @@
 餋juan4
 餌er3
 餏xi1
-餑bo5,bo1
+餑bo5 bo1
 餒nei3
 餓e4
-餔bu4,bu1
+餔bu4 bu1
 餕jun4
 餖dou4
 餗su4
 餘yu2
-餙xi1,shi4
+餙xi1 shi4
 餚yao2
-餛kun1,hun2
+餛kun1 hun2
 餜guo3
 餝shi4
 餞jian4
@@ -18439,33 +18439,33 @@
 餡xian4
 餢bu4
 餣ye4
-餤tan2,dan4
+餤tan2 dan4
 餥fei1
 餦zhang1
-餧wei4,nei3
+餧wei4 nei3
 館guan3
 餩e4
-餫yun4,hun2
+餫yun4 hun2
 餬hu2
 餭huang2
 餯hui4
-餰zhan1,jian1
+餰zhan1 jian1
 餱hou2
-餲he2,ai4
-餳xing2,tang2
+餲he2 ai4
+餳xing2 tang2
 餴fen1
 餵wei4
 餶gu3
-餷zha5,cha1
+餷zha5 cha1
 餸song4
 餹tang2
 餺bo2
 餻gao1
 餼xi4
 餽kui4
-餾liu4,liu2
+餾liu4 liu2
 餿sou1
-饀tao2,tao1
+饀tao2 tao1
 饁ye4
 饃mo2
 饄tang2
@@ -18480,7 +18480,7 @@
 饍shan4
 饎chi4
 饏dan4
-饐yi4,ye1
+饐yi4 ye1
 饑ji1
 饒rao2
 饓cheng1
@@ -18496,11 +18496,11 @@
 饟xiang3
 饠luo2
 饡zan4
-饢nang3,nang2
+饢nang3 nang2
 饤ding4
 饦tuo1
 饳duo4
-饸jia2,he2
+饸jia2 he2
 饻xi1
 饾dou4
 馂jun4
@@ -18572,7 +18572,7 @@
 疣you2
 疳gan1
 疴ke1
-疸dan3,da5
+疸dan3 da5
 痄zha4
 疱pao4
 疰zhu4
@@ -18592,11 +18592,11 @@
 痿wei3
 瘐yu3
 瘀yu1
-瘅dan4,dan1
-瘌la5,la4
+瘅dan4 dan1
+瘌la5 la4
 瘗yi4
 瘊hou2
-瘥chai4,cuo2
+瘥chai4 cuo2
 瘘lou4
 瘕jia3
 瘙sao4
@@ -18606,7 +18606,7 @@
 馛bo2
 馜ni3
 馝bi4
-馞po4,bo2
+馞po4 bo2
 馟tu2
 馠han1
 馡fei1
@@ -18614,35 +18614,35 @@
 馣an1
 馤ai4
 馦xian1
-馧yun1,wo4
+馧yun1 wo4
 馩fen2
 馪pin1
 馫xin1
 馬ma3
 馭yu4
-馮ping2,feng2
-馯han4,han2
+馮ping2 feng2
+馯han4 han2
 馰di2
-馱tuo2,duo4
+馱tuo2 duo4
 馲tuo1
 馳chi2
 馴xun4
 馵zhu4
-馶zhi1,shi4
+馶zhi1 shi4
 馷pei4
-馸xin4,jin4
+馸xin4 jin4
 馹ri4
 馺sa4
 馻yun3
 馼wen2
 馽zhi2
-馾dan4,dan3
+馾dan4 dan3
 馿lv2
 駀you2
 駁bo2
 駂bao3
-駃kuai4,jue2
-駄tuo2,duo4
+駃kuai4 jue2
+駄tuo2 duo4
 駆qu1
 駇wen2
 駈qu1
@@ -18655,13 +18655,13 @@
 駏ju4
 駐zhu4
 駑nu2
-駒ju4,ju1
+駒ju4 ju1
 駓pi1
-駔zu4,zang3
+駔zu4 zang3
 駕jia4
 駖ling2
 駗zhen3
-駘tai2,dai4
+駘tai2 dai4
 駙fu4
 駚yang3
 駛shi3
@@ -18677,7 +18677,7 @@
 駥rong2
 駦teng2
 駧dong4
-駨xun1,xuan4
+駨xun1 xuan4
 駩quan1
 駪shen1
 駫jiong1
@@ -18686,7 +18686,7 @@
 駮bo2
 駯zhu1
 駰yin1
-駱luo4,jia4
+駱luo4 jia4
 駳dan4
 駴hai4
 駵liu2
@@ -18725,7 +18725,7 @@
 窠ke1
 窬yu2
 窨xun1
-窭lou2,ju4
+窭lou2 ju4
 窳yu3
 衤yi1
 衩cha3
@@ -18739,17 +18739,17 @@
 袼ge1
 裉ken4
 裢lian2
-裎cheng3,cheng2
+裎cheng3 cheng2
 裣lian3
 裥jian3
 裱biao3
 褚chu3
-裼xi1,ti4
+裼xi1 ti4
 裨bi4
 裾ju1
 裰duo1
 褡da1
-褙bei5,bei4
+褙bei5 bei4
 褓bao3
 褛lv3
 褊bian3
@@ -18759,7 +18759,7 @@
 襁qiang3
 襦ru2
 襻pan4
-疋ya3,pi3
+疋ya3 pi3
 胥xu1
 皲jun1
 皴cun1
@@ -18787,20 +18787,20 @@
 覃tan2
 顸han1
 颀qi2
-颃hang2,gang1
-駺liang2,lang2
+颃hang2 gang1
+駺liang2 lang2
 駻han4
 駼tu2
 駽xuan1
 駾tui4
 駿jun4
-騀e3,e2
+騀e3 e2
 騁cheng3
 騂xing1
-騃si4,ai2
+騃si4 ai2
 騄lu4
 騅zhui1
-騆zhou1,dong4
+騆zhou1 dong4
 騇she4
 騈pian2
 騉kun1
@@ -18808,7 +18808,7 @@
 騋lai2
 騌zong1
 騍ke4
-騎qi2,ji4
+騎qi2 ji4
 騏qi2
 騐yan4
 騑fei1
@@ -18833,33 +18833,33 @@
 騥rou2
 騦si1
 騧gua1
-騩tui2,gui1
+騩tui2 gui1
 騪sou1
-騫qian1,jian3
+騫qian1 jian3
 騬cheng2
 騭zhi4
 騮liu2
 騯peng2
-騰teng5,teng1
+騰teng5 teng1
 騱xi2
 騲cao3
 騳du2
 騴yan4
 騵yuan2
-騶zhu1,zou1
+騶zhu1 zou1
 騷sao1
 騸shan4
 騹qi2
-騺zhi4,chi4
+騺zhi4 chi4
 騻shuang1
 騼lu4
 騽xi2
 騾luo2
 騿zhang1
-驀mo4,ma4
-驁yao4,ao4
+驀mo4 ma4
+驁yao4 ao4
 驂can1
-驃piao4,biao1
+驃piao4 biao1
 驄cong1
 驅qu1
 驆bi4
@@ -18881,7 +18881,7 @@
 驖tie3
 驗yan4
 驘luo2
-驙zhan4,zhan1
+驙zhan4 zhan1
 颉jie2
 颌he2
 颍ying3
@@ -18900,7 +18900,7 @@
 虬qiu2
 虮ji3
 虿chai4
-虺hui3,hui1
+虺hui3 hui1
 虼ge4
 虻meng2
 蚨fu2
@@ -18914,12 +18914,12 @@
 蚓yin3
 蚩chi1
 蚶han1
-蛄gu3,gu1
+蛄gu3 gu1
 蚵ke1
 蛎li4
 蚰you2
 蚺ran2
-蚱zha5,zha4
+蚱zha5 zha4
 蚯qiu1
 蛉ling2
 蛏cheng1
@@ -18929,7 +18929,7 @@
 蛲nao2
 蛭zhi4
 蛳si1
-蛐qu5,qu1
+蛐qu5 qu1
 蜓ting2
 蛞kuo4
 蛴qi2
@@ -18938,7 +18938,7 @@
 蛑mou2
 蜃shen4
 蜇zhe1
-蛸xiao1,shao1
+蛸xiao1 shao1
 蜈wu2
 蜊li2
 蜍chu2
@@ -18948,7 +18948,7 @@
 蜞qi2
 蜥xi1
 蜮yu4
-蜚fei3,fei1
+蜚fei3 fei1
 蜾guo3
 蝈guo1
 蜴yi4
@@ -18969,9 +18969,9 @@
 蝓yu2
 蝣you2
 蝼lou2
-蝤you2,qiu2
+蝤you2 qiu2
 蝙bian1
-蝥wu2,mao2
+蝥wu2 mao2
 螓qin2
 螯ao2
 螨man3
@@ -18979,11 +18979,11 @@
 驚jing1
 驛yi4
 驜ye4
-驝zhe2,tuo1
+驝zhe2 tuo1
 驞pin1
 驟zhou4
 驠yan4
-驡zang3,long2
+驡zang3 long2
 驢lv2
 驣teng2
 驤xiang1
@@ -18993,45 +18993,45 @@
 驨xi2
 驩huan1
 驪li2
-驫piao1,biao1
+驫piao1 biao1
 驲ri4
 骃yin1
-骉piao1,biao1
+骉piao1 biao1
 骍xing1
 骎qin1
 骔zong1
 骕su4
 骙kui2
 骦shuang1
-骩wei3,wan2
-骪wei3,wan2
-骫wei3,wan2
+骩wei3 wan2
+骪wei3 wan2
+骫wei3 wan2
 骬yu2
 骭gan4
 骮yi4
 骯ang1
 骲bao4
 骳bei4
-骴zhai4,ci1
+骴zhai4 ci1
 骵ti3
-骹qiao1,jiao1
+骹qiao1 jiao1
 骻kua4
 骽tui3
 骾geng3
 骿pian2
 髃yu2
 髄sui3
-髆po4,bo2
+髆po4 bo2
 髇xiao1
-髈pang3,bang3
-髉jue2,bo2
-髊cuo1,ci1
+髈pang3 bang3
+髉jue2 bo2
+髊cuo1 ci1
 髍mo2
 髎liao2
 髏lou2
 髐xiao1
-髒zang3,zang1
-體ti3,ti1
+髒zang3 zang1
+體ti3 ti1
 髕bin4
 髖kuan1
 髗lu2
@@ -19042,7 +19042,7 @@
 髝lao2
 髞sao4
 髠kun1
-髢ti4,di2
+髢ti4 di2
 髣fang3
 髤xiu1
 髥ran2
@@ -19051,25 +19051,25 @@
 髩bin4
 髪fa4
 髬pi1
-髮fa5,fa4
-髰ti4,di4
+髮fa5 fa4
+髰ti4 di4
 髱bao4
 髲bi4
-髳rou2,mao2
-髴fu2,fei4
+髳rou2 mao2
+髴fu2 fei4
 髵er2
-髶rong2,er4
+髶rong2 er4
 髷qu1
 髸gong1
-髺yue4,kuo4
+髺yue4 kuo4
 髼peng2
 髽zhua1
-髾shao3,shao1
+髾shao3 shao1
 髿suo1
 鬀ti4
 鬁li4
 鬂bin4
-鬄ti4,di4
+鬄ti4 di4
 鬅peng2
 鬆song1
 蟆ma2
@@ -19098,7 +19098,7 @@
 蟾chan2
 蠊lian2
 蠛mie4
-蠡li3,li2
+蠡li3 li2
 蠹du4
 蠼qu2
 缶fou3
@@ -19170,7 +19170,7 @@
 鬉zong1
 鬊shun4
 鬋jian3
-鬌duo3,chui2
+鬌duo3 chui2
 鬍hu2
 鬎la4
 鬐qi2
@@ -19178,7 +19178,7 @@
 鬒zhen3
 鬔peng2
 鬕ma4
-鬖san4,san1
+鬖san4 san1
 鬗man2
 鬘man2
 鬙seng1
@@ -19186,15 +19186,15 @@
 鬛lie4
 鬜qian1
 鬝qian1
-鬞nang4,nang2
-鬠kuo4,kuai4
+鬞nang4 nang2
+鬠kuo4 kuai4
 鬡ning2
 鬢bin4
-鬤rang2,ning2
+鬤rang2 ning2
 鬥dou4
 鬦dou4
-鬧nao5,nao4
-鬨xiang4,hong4
+鬧nao5 nao4
+鬨xiang4 hong4
 鬩xi4
 鬪dou4
 鬫han3
@@ -19204,19 +19204,19 @@
 鬰yu4
 鬱yu4
 鬳yan4
-鬴li4,fu3
-鬵xin2,qin2
+鬴li4 fu3
+鬵xin2 qin2
 鬶gui1
 鬸liu4
-鬹xie2,gui1
+鬹xie2 gui1
 鬺shang1
 鬽mei4
-鬾qi2,ji4
+鬾qi2 ji4
 鬿qi2
 魀ga4
 魆xu1
-魊yu4,huo4
-魋zhui1,tui2
+魊yu4 huo4
+魋zhui1 tui2
 魌qi1
 魎liang3
 魐gan1
@@ -19230,33 +19230,33 @@
 魚yu2
 魛dao1
 魜ren2
-魝jie2,ji4
-魟hong2,gong1
+魝jie2 ji4
+魟hong2 gong1
 魠tuo1
-魡diao4,di2
+魡diao4 di2
 魢ji3
 魣yu2
-魤hua4,e2
-魥qie4,e4
-魦sha1,suo1
-魧hang2,hang1
+魤hua4 e2
+魥qie4 e4
+魦sha1 suo1
+魧hang2 hang1
 魨tun2
 魩mo4
 魪jie4
 魫shen3
 魬ban3
-魭yuan2,wan3
+魭yuan2 wan3
 魮pi2
 魯lu3
 魰wen2
-魱hu4,hu2
+魱hu4 hu2
 魲lu2
-魳za1,shi1
+魳za1 shi1
 魴fang2
-魵fen4,fen2
+魵fen4 fen2
 魶na4
 魷you2
-魺he2,ge3
+魺he2 ge3
 魻xia1
 簟dian4
 簪zan1
@@ -19307,7 +19307,7 @@
 粝li4
 粜tiao4
 粞xi1
-粢zi1,ci1
+粢zi1 ci1
 粲can4
 粼lin2
 粽zong4
@@ -19330,10 +19330,10 @@
 翩pian1
 翮he2
 翳yi4
-糸mi4,jiao3
+糸mi4 jiao3
 絷zhi2
 綦qi2
-綮qing3,qi3
+綮qing3 qi3
 繇yao2
 纛dao4
 麸fu1
@@ -19352,57 +19352,57 @@
 酎zhou4
 酏yi4
 酤gu1
-魼xie2,qu1
-魽han2,han1
-魾pi2,pi1
-魿ling2,lin2
+魼xie2 qu1
+魽han2 han1
+魾pi2 pi1
+魿ling2 lin2
 鮀tuo2
-鮁bo1,ba4
+鮁bo1 ba4
 鮂qiu2
 鮃ping2
 鮄fu2
 鮅bi4
-鮆ji4,ci3
+鮆ji4 ci3
 鮇wei4
-鮈qu2,ju1
+鮈qu2 ju1
 鮉diao1
-鮊bo2,ba4
+鮊bo2 ba4
 鮋you2
 鮌gun3
-鮍pi2,pi1
+鮍pi2 pi1
 鮎nian2
-鮏zheng1,xing1
+鮏zheng1 xing1
 鮐tai2
-鮑bao4,bao1
+鮑bao4 bao1
 鮒fu4
-鮓zha4,zha3
+鮓zha4 zha3
 鮔ju4
 鮕gu1
 鮖shi2
 鮗dong1
 鮘chou2
-鮙ta3,die2
+鮙ta3 die2
 鮚jie2
 鮛shu1
 鮜hou4
 鮝xiang3
 鮞er2
-鮟an4,an1
+鮟an4 an1
 鮠wei2
 鮡zhao4
 鮢zhu1
 鮣yin4
 鮤lie4
-鮥luo4,ge2
+鮥luo4 ge2
 鮦tong2
-鮧yi2,ti3
-鮨yi4,qi2
-鮩bing4,bi4
+鮧yi2 ti3
+鮨yi4 qi2
+鮩bing4 bi4
 鮪wei3
 鮫jiao1
-鮬ku4,ku1
-鮭xie2,gui1
-鮮xian3,xian1
+鮬ku4 ku1
+鮭xie2 gui1
+鮮xian3 xian1
 鮯ge2
 鮰hui2
 鮱lao3
@@ -19424,10 +19424,10 @@
 鯂su1
 鯃wu2
 鯄qiu2
-鯅shen3,shan1
+鯅shen3 shan1
 鯆pu1
 鯇huan4
-鯈tiao2,chou2
+鯈tiao2 chou2
 鯉li3
 鯊sha1
 鯋sha1
@@ -19439,7 +19439,7 @@
 鯓shen1
 鯔zi1
 鯕qi2
-鯖zheng1,qing1
+鯖zheng1 qing1
 鯗xiang3
 鯘nei3
 鯙chun2
@@ -19463,7 +19463,7 @@
 醢hai3
 醣tang2
 醪lao2
-醭bu4,bu2
+醭bu4 bu2
 醮jiao4
 醯xi1
 醵ju4
@@ -19476,15 +19476,15 @@
 踅xue2
 蹙cu4
 蹩bie2
-趵bo1,bao4
+趵bo1 bao4
 趿ta1
 趼jian3
 趺fu1
-跄qiang4,qiang1
+跄qiang4 qiang1
 跖zhi2
 跗fu1
 跚shan1
-跞luo4,li4
+跞luo4 li4
 跎tuo2
 跏jia1
 跛bo3
@@ -19538,13 +19538,13 @@
 觖jue2
 觞shang1
 觚gu1
-觜zui3,zi1
+觜zui3 zi1
 鯜qie4
 鯝gu4
 鯞zhou3
 鯟dong1
 鯠lai2
-鯡fei4,fei1
+鯡fei4 fei1
 鯢ni2
 鯣yi4
 鯤kun1
@@ -19558,10 +19558,10 @@
 鯬li2
 鯭meng3
 鯮zong1
-鯯zhi4,ji4
+鯯zhi4 ji4
 鯰nian2
 鯴shi1
-鯵shen1,can1
+鯵shen1 can1
 鯶huan4
 鯷ti2
 鯸hou2
@@ -19580,7 +19580,7 @@
 鰅yu2
 鰆chun1
 鰇rou2
-鰈qie4,die2
+鰈qie4 die2
 鰉huang2
 鰊lian4
 鰋yan3
@@ -19592,14 +19592,14 @@
 鰑yang2
 鰒fu4
 鰓sai1
-鰔jian1,gan3
+鰔jian1 gan3
 鰕xia1
-鰖wei3,tuo3
+鰖wei3 tuo3
 鰗hu2
 鰘shi4
 鰙ruo4
 鰛wen1
-鰜qian4,jian1
+鰜qian4 jian1
 鰝hao4
 鰞wu1
 鰟pang2
@@ -19608,12 +19608,12 @@
 鰢ma3
 鰣shi2
 鰤shi1
-鰥guan4,guan1
+鰥guan4 guan1
 鰦zi1
 鰧teng2
 鰨ta3
 鰩yao2
-鰪ge2,e2
+鰪ge2 e2
 鰫yong2
 鰬qian2
 鰭qi2
@@ -19628,7 +19628,7 @@
 鰷tiao2
 鰸qu1
 鰹jian1
-鰺shen1,can1
+鰺shen1 can1
 鰻man2
 觥gong1
 觫su4
@@ -19657,7 +19657,7 @@
 龉yu3
 龊chuo4
 龌wo4
-黾min3,mian3
+黾min3 mian3
 鼋yuan2
 鼍tuo2
 隹zhui1
@@ -19731,8 +19731,8 @@
 鱀ji4
 鱁zhu2
 鱂jiang1
-鱃xiu1,qiu1
-鱄zhuan1,tuan2
+鱃xiu1 qiu1
+鱄zhuan1 tuan2
 鱅yong1
 鱆zhang1
 鱇kang1
@@ -19747,36 +19747,36 @@
 鱐su4
 鱑huang2
 鱒zun1
-鱓tuo2,shan4
+鱓tuo2 shan4
 鱔shan4
 鱕fan1
-鱖jue2,gui4
+鱖jue2 gui4
 鱗lin2
 鱘xun2
 鱙miao2
-鱚xi3,xi1
+鱚xi3 xi1
 鱝fen4
 鱞guan1
 鱟hou4
 鱠kuai4
 鱡zei2
 鱢sao1
-鱣zhan1,shan1
+鱣zhan1 shan1
 鱤gan3
 鱥gui4
-鱦ying4,sheng2
+鱦ying4 sheng2
 鱧li3
 鱨chang2
 鱩lei2
 鱪shu3
 鱬ru2
 鱭ji4
-鱮yu2,xu4
+鱮yu2 xu4
 鱯hu4
 鱰shu3
 鱱li4
-鱲lie4,la4
-鱳lu4,li4
+鱲lie4 la4
+鱳lu4 li4
 鱴mie4
 鱵zhen1
 鱶xiang3
@@ -19784,16 +19784,16 @@
 鱸lu2
 鱹guan4
 鱺li2
-鱻xian3,xian1
+鱻xian3 xian1
 鱽dao1
 鱾ji3
 鲀tun2
-鲃ba4,ba1
-鲄he2,ge3
+鲃ba4 ba1
+鲄he2 ge3
 鲉you2
-鲊zha4,zha3
-鲌bo2,ba4
-鲏pi2,pi1
+鲊zha4 zha3
+鲌bo2 ba4
+鲏pi2 pi1
 鲓kao4
 鲖tong2
 鲗zei2
@@ -19803,7 +19803,7 @@
 鲪jun1
 鲬yong3
 鲯qi2
-鲹shen1,can1
+鲹shen1 can1
 鲾bi1
 鲿chang2
 鳀ti2
@@ -19812,7 +19812,7 @@
 鳈quan2
 鳉jiang1
 鳑pang2
-鳒qian4,jian1
+鳒qian4 jian1
 鳚wei4
 鳛xi2
 鳠hu4
@@ -19911,9 +19911,9 @@
 鼽qiu2
 鼾han1
 齄zha1
-鳣zhan1,shan4
+鳣zhan1 shan4
 鳤guan3
-鳥niao3,diao3
+鳥niao3 diao3
 鳦yi3
 鳧fu2
 鳨li4
@@ -19921,47 +19921,47 @@
 鳪bu3
 鳫yan4
 鳬fu2
-鳭zhao1,diao1
+鳭zhao1 diao1
 鳮ji1
 鳯feng4
-鳱han4,gan1
+鳱han4 gan1
 鳲shi1
 鳳feng4
 鳴ming2
 鳵bao3
 鳶yuan1
-鳷zhi1,chi4
+鳷zhi1 chi4
 鳸hu4
 鳹qin2
-鳺gui1,fu1
-鳻fen2,ban1
+鳺gui1 fu1
+鳻fen2 ban1
 鳼wen2
-鳽qian1,jian1
+鳽qian1 jian1
 鳾shi1
 鳿yu4
 鴀fou3
 鴁yao1
-鴂jue2,gui1
-鴃jue2,gui1
+鴂jue2 gui1
+鴃jue2 gui1
 鴄pi3
 鴅huan1
 鴆zhen4
 鴇bao3
 鴈yan4
-鴉ya3,ya1
+鴉ya3 ya1
 鴊zheng4
-鴋fang3,fang1
+鴋fang3 fang1
 鴌feng4
 鴍wen2
 鴎ou1
 鴏dai4
-鴐jia1,ge1
+鴐jia1 ge1
 鴑ru2
 鴒ling2
-鴓mie4,bi4
+鴓mie4 bi4
 鴔fu2
 鴕tuo2
-鴖wen2,min2
+鴖wen2 min2
 鴗li4
 鴘bian3
 鴙zhi4
@@ -19973,14 +19973,14 @@
 鴟chi1
 鴠dan4
 鴡ju1
-鴢yao3,ao1
+鴢yao3 ao1
 鴣gu1
 鴤zhong1
 鴥yu4
 鴦yang1
 鴧yu4
 鴨ya1
-鴩tie3,hu2
+鴩tie3 hu2
 鴪yu4
 鴬xue2
 鴭dui1
@@ -19989,15 +19989,15 @@
 鴰gua1
 鴱ai4
 鴲zhi1
-鴳yan4,e4
+鴳yan4 e4
 鴴heng2
 鴵xiao1
 鴶jia2
 鴷lie4
 鴸zhu1
-鴹yang2,xiang2
-鴺yi2,ti2
-鴻hong4,hong2
+鴹yang2 xiang2
+鴺yi2 ti2
+鴻hong4 hong2
 鴼lu4
 鴽ru2
 鴾mou2
@@ -20005,16 +20005,16 @@
 鵀ren2
 鵁xiao1
 鵂xiu1
-鵃zhou1,diao3
+鵃zhou1 diao3
 鵄chi1
-鵅luo4,ge2
+鵅luo4 ge2
 鵉luan2
 鵊jia2
 鵋ji4
 鵌tu2
-鵍juan1,huan1
+鵍juan1 huan1
 鵎tuo3
-鵏bu3,bu1
+鵏bu3 bu1
 鵐wu2
 鵑juan1
 鵒yu4
@@ -20027,20 +20027,20 @@
 鵙ju2
 鵚tu1
 鵛jing1
-鵜ti2,ti1
+鵜ti2 ti1
 鵝e2
 鵞e2
 鵟kuang2
-鵠hu2,gu3
+鵠hu2 gu3
 鵡wu3
 鵢shen1
-鵣lai4,chi4
+鵣lai4 chi4
 鵤jiao3
 鵦lu4
 鵧ping2
 鵨shu1
 鵩fu2
-鵪ya1,an1
+鵪ya1 an1
 鵫zhuo2
 鵬peng2
 鵭qin2
@@ -20071,40 +20071,40 @@
 鶆lai2
 鶇dong1
 鶈qi1
-鶉tuan2,chun2
+鶉tuan2 chun2
 鶊geng1
 鶋ju1
-鶌qu1,jue2
+鶌qu1 jue2
 鶏ji1
 鶐shu4
 鶒chi4
 鶓miao2
 鶔rou2
-鶕ya1,an1
+鶕ya1 an1
 鶖qiu1
 鶗ti2
 鶘hu2
 鶙ti2
 鶚e4
-鶛jie4,jie1
+鶛jie4 jie1
 鶜mao2
-鶝fu2,bi4
+鶝fu2 bi4
 鶞chun1
 鶟tu2
 鶠yan3
-鶡he4,he2
+鶡he4 he2
 鶢yuan2
 鶣pian1
 鶤kun1
 鶥mei2
 鶦hu2
 鶧ying1
-鶨zhi4,chuan4
+鶨zhi4 chuan4
 鶩wu4
 鶪ju2
-鶬qiang1,cang1
+鶬qiang1 cang1
 鶭fang3
-鶮hu2,he4
+鶮hu2 he4
 鶯ying1
 鶰yuan2
 鶱xian1
@@ -20117,20 +20117,20 @@
 鶸ruo4
 鶹liu2
 鶺ji2
-鶼qian1,jian1
+鶼qian1 jian1
 鶽sun3
 鶾han4
 鶿ci2
 鷀ci2
 鷁yi4
-鷂yao4,yao2
+鷂yao4 yao2
 鷃yan4
 鷄ji1
 鷅li4
 鷆tian2
 鷇kou4
 鷈ti1
-鷉ti1,si1
+鷉ti1 si1
 鷊yi4
 鷋tu2
 鷌ma3
@@ -20141,15 +20141,15 @@
 鷑ji2
 鷒tuan2
 鷓zhe4
-鷔ao4,ao2
-鷕yao3,xiao4
-鷖yi4,yi1
+鷔ao4 ao2
+鷕yao3 xiao4
+鷖yi4 yi1
 鷗ou1
 鷘chi4
-鷙zhi4,zhe2
+鷙zhi4 zhe2
 鷚liu4
 鷛yong1
-鷜lv3,lv2
+鷜lv3 lv2
 鷝bi4
 鷞shuang1
 鷟zhuo2
@@ -20157,7 +20157,7 @@
 鷡wu2
 鷢jue2
 鷣yin2
-鷤ti2,tan2
+鷤ti2 tan2
 鷥si1
 鷦jiao1
 鷧yi4
@@ -20185,7 +20185,7 @@
 鷽xue2
 鷾yi4
 鷿pi4
-鸀zhu2,chu4
+鸀zhu2 chu4
 鸁luo2
 鸂xi1
 鸃yi2
@@ -20212,31 +20212,31 @@
 鸘shuang1
 鸙yue4
 鸚ying1
-鸛huan1,guan4
+鸛huan1 guan4
 鸜qu2
 鸝li2
 鸞luan2
 鸤shi1
-鸧qiang1,cang1
+鸧qiang1 cang1
 鸮xiao1
 鸰ling2
 鸴xue2
 鸻heng2
-鸼zhou1,diao3
+鸼zhou1 diao3
 鹀wu2
 鹍kun1
 鹐qian1
 鹒geng1
 鹓yuan1
 鹔su4
-鹖he4,he2
+鹖he4 he2
 鹙qiu1
 鹝yi4
 鹟weng1
 鹠liu2
 鹡ji2
 鹢yi4
-鹥yi4,yi1
+鹥yi4 yi1
 鹮huan2
 鹯zhan1
 鹲meng2
@@ -20245,31 +20245,31 @@
 鹶jin1
 鹷ling2
 鹸jian3
-鹹xian2,jian3
+鹹xian2 jian3
 鹺cuo2
 鹻jian3
 鹼jian3
-鹽yan4,yan2
+鹽yan4 yan2
 麀you1
 麁cu1
-麃pao2,biao1
+麃pao2 biao1
 麄cu1
 麅pao2
-麆zhu4,cu1
+麆zhu4 cu1
 麉jian1
 麊mi2
 麌yu3
 麍liu2
 麎chen2
-麏qun2,jun1
+麏qun2 jun1
 麐lin2
 麑ni2
 麔jiu4
-麕qun2,jun1
+麕qun2 jun1
 麖jing1
-麗li4,li2
+麗li4 li2
 麘xiang1
-麙yan2,xian2
+麙yan2 xian2
 麚jia1
 麛mi2
 麜li4
@@ -20279,8 +20279,8 @@
 麢ling2
 麣yan2
 麤cu1
-麥mai5,mai4
-麧he4,he2
+麥mai5 mai4
+麧he4 he2
 麨chao3
 麩fu1
 麪mian4
@@ -20298,7 +20298,7 @@
 麷feng1
 麹qu1
 麺mian4
-麼mo2,me5
+麼mo2 me5
 黀zou1
 黁nun2
 黂fen2
@@ -20316,43 +20316,43 @@
 黖xi4
 黗tun1
 黙mo4
-黚qian2,jian1
-點zhan1,dian3
+黚qian2 jian1
+點zhan1 dian3
 黡yan3
 黣mei3
 黤yan3
-黦yue4,ye4
-黨tang3,dang3
+黦yue4 ye4
+黨tang3 dang3
 黫yan1
-黬yan3,yan2
+黬yan3 yan2
 黭yan3
-黮zhen4,dan3
+黮zhen4 dan3
 黰zhen3
 黱dai4
 黲can3
 黳yi1
 黴mei2
-黵zhan3,dan3
+黵zhan3 dan3
 黶yan3
 黷du2
 黸lu2
 黺fen3
-黽min3,meng3
+黽min3 meng3
 黿yuan2
 鼀cu4
 鼁qu4
-鼂zhao1,chao2
+鼂zhao1 chao2
 鼃wa1
 鼄zhu1
 鼅zhi1
-鼆meng3,meng2
+鼆meng3 meng2
 鼇ao2
 鼈bie1
 鼉tuo2
 鼊bi4
-鼌zhao1,chao2
-鼏mi4,jiong1
-鼑zhen1,ding3
+鼌zhao1 chao2
+鼏mi4 jiong1
+鼑zhen1 ding3
 鼒zi1
 鼔gu3
 鼕dong1
@@ -20364,8 +20364,8 @@
 鼞tang1
 鼟teng1
 鼣fei4
-鼤wen4,wen2
-鼥fei4,ba2
+鼤wen4 wen2
+鼥fei4 ba2
 鼦diao1
 鼧tuo2
 鼨zhong1
@@ -20374,27 +20374,27 @@
 鼫shi2
 鼭shi2
 鼮ting2
-鼰xi2,ju2
+鼰xi2 ju2
 鼱jing1
 鼲hun2
-鼳xi2,ju2
+鼳xi2 ju2
 鼴yan3
 鼵tu1
 鼶si1
 鼸xian4
 鼺lei2
 鼼yao4
-鼿wu4,hui1
-齀wu4,hui1
-齁ku4,hou1
+鼿wu4 hui1
+齀wu4 hui1
+齁ku4 hou1
 齂xie4
-齃he4,e4
+齃he4 e4
 齅xiu4
 齆weng4
 齇zha1
 齈nong4
 齉nang4
-齊qi2,ji4
+齊qi2 ji4
 齋zhai1
 齌ji4
 齍zi1
@@ -20404,13 +20404,13 @@
 齓chen4
 齔chen4
 齕he2
-齖ya4,ya2
-齗yin3,yan3
+齖ya4 ya2
+齗yin3 yan3
 齘xie4
 齙bao1
 齚ze2
-齛xie4,shi4
-齜zi1,chai2
+齛xie4 shi4
+齜zi1 chai2
 齝chi1
 齞yan3
 齟ju3
@@ -20420,45 +20420,45 @@
 齣chu1
 齤quan2
 齥xie4
-齦yin2,ken3
+齦yin2 ken3
 齧nie4
 齨jiu4
 齩yao3
 齪chuo4
 齫yun3
-齬yu3,wu2
+齬yu3 wu2
 齭chu3
 齮yi3
 齯ni2
-齰zha4,ce4
-齱zou1,chuo4
+齰zha4 ce4
+齱zou1 chuo4
 齲qu3
 齳yun3
 齴yan3
 齶e4
 齷wo4
 齸yi4
-齹cuo2,ci1
+齹cuo2 ci1
 齺zou1
 齻dian1
 齼chu3
 齽jin4
-齾ya4,e4
+齾ya4 e4
 龁he2
-龂yin3,yan3
-龍mang2,long2
+龂yin3 yan3
+龍mang2 long2
 龎pang2
-龏wo4,gong1
+龏wo4 gong1
 龐pang2
 龑yan3
-龒mang2,long2
-龓long3,long2
+龒mang2 long2
+龓long3 long2
 龔gong1
 龕kan1
 龖da2
 龗ling2
 龘da2
-龜qiu1,gui1
+龜qiu1 gui1
 龝qiu1
 龞bie1
 龡chui1
@@ -20483,8 +20483,8 @@
 lou1
 can3
 chou1
-bei1,ba4
-pa2,ba4
+bei1 ba4
+pa2 ba4
 zhuan1
 qiong2
 kui4
@@ -20494,7 +20494,7 @@
 qing2
 qing2
 shan4
-ye2,ya2
+ye2 ya2
 po1
 shan4
 zhuo1

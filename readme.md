@@ -135,6 +135,8 @@ sapply(c('羌笛何须怨杨柳', '春风不度玉门关'), pinyin)
 
 ## Updates
 
+- 2018-10-09. **version 1.1.3**. Faster. Users can preload the library. A simple library was added. Four-corner codes are supported. A co-author joined.
+- 2018-01-17. **version 1.1.1**. Remove the vignettes.
 - 2017-06-19. **Version 1.1.0**. On CRAN. Fixed some bugs.
 - 2017-06-19. **Version 1.0.2**. Released on CRAN!
 - 2017-06-01. **Version 1.0.0**. `zh2py()` has been removed. Now the main function is `pinyin()`. Submitted to CRAN!
