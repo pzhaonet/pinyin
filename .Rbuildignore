@@ -1,3 +1,8 @@
-^.*\.Rproj$
+LICENCE
 ^\.Rproj\.user$
+\.Rproj$
+^\.gitignore$
+^\.travis\.yml$
+showcase/
+vignettes/
 readme*.*

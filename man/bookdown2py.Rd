@@ -5,7 +5,7 @@
 \title{Convert the Chinese headers of bookdown .Rmd files into Pinyin}
 \usage{
 bookdown2py(folder = "py", remove_curly_bracket = TRUE, nonezh_replace = NULL, 
-    only_first_letter = TRUE)
+    only_first_letter = TRUE, py = NA, dic = c("zh", "zh2"))
 }
 \arguments{
 \item{folder}{character. The folder in which the files are to be converted.}
@@ -15,6 +15,10 @@ bookdown2py(folder = "py", remove_curly_bracket = TRUE, nonezh_replace = NULL,
 \item{nonezh_replace}{NULL or character. Define how to convert non-Chinese characters in mychar. NULL means 'let it be'.}
 
 \item{only_first_letter}{logical. Wheter only the first letter in pinyin.}
+
+\item{py}{See \code{help(pinyin)}.}
+
+\item{dic}{See \code{help(pinzin)}.}
 }
 \value{
 new .Rmd files with Pinyin headers.

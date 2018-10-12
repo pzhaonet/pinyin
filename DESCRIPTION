@@ -1,6 +1,6 @@
 Package: pinyin
 Version: 1.1.3
-Date: 2018-09-10
+Date: 2018-10-10
 Title: Convert Chinese Characters into Pinyin
 Author: Peng Zhao
 Authors@R: c(
@@ -10,7 +10,8 @@ Maintainer: Peng Zhao <pzhao@pzhao.net>
 Depends: R (>= 3.1.0)
 Imports: 
   splitstackshape,
-  data.table
+  data.table,
+  parallel
 Suggests:
 Description: Convert Chinese characters into Pinyin (the official romanization system for Standard Chinese in mainland China, Malaysia, Singapore, and Taiwan. See <https://en.wikipedia.org/wiki/Pinyin> for details).
 License: MIT + file LICENSE
