@@ -1,4 +1,7 @@
-﻿00000 亠
+﻿# source: http://bbs.unispim.com/forum.php?mod=viewthread&tid=31674
+# format = 2
+
+00000 亠
 
 00027 弯
 
