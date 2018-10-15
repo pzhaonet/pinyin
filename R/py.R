@@ -43,9 +43,9 @@ pydic <- function(method = c('quanpin', 'tone', 'toneless'),
   dic <- match.arg(dic)
   mypath <- paste0(.libPaths(), '/pinyin/lib/', dic, '.txt')
   lib <- readLines(mypath[file.exists(mypath)][1], encoding = 'UTF-8')
+  lib <- lib[-grep('^#', lib)] # remove headers
+  lib <- lib[nchar(lib) != 0] # remove blank lines
   if(dic == 'pinyin') {
-    lib <- lib[-grep('^#', lib)] # remove headers
-    lib <- lib[-which(nchar(lib) == 0)] # remove blank lines
     zh <- substr(lib, 1, 1) # chinese char
     bracketloc <- regexpr('\\(', lib)
     if (multi) {
@@ -69,7 +69,7 @@ pydic <- function(method = c('quanpin', 'tone', 'toneless'),
   if(dic == 'pinyin2'){
     zh <- substr(lib, 1, 1)
     if(multi){
-      qp <- substr(lib, 2, nchar(lib))
+      qp <- substr(lib, 3, nchar(lib))
       mylib <-  switch( # extract all pinyins
         method,
         quanpin = qp,
@@ -78,7 +78,7 @@ pydic <- function(method = c('quanpin', 'tone', 'toneless'),
       )
       mylib <- ifelse(grepl(' ', qp), paste0('[', mylib, ']'), mylib)
     } else {
-      qp <- sapply(substr(lib, 2, nchar(lib)), strsplit2)
+      qp <- sapply(substr(lib, 3, nchar(lib)), strsplit2)
       mylib <- switch(method,
                       quanpin = qp,
                       tone = qp,
@@ -86,7 +86,7 @@ pydic <- function(method = c('quanpin', 'tone', 'toneless'),
       mylib <- sapply(mylib, strsplit2)
     }
   }
-  if (only_first_letter) mylib <- substr(mylib, 1, 1)
+  if (only_first_letter) mylib <- gsub('[^a-z]*([a-z]).*', '\\1', mylib)
   mylib <- list2env(setNames(as.list(mylib),zh))
   return(mylib)
 }
