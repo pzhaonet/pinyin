@@ -4,8 +4,6 @@
 #' @param insertchar the character(s) to insert
 #'
 #' @return a new string
-#'
-#' @examples insert(' abc')
 insert <- function(oldchar, insertchar = ','){
   seploc <- min(gregexpr('[a-z]+', oldchar)[[1]])
   paste(substr(oldchar, 1, seploc - 1), substr(oldchar, seploc, nchar(oldchar)), sep = insertchar)
@@ -19,8 +17,6 @@ insert <- function(oldchar, insertchar = ','){
 #' @param nth The *n*th string to extract
 #'
 #' @return a new string
-#'
-#' @examples strsplit2('char1 char2')
 strsplit2 <- function(x, sep = ' ', nth = 1) {
   y <- strsplit(x, split = sep)[[1]]
   return(ifelse(length(y) >= nth, y[nth], NA))

@@ -102,7 +102,8 @@ pydic <- function(method = c('quanpin', 'tone', 'toneless'),
 #' @export
 #'
 #' @examples load_dic()
-load_dic <- function(dic_file = paste0(.libPaths(), '/pinyin/lib/wubi86.txt'), select = 1) {
+load_dic <- function(dic_file = NA, select = 1) {
+  if(is.na(dic_file)) return(message('Please give a valid path or url to the dictionary file.'))
   # read the dictionary file
   dic <- readLines(dic_file, encoding = 'UTF-8')
   # get the format code
@@ -136,11 +137,7 @@ load_dic <- function(dic_file = paste0(.libPaths(), '/pinyin/lib/wubi86.txt'), s
 #'
 #' @return files with new names.
 #' @export
-#' @examples
-#' mydir <- paste0(tempdir(), '/py')
-#' dir.create(mydir)
-#' file.create(paste0(mydir, '/test.txt'))
-#' file.rename2(mydir)
+#' @examples file.rename2py(dic = NA)
 file.rename2py <- function(folder = 'py', dic = NA) {
   if (dir.exists(folder)) {
     if(class(dic)!= 'environment')  return(message('"dic" must be an environment.'))
@@ -162,12 +159,7 @@ file.rename2py <- function(folder = 'py', dic = NA) {
 #'
 #' @return new .Rmd files with Pinyin headers.
 #' @export
-#' @examples
-#' mydir <- paste0(tempdir(), '/py')
-#' dir.create(mydir)
-#' file.create(paste0(mydir, '/test.txt'))
-#' writeLines(text = '# test\n', paste0(mydir, '/test.txt'))
-#' bookdown2py(mydir)
+#' @examples bookdown2py(dic = NA)
 bookdown2py <- function(folder = 'py',
                       remove_curly_bracket = TRUE,
                       other_replace = NULL,
@@ -185,9 +177,10 @@ bookdown2py <- function(folder = 'py',
       if (length(codeloc) > 0) headerloc <- headerloc[!sapply(headerloc, function(x) sum(x > codeloc[seq(1, length(codeloc), by = 2)] & x < codeloc[seq(2, length(codeloc), by = 2)])) == 1]
       if (remove_curly_bracket) md[headerloc] <- gsub(pattern = '\\{.*\\}', '', md[headerloc])
       for (i in headerloc){
-        headerpy <- py(mychar = sub('^#* ', '', md[i]), dic = dic,
-                           sep = '',
-                           other_replace = other_replace)
+        headerpy <- py(char = gsub('^#* ', '', md[i]),
+                       dic = dic,
+                       sep = '',
+                       other_replace = other_replace)
         headerpy <- tolower(headerpy)
         headerpy <- gsub('[^a-z]', '_', headerpy)
         md[i] <- paste(md[i], ' {#', headerpy, '}', sep = '')
@@ -208,12 +201,7 @@ bookdown2py <- function(folder = 'py',
 #'
 #' @return files converted to Pinyin.
 #' @export
-#' @examples
-#' mydir <- paste0(tempdir(), '/py')
-#' dir.create(mydir)
-#' file.create(paste0(mydir, '/test.txt'))
-#' writeLines(text = 'test\n', paste0(mydir, '/test.txt'))
-#' file2py(mydir)
+#' @examples file2py(dic = NA)
 file2py <- function(folder = 'py',
                     backup = TRUE,
                     sep = ' ',
@@ -221,7 +209,6 @@ file2py <- function(folder = 'py',
                     encoding = 'UTF-8',
                     dic = NA) {
   if (dir.exists(folder)) {
-    method <- match.arg(method)
     dic <- match.arg(dic)
     if(class(dic)!= 'environment')  return(message('"dic" must be an environment.'))
     i <- 0

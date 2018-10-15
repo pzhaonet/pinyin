@@ -4,7 +4,7 @@
 \alias{load_dic}
 \title{Load a customized dictionary.}
 \usage{
-load_dic(dic_file = paste0(.libPaths(), "/pinyin/lib/wubi86.txt"), select = 1)
+load_dic(dic_file = NA, select = 1)
 }
 \arguments{
 \item{dic_file}{The path of a dictionary file.}

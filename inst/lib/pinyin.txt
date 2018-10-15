@@ -1,4 +1,4 @@
-# source:CJK 汉字拼音表——42856字 wangyanhan整理制作
+# source: http://bbs.unispim.com/forum.php?mod=viewthread&tid=31644CJK 
 # format = 1
 㐀 qiū(qiu1)
 㐁 tiàn(tian4)

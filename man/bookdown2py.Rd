@@ -22,9 +22,5 @@ new .Rmd files with Pinyin headers.
 Convert the Chinese headers of bookdown .Rmd files into Pinyin
 }
 \examples{
-mydir <- paste0(tempdir(), "/py")
-dir.create(mydir)
-file.create(paste0(mydir, "/test.txt"))
-writeLines(text = "# test\\n", paste0(mydir, "/test.txt"))
-bookdown2py(mydir)
+bookdown2py(dic = NA)
 }

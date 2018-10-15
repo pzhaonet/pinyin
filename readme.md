@@ -14,7 +14,9 @@ This is an R package for converting Chinese characters into pinyin. An brief int
 Since this package deals with Chinese characters, it is presumed that the users speak Chinese. Therefore I wrote the instruction in Chinese. In case that some uses do not speak Chinese and want to use this package as well, please feel free to contact me via email, although the R codes in this document are self-explanary. 
 
 
-这个 R 语言包粗暴地用拼音取名为 [pinyin](https://github.com/pzhaonet/pinyin/)，作用是把汉字转换成拼音。
+这个 R 语言包粗暴地用拼音取名为 [pinyin](https://github.com/pzhaonet/pinyin/)，作用是把汉字转换成拼音。从 v1.1.3 开始，增加了将汉字转换成四角号码或五笔字型的功能。从 v1.1.4 开始，用户可以指定自己的字典，随意转换。
+
+下面的安装使用方法有点老了，函数名都变了，仅供参考。等我有空了再更新。
 
 ## Installation 安装方法 [ān zhuānɡ fānɡ fǎ]
 

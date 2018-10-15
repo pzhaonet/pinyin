@@ -27,9 +27,5 @@ files converted to Pinyin.
 Convert the characters in an entire files according to a given dictionary
 }
 \examples{
-mydir <- paste0(tempdir(), "/py")
-dir.create(mydir)
-file.create(paste0(mydir, "/test.txt"))
-writeLines(text = "test\\n", paste0(mydir, "/test.txt"))
-file2py(mydir)
+file2py(dic = NA)
 }

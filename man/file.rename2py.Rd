@@ -18,8 +18,5 @@ files with new names.
 Rename files according to a given dictionary
 }
 \examples{
-mydir <- paste0(tempdir(), "/py")
-dir.create(mydir)
-file.create(paste0(mydir, "/test.txt"))
-file.rename2(mydir)
+file.rename2py(dic = NA)
 }

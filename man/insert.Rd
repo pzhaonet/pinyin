@@ -17,6 +17,3 @@ a new string
 \description{
 Title insert a character(s) before all lattin letters in a string
 }
-\examples{
-insert(" abc")
-}

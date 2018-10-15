@@ -19,6 +19,3 @@ a new string
 \description{
 split a string and extract the \emph{n}th string
 }
-\examples{
-strsplit2("char1 char2")
-}
