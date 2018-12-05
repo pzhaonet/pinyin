@@ -20,7 +20,6 @@ Since this package deals with Chinese characters, it is presumed that the users 
 
 这个 R 语言包粗暴地用拼音取名为 [pinyin](https://github.com/pzhaonet/pinyin/)，作用是把汉字转换成拼音。从 v1.1.3 开始，增加了将汉字转换成四角号码或五笔字型的功能。从 v1.1.4 开始，用户可以指定自己的字典，随意转换。
 
-下面的安装使用方法有点老了，函数名都变了，仅供参考。等我有空了再更新。
 
 ## Installation 安装方法 [ān zhuānɡ fānɡ fǎ]
 
@@ -36,7 +35,7 @@ devtools::install_github("pzhaonet/pinyin")
 
 函数的用法当然可以看帮助信息就行了。可惜帮助信息里好像没法写中文，而一个处理中文的包的帮助信息和示例却写不了中文，十分遗憾。好在这里可以用中文解释一下。
 
-pinyin 1.0.0 版包含 3 个主函数：
+pinyin 1.1.4 版包含 3 个主函数：
 
 - `pydic()` 用来载入内置的拼音字典（包括拼音，四角，五笔）。
 
