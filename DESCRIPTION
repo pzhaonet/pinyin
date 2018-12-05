@@ -1,8 +1,7 @@
 Package: pinyin
 Version: 1.1.4
 Date: 2018-10-14
-Title: Convert Chinese Characters into Pinyin
-Author: Peng Zhao
+Title: Convert Chinese Characters into Pinyin, Sijiao, Wubi or Other Codes
 Authors@R: c(
     person("Peng", "Zhao", role = c("aut", "cre"), email = "pzhao@pzhao.net"),
     person("Qu", "Cheng", role = "ctb"))
@@ -13,7 +12,7 @@ Imports:
   data.table,
   parallel
 Suggests:
-Description: Convert Chinese characters into Pinyin (the official romanization system for Standard Chinese in mainland China, Malaysia, Singapore, and Taiwan. See <https://en.wikipedia.org/wiki/Pinyin> for details).
+Description: Convert Chinese characters into Pinyin (the official romanization system for Standard Chinese in mainland China, Malaysia, Singapore, and Taiwan. See <https://en.wikipedia.org/wiki/Pinyin> for details), Sijiao (four or five numerical digits per character. See <https://en.wikipedia.org/wiki/Four-Corner_Method>.), Wubi (an input method with five strokes. See <https://en.wikipedia.org/wiki/Wubi_method>) or user-defined codes.
 License: MIT + file LICENSE
 URL: https://github.com/pzhaonet/pinyin
 BugReports: https://github.com/pzhaonet/pinyin/issues
