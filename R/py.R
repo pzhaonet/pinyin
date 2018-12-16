@@ -12,7 +12,7 @@
 py <- function(char = '',
                sep = '_',
                other_replace = NULL,
-               dic = NA) {
+               dic = pydic()) {
   if(class(dic)!= 'environment')  return(message('"dic" must be an environment.'))
   mycharsingle <- strsplit(char, split = '')[[1]]
   myreplace <- function(x) {
@@ -225,4 +225,14 @@ file2py <- function(folder = 'py',
     }
     message('Done!')
   } else {message(paste('The directory', folder, 'does not exist!'))}
+}
+
+#' Former version of py()
+#'
+#' @return a message
+#' @export
+#'
+#' @examples pinyin()
+pinyin <- function(){
+  return(message('The function "pinyin()" is deprecated. Please use "py()" instead.'))
 }
