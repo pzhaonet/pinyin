@@ -1,18 +1,34 @@
-#' Convert Chinese characters into Pinyin.
+#' Convert strings of Chinese characters into Pinyin.
+#'
+#' @param char a string vector
+#' @param sep character. Seperation between the converted pinyin.
+#' @param other_replace NULL or character. Define how to convert non-Chinese characters in mychar. NULL means 'let it be'.
+#' @param dic the preloaded pinyin library using the `pylib()` function.
+#'
+#' @return pinyin of the given Chinese string.
+#' @export
+#'
+#' @examples py(dic = NA)
+py <- function(char = '',
+               sep = '_',
+               other_replace = NULL,
+               dic = pydic()) {
+  sapply(char, py_single, sep = sep, other_replace = other_replace, dic = dic)
+}
+
+#' Convert a string of Chinese characters into Pinyin.
 #'
 #' @param char character. A Chinese character or string to convert to pinyin
 #' @param sep character. Seperation between the converted pinyin.
 #' @param other_replace NULL or character. Define how to convert non-Chinese characters in mychar. NULL means 'let it be'.
 #' @param dic the preloaded pinyin library using the `pylib()` function.
 #'
-#' @return pinyin of the given Chinese character.
+#' @return pinyin of the given Chinese string.
 #' @importFrom stats setNames
-#' @export
-#' @examples py(dic = NA)
-py <- function(char = '',
-               sep = '_',
-               other_replace = NULL,
-               dic = pydic()) {
+py_single <- function(char = '',
+                      sep = '_',
+                      other_replace = NULL,
+                      dic = pydic()) {
   if(class(dic)!= 'environment')  return(message('"dic" must be an environment.'))
   mycharsingle <- strsplit(char, split = '')[[1]]
   myreplace <- function(x) {

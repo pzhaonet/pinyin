@@ -2,12 +2,12 @@
 % Please edit documentation in R/py.R
 \name{py}
 \alias{py}
-\title{Convert Chinese characters into Pinyin.}
+\title{Convert strings of Chinese characters into Pinyin.}
 \usage{
-py(char = "", sep = "_", other_replace = NULL, dic = NA)
+py(char = "", sep = "_", other_replace = NULL, dic = pydic())
 }
 \arguments{
-\item{char}{character. A Chinese character or string to convert to pinyin}
+\item{char}{a string vector}
 
 \item{sep}{character. Seperation between the converted pinyin.}
 
@@ -16,10 +16,10 @@ py(char = "", sep = "_", other_replace = NULL, dic = NA)
 \item{dic}{the preloaded pinyin library using the \code{pylib()} function.}
 }
 \value{
-pinyin of the given Chinese character.
+pinyin of the given Chinese string.
 }
 \description{
-Convert Chinese characters into Pinyin.
+Convert strings of Chinese characters into Pinyin.
 }
 \examples{
 py(dic = NA)

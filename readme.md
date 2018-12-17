@@ -96,7 +96,7 @@ py("春眠不觉晓，处处闻啼鸟", sep = '_', dic = mysj) # 转换
 
 ## Updates
 
-- 2018-12-16. **version 1.1.5**. Compatible with the deprecated function `pinyin()`.
+- 2018-12-16. **version 1.1.5**. Compatible with the deprecated function `pinyin()`. Support vector calculation.
 - 2018-10-15. **version 1.1.4**. Support self-defined dictionaries.
 - 2018-10-09. **version 1.1.3**. Faster. Users can preload the library. A simple library was added. Four-corner codes are supported. A co-author joined.
 - 2018-01-17. **version 1.1.1**. Remove the vignettes.
