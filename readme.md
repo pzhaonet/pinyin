@@ -106,3 +106,8 @@ py("春眠不觉晓，处处闻啼鸟", sep = '_', dic = mysj) # 转换
 - 2017-05-29. **Version 0.2.0**. `zh2py(multi = TRUE)` to display multiple procounciations of a Chinese character.
 - 2017-05-29. **Version 0.1.0**. A new function `file2py()` was created according to Dong's comment. 
 - 2017-05-26. **Version 0.0.0**. Preliminary.
+
+## To do
+
+- A shinyapp to convert seleted text into pinyin
+- An RStudio addin to add chapter labels to bookdown documents.

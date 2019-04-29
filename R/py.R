@@ -70,7 +70,7 @@ pydic <- function(method = c('quanpin', 'tone', 'toneless'),
         method,
         quanpin = qp,
         tone = substr(lib, bracketloc + 1, nchar(lib) - 1),
-        toneless = gsub('[1-4]', '', substr(lib, bracketloc + 1, nchar(lib) - 1))
+        toneless = gsub('\\d*', '', substr(lib, bracketloc + 1, nchar(lib) - 1))
       )
       mylib <- ifelse(grepl(' ', qp), paste0('[', mylib, ']'), mylib)
     } else {
@@ -90,7 +90,7 @@ pydic <- function(method = c('quanpin', 'tone', 'toneless'),
         method,
         quanpin = qp,
         tone = qp,
-        toneless = gsub('[1-4]', '', qp)
+        toneless = gsub('\\d*', '', qp)
       )
       mylib <- ifelse(grepl(' ', qp), paste0('[', mylib, ']'), mylib)
     } else {
@@ -98,7 +98,7 @@ pydic <- function(method = c('quanpin', 'tone', 'toneless'),
       mylib <- switch(method,
                       quanpin = qp,
                       tone = qp,
-                      toneless = gsub("[1-4]","", qp))
+                      toneless = gsub("\\d*","", qp))
       mylib <- sapply(mylib, strsplit2)
     }
   }
