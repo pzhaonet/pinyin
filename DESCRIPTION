@@ -1,6 +1,6 @@
 Package: pinyin
 Version: 1.1.6
-Date: 2019-04-29
+Date: 2019-05-01
 Title: Convert Chinese Characters into Pinyin, Sijiao, Wubi or Other Codes
 Authors@R: c(
     person("Peng", "Zhao", role = c("aut", "cre"), email = "pzhao@pzhao.net"),
