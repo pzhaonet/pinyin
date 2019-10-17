@@ -181,11 +181,12 @@ bookdown2py <- function(folder = 'py',
                       other_replace = NULL,
                       dic = NA) {
   if (dir.exists(folder)) {
-    dic <- match.arg(dic)
+    # dic <- match.arg(dic)
     if(class(dic)!= 'environment')  return(message('"dic" must be an environment.'))
 
     for (filename in dir(folder, full.names = TRUE)) {
-      file.copy(filename, to = paste0('backup', filename))
+      dir.create('backup')
+      file.copy(filename, to = paste0('backup/', basename(filename)))
       md <- readLines(filename, encoding = 'UTF-8')
       headerloc <- grep('^#+', md)
       codeloc <- grep('^```', md)
