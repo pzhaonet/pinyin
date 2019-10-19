@@ -18,3 +18,4 @@ BugReports: https://github.com/pzhaonet/pinyin/issues
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 6.1.1
 NeedsCompilation: no
+LazyData: yes

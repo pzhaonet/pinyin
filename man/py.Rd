@@ -4,7 +4,8 @@
 \alias{py}
 \title{Convert strings of Chinese characters into Pinyin.}
 \usage{
-py(char = "", sep = "_", other_replace = NULL, dic = pydic())
+py(char = "", sep = "_", other_replace = NULL,
+  dic = pinyin::pinyin2)
 }
 \arguments{
 \item{char}{a string vector}
