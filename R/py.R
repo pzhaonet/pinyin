@@ -24,7 +24,6 @@ py <- function(char = '',
 #' @param dic the preloaded pinyin library using the `pylib()` function.
 #'
 #' @return pinyin of the given Chinese string.
-#' @importFrom stats setNames
 
 py_single <- function(char = '',
                        sep = '_',

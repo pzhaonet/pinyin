@@ -1,7 +1,6 @@
-#' Prices of 50,000 round cut diamonds.
+#' The Dictionary to Convert Chinese Characters to Pinyin.
 #'
-#' A dataset containing the prices and other attributes of almost 54,000
-#' diamonds.
+#' A dataset containing the Chinese characters and the corresponding pinyin
 #'
 #' @format A data frame with 20520 rows and 2 variables:
 #' \describe{
