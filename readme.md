@@ -1,13 +1,12 @@
-# pinyin: an R package for converting Chinese characters into pinyin~~,and more~~
+# pinyin: an R package for converting Chinese characters into pinyin
 
 ## Introduction
 
 This is a fork of @pzhaonet's R package pinyin, but faster.
 
-A simple package like this should not have to many dependencies, so I removed them ALL.
 
+> A simple package like this should not have too many dependencies, so I removed them ALL.
 I consider the following functions to be of little to no use to most users, so I removed them ALL.
-
 - pydic, read a dictionary(key-value pairs).
 - load_dic, load a customized dictionary
 - file.rename2py, rename files according to a given dictionary. 
