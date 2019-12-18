@@ -4,7 +4,8 @@ Date: 2019-10-17
 Title: Convert Chinese Characters into Pinyin, Sijiao, Wubi or Other Codes
 Authors@R: c(
     person("Peng", "Zhao", role = c("aut", "cre"), email = "pzhao@pzhao.net"),
-    person("Qu", "Cheng", role = "ctb"))
+    person("Qu", "Cheng", role = "ctb"),
+    person("TC", "Zhang", role = "ctb"))
 Maintainer: Peng Zhao <pzhao@pzhao.net>
 Depends: R (>= 3.1.0)
 Imports: 
@@ -16,5 +17,6 @@ License: MIT + file LICENSE
 URL: https://github.com/pzhaonet/pinyin
 BugReports: https://github.com/pzhaonet/pinyin/issues
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 6.1.1
+RoxygenNote: 7.0.2
 NeedsCompilation: no
+LazyData: true
