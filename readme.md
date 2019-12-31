@@ -111,3 +111,5 @@ py("春眠不觉晓，处处闻啼鸟", sep = '_', dic = mysj) # 转换
 
 - A shinyapp to convert seleted text into pinyin
 - An RStudio addin to add chapter labels to bookdown documents.
+- https://d.cosx.org/d/420961-r-bookdown/23
+- https://d.cosx.org/d/420965-r-pinyin2/9
