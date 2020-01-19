@@ -4,8 +4,14 @@
 \alias{file2py}
 \title{Convert the characters in an entire files according to a given dictionary}
 \usage{
-file2py(folder = "py", backup = TRUE, sep = " ", other_replace = NULL, 
-    encoding = "UTF-8", dic = NA)
+file2py(
+  folder = "py",
+  backup = TRUE,
+  sep = " ",
+  other_replace = NULL,
+  encoding = "UTF-8",
+  dic = NA
+)
 }
 \arguments{
 \item{folder}{character. The folder in which the files are to be converted.}
