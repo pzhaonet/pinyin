@@ -6,4 +6,5 @@ LICENCE
 showcase/
 vignettes/
 readme*.*
+cran-comments.md
 inst2/
