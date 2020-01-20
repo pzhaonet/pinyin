@@ -1,10 +1,9 @@
 #' Convert strings of Chinese characters into Pinyin.
 #'
 #' @param char *Requrired* A input character string with chinese characters.
-#' @param sep character. The seperator between the converted pinyin. Default: '_'
-#' @param other_replace. The replacement for non-Chinese characters
+#' @param sep character  The seperator between the converted pinyin. Default: '_'
+#' @param other_replace character  The replacement for non-Chinese characters
 #' @param dic The preloaded dictionary for conversion. Default: "pinyin::pinyin2"
-#' @param other_replace
 #'
 #' @return A character vector of the converted pinyin string.
 #' @export

@@ -4,8 +4,12 @@
 \alias{pydic}
 \title{Load a Pinyin library}
 \usage{
-pydic(method = c("quanpin", "tone", "toneless"), multi = FALSE, 
-    only_first_letter = FALSE, dic = c("pinyin", "pinyin2"))
+pydic(
+  method = c("quanpin", "tone", "toneless"),
+  multi = FALSE,
+  only_first_letter = FALSE,
+  dic = c("pinyin", "pinyin2")
+)
 }
 \arguments{
 \item{method}{character. The value can be:
