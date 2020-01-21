@@ -1,5 +1,5 @@
 ## Test environments
-* ubuntu 18.04 (on travis-ci), R 3.6.2
+* ubuntu 18.04 (Locally), R 3.6.2
 
 ## R CMD check results
 There were no ERRORs, WARNINGs or NOTEs.
