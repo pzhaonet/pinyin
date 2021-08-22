@@ -12,8 +12,9 @@
 py <- function(char = '',
                sep = '_',
                other_replace = NULL,
-               dic = pydic()) {
-  sapply(char, py_single, sep = sep, other_replace = other_replace, dic = dic)
+               dic = pydic(),
+               camelcase = FALSE) {
+  sapply(char, py_single, sep = sep, other_replace = other_replace, dic = dic, camelcase = camelcase)
 }
 
 #' Convert a string of Chinese characters into Pinyin.
@@ -28,13 +29,18 @@ py <- function(char = '',
 py_single <- function(char = '',
                       sep = '_',
                       other_replace = NULL,
-                      dic = pydic()) {
+                      dic = pydic(),
+                      camelcase = FALSE) {
   if(class(dic)!= 'environment')  return(message('"dic" must be an environment.'))
   mycharsingle <- strsplit(char, split = '')[[1]]
   myreplace <- function(x) {
     if(is.null(dic[[x]])) ifelse(is.null(other_replace), x, other_replace) else dic[[x]]
   }
-  converted <- paste(sapply(mycharsingle, myreplace), collapse = sep)
+  out <- sapply(mycharsingle, myreplace)
+  if(camelcase) {
+    out <- sub('^(\\w?)', '\\U\\1', out, perl=T)
+  }
+  converted <- paste(out, collapse = sep)
   return(converted)
 }
 
@@ -177,9 +183,9 @@ file.rename2py <- function(folder = 'py', dic = NA) {
 #' @export
 #' @examples bookdown2py(dic = NA)
 bookdown2py <- function(folder = 'py',
-                      remove_curly_bracket = TRUE,
-                      other_replace = NULL,
-                      dic = NA) {
+                        remove_curly_bracket = TRUE,
+                        other_replace = NULL,
+                        dic = NA) {
   if (dir.exists(folder)) {
     # dic <- match.arg(dic)
     if(class(dic)!= 'environment')  return(message('"dic" must be an environment.'))
